@@ -1,0 +1,2402 @@
+[
+  {
+    "crop": "Bajra",
+    "district": "Burdwan",
+    "year": 2021,
+    "actual": 0.24,
+    "predicted": -0.46,
+    "residual": 0.7
+  },
+  {
+    "crop": "Bajra",
+    "district": "Karnal",
+    "year": 2021,
+    "actual": 0.32,
+    "predicted": 0.31,
+    "residual": 0.01
+  },
+  {
+    "crop": "Bajra",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 0.29,
+    "predicted": 0.26,
+    "residual": 0.03
+  },
+  {
+    "crop": "Bajra",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 0.32,
+    "predicted": 0.23,
+    "residual": 0.09
+  },
+  {
+    "crop": "Bajra",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 0.36,
+    "predicted": 0.46,
+    "residual": -0.1
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 1.43,
+    "predicted": 1.05,
+    "residual": 0.38
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 1.21,
+    "predicted": 1.3,
+    "residual": -0.09
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 0.35,
+    "predicted": 0.36,
+    "residual": -0.01
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 0.67,
+    "predicted": 0.65,
+    "residual": 0.02
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 0.1,
+    "predicted": 0.63,
+    "residual": -0.53
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 1.77,
+    "predicted": 1.48,
+    "residual": 0.29
+  },
+  {
+    "crop": "Coffee",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 0.21,
+    "predicted": 0.11,
+    "residual": 0.1
+  },
+  {
+    "crop": "Coffee",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 0.9,
+    "predicted": 0.6,
+    "residual": 0.3
+  },
+  {
+    "crop": "Coffee",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 0.23,
+    "predicted": 0.39,
+    "residual": -0.16
+  },
+  {
+    "crop": "Cotton",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 1.02,
+    "predicted": 0.81,
+    "residual": 0.21
+  },
+  {
+    "crop": "Cotton",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 2.11,
+    "predicted": 1.02,
+    "residual": 1.09
+  },
+  {
+    "crop": "Cotton",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 0.8,
+    "predicted": 0.71,
+    "residual": 0.09
+  },
+  {
+    "crop": "Cotton",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 0.64,
+    "predicted": 0.6,
+    "residual": 0.04
+  },
+  {
+    "crop": "Cotton",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 0.8,
+    "predicted": 1.42,
+    "residual": -0.62
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 1.07,
+    "predicted": 0.56,
+    "residual": 0.51
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 0.21,
+    "predicted": 0.23,
+    "residual": -0.02
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 0.91,
+    "predicted": 1.4,
+    "residual": -0.49
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 2.05,
+    "predicted": 1.55,
+    "residual": 0.5
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 1.45,
+    "predicted": 0.77,
+    "residual": 0.68
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 0.7,
+    "predicted": 0.52,
+    "residual": 0.18
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 1.3,
+    "predicted": 0.68,
+    "residual": 0.62
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 0.37,
+    "predicted": 0.33,
+    "residual": 0.04
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 0.98,
+    "predicted": 0.49,
+    "residual": 0.49
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 0.36,
+    "predicted": 0.35,
+    "residual": 0.01
+  },
+  {
+    "crop": "Jowar",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 0.32,
+    "predicted": 0.64,
+    "residual": -0.32
+  },
+  {
+    "crop": "Jowar",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 0.94,
+    "predicted": 0.98,
+    "residual": -0.04
+  },
+  {
+    "crop": "Jowar",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 0.32,
+    "predicted": 0.26,
+    "residual": 0.06
+  },
+  {
+    "crop": "Jowar",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 0.1,
+    "predicted": 0.12,
+    "residual": -0.02
+  },
+  {
+    "crop": "Jowar",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 0.2,
+    "predicted": 0.22,
+    "residual": -0.02
+  },
+  {
+    "crop": "Jowar",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 0.19,
+    "predicted": 0.32,
+    "residual": -0.13
+  },
+  {
+    "crop": "Jowar",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 0.4,
+    "predicted": 1.02,
+    "residual": -0.62
+  },
+  {
+    "crop": "Jowar",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 0.31,
+    "predicted": 0.33,
+    "residual": -0.02
+  },
+  {
+    "crop": "Jowar",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 0.1,
+    "predicted": 0.16,
+    "residual": -0.06
+  },
+  {
+    "crop": "Jowar",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 0.41,
+    "predicted": 0.43,
+    "residual": -0.02
+  },
+  {
+    "crop": "Jowar",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 0.1,
+    "predicted": 0.17,
+    "residual": -0.07
+  },
+  {
+    "crop": "Jowar",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 0.24,
+    "predicted": 0.83,
+    "residual": -0.59
+  },
+  {
+    "crop": "Maize",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 0.86,
+    "predicted": 1.16,
+    "residual": -0.3
+  },
+  {
+    "crop": "Maize",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 0.74,
+    "predicted": 0.9,
+    "residual": -0.16
+  },
+  {
+    "crop": "Maize",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 0.5,
+    "predicted": 0.71,
+    "residual": -0.21
+  },
+  {
+    "crop": "Maize",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 0.8,
+    "predicted": 0.5,
+    "residual": 0.3
+  },
+  {
+    "crop": "Maize",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 0.5,
+    "predicted": 0.51,
+    "residual": -0.01
+  },
+  {
+    "crop": "Maize",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 0.47,
+    "predicted": 0.58,
+    "residual": -0.11
+  },
+  {
+    "crop": "Maize",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 1.02,
+    "predicted": 0.54,
+    "residual": 0.48
+  },
+  {
+    "crop": "Maize",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 3.55,
+    "predicted": 2.97,
+    "residual": 0.58
+  },
+  {
+    "crop": "Maize",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 0.6,
+    "predicted": 0.94,
+    "residual": -0.34
+  },
+  {
+    "crop": "Maize",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 0.8,
+    "predicted": 0.64,
+    "residual": 0.16
+  },
+  {
+    "crop": "Maize",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 0.65,
+    "predicted": 0.72,
+    "residual": -0.07
+  },
+  {
+    "crop": "Maize",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 1.21,
+    "predicted": 1.15,
+    "residual": 0.06
+  },
+  {
+    "crop": "Maize",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 0.66,
+    "predicted": 0.63,
+    "residual": 0.03
+  },
+  {
+    "crop": "Maize",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 0.25,
+    "predicted": 0.52,
+    "residual": -0.27
+  },
+  {
+    "crop": "Mustard",
+    "district": "Burdwan",
+    "year": 2021,
+    "actual": 0.93,
+    "predicted": 0.56,
+    "residual": 0.37
+  },
+  {
+    "crop": "Mustard",
+    "district": "Karnal",
+    "year": 2021,
+    "actual": 1.53,
+    "predicted": 0.82,
+    "residual": 0.71
+  },
+  {
+    "crop": "Mustard",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 1.08,
+    "predicted": 1.41,
+    "residual": -0.33
+  },
+  {
+    "crop": "Mustard",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 1.58,
+    "predicted": 1.09,
+    "residual": 0.49
+  },
+  {
+    "crop": "Mustard",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 0.8,
+    "predicted": 0.79,
+    "residual": 0.01
+  },
+  {
+    "crop": "Mustard",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 0.77,
+    "predicted": 0.7,
+    "residual": 0.07
+  },
+  {
+    "crop": "Onion",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 0.72,
+    "predicted": 1.62,
+    "residual": -0.9
+  },
+  {
+    "crop": "Onion",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 3.26,
+    "predicted": 3.34,
+    "residual": -0.08
+  },
+  {
+    "crop": "Onion",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 1.67,
+    "predicted": 1.11,
+    "residual": 0.56
+  },
+  {
+    "crop": "Onion",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 5.22,
+    "predicted": 5.6,
+    "residual": -0.38
+  },
+  {
+    "crop": "Onion",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 3.19,
+    "predicted": 1.45,
+    "residual": 1.74
+  },
+  {
+    "crop": "Onion",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 2.58,
+    "predicted": 3.54,
+    "residual": -0.96
+  },
+  {
+    "crop": "Onion",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 2.66,
+    "predicted": 1.91,
+    "residual": 0.75
+  },
+  {
+    "crop": "Onion",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 1.0,
+    "predicted": 1.35,
+    "residual": -0.35
+  },
+  {
+    "crop": "Onion",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 0.99,
+    "predicted": 1.37,
+    "residual": -0.38
+  },
+  {
+    "crop": "Onion",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 0.66,
+    "predicted": 0.43,
+    "residual": 0.23
+  },
+  {
+    "crop": "Onion",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 8.3,
+    "predicted": 7.63,
+    "residual": 0.67
+  },
+  {
+    "crop": "Onion",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 3.41,
+    "predicted": 3.05,
+    "residual": 0.36
+  },
+  {
+    "crop": "Potato",
+    "district": "Burdwan",
+    "year": 2021,
+    "actual": 19.62,
+    "predicted": 13.2,
+    "residual": 6.42
+  },
+  {
+    "crop": "Potato",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 12.04,
+    "predicted": 9.87,
+    "residual": 2.17
+  },
+  {
+    "crop": "Potato",
+    "district": "Karnal",
+    "year": 2021,
+    "actual": 9.38,
+    "predicted": 13.71,
+    "residual": -4.33
+  },
+  {
+    "crop": "Potato",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 12.26,
+    "predicted": 13.45,
+    "residual": -1.19
+  },
+  {
+    "crop": "Potato",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 18.37,
+    "predicted": 16.21,
+    "residual": 2.16
+  },
+  {
+    "crop": "Potato",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 3.93,
+    "predicted": 4.72,
+    "residual": -0.79
+  },
+  {
+    "crop": "Ragi",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 0.1,
+    "predicted": 0.2,
+    "residual": -0.1
+  },
+  {
+    "crop": "Ragi",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 1.61,
+    "predicted": 1.17,
+    "residual": 0.44
+  },
+  {
+    "crop": "Ragi",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 0.83,
+    "predicted": 0.9,
+    "residual": -0.07
+  },
+  {
+    "crop": "Ragi",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 0.2,
+    "predicted": 0.4,
+    "residual": -0.2
+  },
+  {
+    "crop": "Ragi",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 0.35,
+    "predicted": 0.37,
+    "residual": -0.02
+  },
+  {
+    "crop": "Ragi",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 0.1,
+    "predicted": 0.07,
+    "residual": 0.03
+  },
+  {
+    "crop": "Rice",
+    "district": "Burdwan",
+    "year": 2021,
+    "actual": 3.09,
+    "predicted": 2.92,
+    "residual": 0.17
+  },
+  {
+    "crop": "Rice",
+    "district": "Burdwan",
+    "year": 2021,
+    "actual": 1.94,
+    "predicted": 1.69,
+    "residual": 0.25
+  },
+  {
+    "crop": "Rice",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 2.58,
+    "predicted": 1.6,
+    "residual": 0.98
+  },
+  {
+    "crop": "Rice",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 0.42,
+    "predicted": 0.53,
+    "residual": -0.11
+  },
+  {
+    "crop": "Rice",
+    "district": "Karnal",
+    "year": 2021,
+    "actual": 2.08,
+    "predicted": 1.9,
+    "residual": 0.18
+  },
+  {
+    "crop": "Rice",
+    "district": "Karnal",
+    "year": 2021,
+    "actual": 0.49,
+    "predicted": 0.57,
+    "residual": -0.08
+  },
+  {
+    "crop": "Rice",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 2.12,
+    "predicted": 1.81,
+    "residual": 0.31
+  },
+  {
+    "crop": "Rice",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 0.35,
+    "predicted": 0.53,
+    "residual": -0.18
+  },
+  {
+    "crop": "Rice",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 3.37,
+    "predicted": 2.5,
+    "residual": 0.87
+  },
+  {
+    "crop": "Rice",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 0.71,
+    "predicted": 0.72,
+    "residual": -0.01
+  },
+  {
+    "crop": "Rice",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 2.42,
+    "predicted": 1.94,
+    "residual": 0.48
+  },
+  {
+    "crop": "Rice",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 0.42,
+    "predicted": 0.59,
+    "residual": -0.17
+  },
+  {
+    "crop": "Rice",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 0.24,
+    "predicted": 0.19,
+    "residual": 0.05
+  },
+  {
+    "crop": "Rice",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 2.93,
+    "predicted": 1.79,
+    "residual": 1.14
+  },
+  {
+    "crop": "Rice",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 0.28,
+    "predicted": 0.09,
+    "residual": 0.19
+  },
+  {
+    "crop": "Rice",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 2.04,
+    "predicted": 2.08,
+    "residual": -0.04
+  },
+  {
+    "crop": "Rice",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 0.16,
+    "predicted": 0.04,
+    "residual": 0.12
+  },
+  {
+    "crop": "Soybean",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 0.52,
+    "predicted": 0.44,
+    "residual": 0.08
+  },
+  {
+    "crop": "Soybean",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 1.63,
+    "predicted": 0.75,
+    "residual": 0.88
+  },
+  {
+    "crop": "Soybean",
+    "district": "Karnal",
+    "year": 2021,
+    "actual": 0.21,
+    "predicted": 0.18,
+    "residual": 0.03
+  },
+  {
+    "crop": "Soybean",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 0.36,
+    "predicted": 0.25,
+    "residual": 0.11
+  },
+  {
+    "crop": "Soybean",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 1.76,
+    "predicted": 1.31,
+    "residual": 0.45
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Burdwan",
+    "year": 2021,
+    "actual": 29.87,
+    "predicted": 41.56,
+    "residual": -11.69
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Burdwan",
+    "year": 2021,
+    "actual": 6.18,
+    "predicted": 6.99,
+    "residual": -0.81
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Karnal",
+    "year": 2021,
+    "actual": 69.28,
+    "predicted": 69.18,
+    "residual": 0.1
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Karnal",
+    "year": 2021,
+    "actual": 9.04,
+    "predicted": 8.99,
+    "residual": 0.05
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 59.29,
+    "predicted": 57.05,
+    "residual": 2.24
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 5.65,
+    "predicted": 6.18,
+    "residual": -0.53
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 66.3,
+    "predicted": 60.08,
+    "residual": 6.22
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 10.92,
+    "predicted": 14.49,
+    "residual": -3.57
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 9.21,
+    "predicted": 21.09,
+    "residual": -11.88
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 4.05,
+    "predicted": 2.74,
+    "residual": 1.31
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 67.29,
+    "predicted": 64.03,
+    "residual": 3.26
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 8.12,
+    "predicted": 9.62,
+    "residual": -1.5
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 72.49,
+    "predicted": 57.21,
+    "residual": 15.28
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Thanjavur",
+    "year": 2021,
+    "actual": 56.59,
+    "predicted": 44.34,
+    "residual": 12.25
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 74.38,
+    "predicted": 61.79,
+    "residual": 12.59
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 11.21,
+    "predicted": 11.86,
+    "residual": -0.65
+  },
+  {
+    "crop": "Tomato",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 0.99,
+    "predicted": 1.67,
+    "residual": -0.68
+  },
+  {
+    "crop": "Tomato",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 21.29,
+    "predicted": 16.59,
+    "residual": 4.7
+  },
+  {
+    "crop": "Tomato",
+    "district": "Guntur",
+    "year": 2021,
+    "actual": 2.98,
+    "predicted": 4.4,
+    "residual": -1.42
+  },
+  {
+    "crop": "Tomato",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 1.05,
+    "predicted": 1.5,
+    "residual": -0.45
+  },
+  {
+    "crop": "Tomato",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 0.89,
+    "predicted": 1.1,
+    "residual": -0.21
+  },
+  {
+    "crop": "Tomato",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 2.42,
+    "predicted": 2.28,
+    "residual": 0.14
+  },
+  {
+    "crop": "Tomato",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 1.91,
+    "predicted": 2.09,
+    "residual": -0.18
+  },
+  {
+    "crop": "Tomato",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 24.76,
+    "predicted": 5.98,
+    "residual": 18.78
+  },
+  {
+    "crop": "Tomato",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 20.83,
+    "predicted": 21.07,
+    "residual": -0.24
+  },
+  {
+    "crop": "Tomato",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 7.08,
+    "predicted": 3.7,
+    "residual": 3.38
+  },
+  {
+    "crop": "Tomato",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 4.11,
+    "predicted": 3.76,
+    "residual": 0.35
+  },
+  {
+    "crop": "Tomato",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 4.4,
+    "predicted": 4.76,
+    "residual": -0.36
+  },
+  {
+    "crop": "Tomato",
+    "district": "Nashik",
+    "year": 2021,
+    "actual": 1.18,
+    "predicted": 0.9,
+    "residual": 0.28
+  },
+  {
+    "crop": "Tomato",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 1.1,
+    "predicted": 1.35,
+    "residual": -0.25
+  },
+  {
+    "crop": "Tomato",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 1.27,
+    "predicted": 1.41,
+    "residual": -0.14
+  },
+  {
+    "crop": "Tomato",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 1.18,
+    "predicted": 1.3,
+    "residual": -0.12
+  },
+  {
+    "crop": "Tomato",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 0.96,
+    "predicted": 1.07,
+    "residual": -0.11
+  },
+  {
+    "crop": "Wheat",
+    "district": "Burdwan",
+    "year": 2021,
+    "actual": 0.6,
+    "predicted": 0.97,
+    "residual": -0.37
+  },
+  {
+    "crop": "Wheat",
+    "district": "Indore",
+    "year": 2021,
+    "actual": 0.64,
+    "predicted": 0.85,
+    "residual": -0.21
+  },
+  {
+    "crop": "Wheat",
+    "district": "Karnal",
+    "year": 2021,
+    "actual": 2.75,
+    "predicted": 2.72,
+    "residual": 0.03
+  },
+  {
+    "crop": "Wheat",
+    "district": "Kota",
+    "year": 2021,
+    "actual": 2.48,
+    "predicted": 2.88,
+    "residual": -0.4
+  },
+  {
+    "crop": "Wheat",
+    "district": "Ludhiana",
+    "year": 2021,
+    "actual": 3.8,
+    "predicted": 3.78,
+    "residual": 0.02
+  },
+  {
+    "crop": "Wheat",
+    "district": "Mandya",
+    "year": 2021,
+    "actual": 0.3,
+    "predicted": 0.43,
+    "residual": -0.13
+  },
+  {
+    "crop": "Wheat",
+    "district": "Patna",
+    "year": 2021,
+    "actual": 4.22,
+    "predicted": 3.39,
+    "residual": 0.83
+  },
+  {
+    "crop": "Wheat",
+    "district": "Rajkot",
+    "year": 2021,
+    "actual": 0.73,
+    "predicted": 0.76,
+    "residual": -0.03
+  },
+  {
+    "crop": "Wheat",
+    "district": "Varanasi",
+    "year": 2021,
+    "actual": 4.04,
+    "predicted": 3.19,
+    "residual": 0.85
+  },
+  {
+    "crop": "Bajra",
+    "district": "Karnal",
+    "year": 2022,
+    "actual": 0.28,
+    "predicted": 0.22,
+    "residual": 0.06
+  },
+  {
+    "crop": "Bajra",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 0.29,
+    "predicted": 0.32,
+    "residual": -0.03
+  },
+  {
+    "crop": "Bajra",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 0.27,
+    "predicted": 0.35,
+    "residual": -0.08
+  },
+  {
+    "crop": "Bajra",
+    "district": "Rajkot",
+    "year": 2022,
+    "actual": 0.41,
+    "predicted": 0.39,
+    "residual": 0.02
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 0.16,
+    "predicted": 0.59,
+    "residual": -0.43
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 1.25,
+    "predicted": 1.34,
+    "residual": -0.09
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 0.44,
+    "predicted": 0.74,
+    "residual": -0.3
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 1.48,
+    "predicted": 1.11,
+    "residual": 0.37
+  },
+  {
+    "crop": "Chickpea",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 1.24,
+    "predicted": 1.61,
+    "residual": -0.37
+  },
+  {
+    "crop": "Coffee",
+    "district": "Burdwan",
+    "year": 2022,
+    "actual": 0.2,
+    "predicted": 0.12,
+    "residual": 0.08
+  },
+  {
+    "crop": "Coffee",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 0.22,
+    "predicted": 0.5,
+    "residual": -0.28
+  },
+  {
+    "crop": "Coffee",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 0.22,
+    "predicted": 1.89,
+    "residual": -1.67
+  },
+  {
+    "crop": "Coffee",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 0.16,
+    "predicted": 0.63,
+    "residual": -0.47
+  },
+  {
+    "crop": "Coffee",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 0.14,
+    "predicted": 0.15,
+    "residual": -0.01
+  },
+  {
+    "crop": "Cotton",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.7,
+    "predicted": 0.71,
+    "residual": -0.01
+  },
+  {
+    "crop": "Cotton",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 0.4,
+    "predicted": 0.59,
+    "residual": -0.19
+  },
+  {
+    "crop": "Cotton",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 1.03,
+    "predicted": 0.93,
+    "residual": 0.1
+  },
+  {
+    "crop": "Cotton",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 0.82,
+    "predicted": 1.48,
+    "residual": -0.66
+  },
+  {
+    "crop": "Cotton",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 1.05,
+    "predicted": 0.59,
+    "residual": 0.46
+  },
+  {
+    "crop": "Cotton",
+    "district": "Rajkot",
+    "year": 2022,
+    "actual": 0.34,
+    "predicted": 0.76,
+    "residual": -0.42
+  },
+  {
+    "crop": "Cotton",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 0.45,
+    "predicted": 3.3,
+    "residual": -2.85
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.1,
+    "predicted": 0.23,
+    "residual": -0.13
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.1,
+    "predicted": 0.06,
+    "residual": 0.04
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 0.18,
+    "predicted": 0.22,
+    "residual": -0.04
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 0.43,
+    "predicted": 1.07,
+    "residual": -0.64
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 1.14,
+    "predicted": 1.56,
+    "residual": -0.42
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 1.3,
+    "predicted": 0.72,
+    "residual": 0.58
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 0.3,
+    "predicted": 0.37,
+    "residual": -0.07
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Rajkot",
+    "year": 2022,
+    "actual": 0.2,
+    "predicted": 0.29,
+    "residual": -0.09
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Rajkot",
+    "year": 2022,
+    "actual": 0.28,
+    "predicted": 0.3,
+    "residual": -0.02
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 0.42,
+    "predicted": 0.5,
+    "residual": -0.08
+  },
+  {
+    "crop": "Groundnut",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 0.29,
+    "predicted": 0.36,
+    "residual": -0.07
+  },
+  {
+    "crop": "Jowar",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.34,
+    "predicted": 0.67,
+    "residual": -0.33
+  },
+  {
+    "crop": "Jowar",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 1.34,
+    "predicted": 0.93,
+    "residual": 0.41
+  },
+  {
+    "crop": "Jowar",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 0.35,
+    "predicted": 0.34,
+    "residual": 0.01
+  },
+  {
+    "crop": "Jowar",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 0.21,
+    "predicted": 0.32,
+    "residual": -0.11
+  },
+  {
+    "crop": "Jowar",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 0.35,
+    "predicted": 0.3,
+    "residual": 0.05
+  },
+  {
+    "crop": "Jowar",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 0.19,
+    "predicted": 0.35,
+    "residual": -0.16
+  },
+  {
+    "crop": "Jowar",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 1.7,
+    "predicted": 0.63,
+    "residual": 1.07
+  },
+  {
+    "crop": "Jowar",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 0.48,
+    "predicted": 0.41,
+    "residual": 0.07
+  },
+  {
+    "crop": "Jowar",
+    "district": "Rajkot",
+    "year": 2022,
+    "actual": 0.51,
+    "predicted": 0.49,
+    "residual": 0.02
+  },
+  {
+    "crop": "Jowar",
+    "district": "Rajkot",
+    "year": 2022,
+    "actual": 0.51,
+    "predicted": 0.39,
+    "residual": 0.12
+  },
+  {
+    "crop": "Maize",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.87,
+    "predicted": 1.15,
+    "residual": -0.28
+  },
+  {
+    "crop": "Maize",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.67,
+    "predicted": 0.93,
+    "residual": -0.26
+  },
+  {
+    "crop": "Maize",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 0.45,
+    "predicted": 0.53,
+    "residual": -0.08
+  },
+  {
+    "crop": "Maize",
+    "district": "Karnal",
+    "year": 2022,
+    "actual": 0.72,
+    "predicted": 0.83,
+    "residual": -0.11
+  },
+  {
+    "crop": "Maize",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 0.62,
+    "predicted": 0.57,
+    "residual": 0.05
+  },
+  {
+    "crop": "Maize",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 0.73,
+    "predicted": 0.56,
+    "residual": 0.17
+  },
+  {
+    "crop": "Maize",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 0.77,
+    "predicted": 0.85,
+    "residual": -0.08
+  },
+  {
+    "crop": "Maize",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 0.76,
+    "predicted": 0.75,
+    "residual": 0.01
+  },
+  {
+    "crop": "Maize",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 3.57,
+    "predicted": 2.41,
+    "residual": 1.16
+  },
+  {
+    "crop": "Maize",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 3.75,
+    "predicted": 3.16,
+    "residual": 0.59
+  },
+  {
+    "crop": "Maize",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 0.28,
+    "predicted": 0.58,
+    "residual": -0.3
+  },
+  {
+    "crop": "Maize",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 0.53,
+    "predicted": 0.71,
+    "residual": -0.18
+  },
+  {
+    "crop": "Maize",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 0.25,
+    "predicted": 0.59,
+    "residual": -0.34
+  },
+  {
+    "crop": "Maize",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 0.99,
+    "predicted": 0.73,
+    "residual": 0.26
+  },
+  {
+    "crop": "Mustard",
+    "district": "Burdwan",
+    "year": 2022,
+    "actual": 0.33,
+    "predicted": 0.54,
+    "residual": -0.21
+  },
+  {
+    "crop": "Mustard",
+    "district": "Karnal",
+    "year": 2022,
+    "actual": 1.57,
+    "predicted": 1.43,
+    "residual": 0.14
+  },
+  {
+    "crop": "Mustard",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 0.77,
+    "predicted": 1.37,
+    "residual": -0.6
+  },
+  {
+    "crop": "Mustard",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 1.18,
+    "predicted": 1.53,
+    "residual": -0.35
+  },
+  {
+    "crop": "Mustard",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 1.01,
+    "predicted": 1.38,
+    "residual": -0.37
+  },
+  {
+    "crop": "Mustard",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 0.74,
+    "predicted": 1.38,
+    "residual": -0.64
+  },
+  {
+    "crop": "Onion",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.83,
+    "predicted": -0.39,
+    "residual": 1.22
+  },
+  {
+    "crop": "Onion",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 8.82,
+    "predicted": 12.42,
+    "residual": -3.6
+  },
+  {
+    "crop": "Onion",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 0.74,
+    "predicted": 0.65,
+    "residual": 0.09
+  },
+  {
+    "crop": "Onion",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 8.55,
+    "predicted": 5.87,
+    "residual": 2.68
+  },
+  {
+    "crop": "Onion",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 4.13,
+    "predicted": 1.85,
+    "residual": 2.28
+  },
+  {
+    "crop": "Onion",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 7.3,
+    "predicted": 5.53,
+    "residual": 1.77
+  },
+  {
+    "crop": "Onion",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 0.93,
+    "predicted": 0.79,
+    "residual": 0.14
+  },
+  {
+    "crop": "Onion",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 4.01,
+    "predicted": 3.34,
+    "residual": 0.67
+  },
+  {
+    "crop": "Onion",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 0.78,
+    "predicted": 0.92,
+    "residual": -0.14
+  },
+  {
+    "crop": "Onion",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 1.9,
+    "predicted": 1.39,
+    "residual": 0.51
+  },
+  {
+    "crop": "Onion",
+    "district": "Rajkot",
+    "year": 2022,
+    "actual": 0.68,
+    "predicted": 0.55,
+    "residual": 0.13
+  },
+  {
+    "crop": "Onion",
+    "district": "Rajkot",
+    "year": 2022,
+    "actual": 2.5,
+    "predicted": 1.95,
+    "residual": 0.55
+  },
+  {
+    "crop": "Onion",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 3.24,
+    "predicted": 2.6,
+    "residual": 0.64
+  },
+  {
+    "crop": "Onion",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 10.99,
+    "predicted": 2.95,
+    "residual": 8.04
+  },
+  {
+    "crop": "Potato",
+    "district": "Burdwan",
+    "year": 2022,
+    "actual": 6.55,
+    "predicted": 11.69,
+    "residual": -5.14
+  },
+  {
+    "crop": "Potato",
+    "district": "Karnal",
+    "year": 2022,
+    "actual": 20.36,
+    "predicted": 14.15,
+    "residual": 6.21
+  },
+  {
+    "crop": "Potato",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 19.34,
+    "predicted": 16.0,
+    "residual": 3.34
+  },
+  {
+    "crop": "Potato",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 3.66,
+    "predicted": 13.35,
+    "residual": -9.69
+  },
+  {
+    "crop": "Potato",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 14.63,
+    "predicted": 15.82,
+    "residual": -1.19
+  },
+  {
+    "crop": "Potato",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 0.81,
+    "predicted": 2.74,
+    "residual": -1.93
+  },
+  {
+    "crop": "Potato",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 2.6,
+    "predicted": 6.83,
+    "residual": -4.23
+  },
+  {
+    "crop": "Ragi",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.27,
+    "predicted": 0.25,
+    "residual": 0.02
+  },
+  {
+    "crop": "Ragi",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 1.19,
+    "predicted": 1.38,
+    "residual": -0.19
+  },
+  {
+    "crop": "Ragi",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 0.12,
+    "predicted": 0.43,
+    "residual": -0.31
+  },
+  {
+    "crop": "Ragi",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 0.1,
+    "predicted": 0.04,
+    "residual": 0.06
+  },
+  {
+    "crop": "Ragi",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 0.14,
+    "predicted": 0.04,
+    "residual": 0.1
+  },
+  {
+    "crop": "Ragi",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 0.32,
+    "predicted": 0.26,
+    "residual": 0.06
+  },
+  {
+    "crop": "Rice",
+    "district": "Burdwan",
+    "year": 2022,
+    "actual": 2.59,
+    "predicted": 2.05,
+    "residual": 0.54
+  },
+  {
+    "crop": "Rice",
+    "district": "Burdwan",
+    "year": 2022,
+    "actual": 0.21,
+    "predicted": 0.39,
+    "residual": -0.18
+  },
+  {
+    "crop": "Rice",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 1.27,
+    "predicted": 1.06,
+    "residual": 0.21
+  },
+  {
+    "crop": "Rice",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.16,
+    "predicted": 0.1,
+    "residual": 0.06
+  },
+  {
+    "crop": "Rice",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 1.23,
+    "predicted": 1.45,
+    "residual": -0.22
+  },
+  {
+    "crop": "Rice",
+    "district": "Karnal",
+    "year": 2022,
+    "actual": 1.0,
+    "predicted": 1.23,
+    "residual": -0.23
+  },
+  {
+    "crop": "Rice",
+    "district": "Karnal",
+    "year": 2022,
+    "actual": 0.41,
+    "predicted": 0.61,
+    "residual": -0.2
+  },
+  {
+    "crop": "Rice",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 1.4,
+    "predicted": 1.67,
+    "residual": -0.27
+  },
+  {
+    "crop": "Rice",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 0.52,
+    "predicted": 0.56,
+    "residual": -0.04
+  },
+  {
+    "crop": "Rice",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 3.13,
+    "predicted": 1.85,
+    "residual": 1.28
+  },
+  {
+    "crop": "Rice",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 2.84,
+    "predicted": 2.27,
+    "residual": 0.57
+  },
+  {
+    "crop": "Rice",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 0.87,
+    "predicted": 2.11,
+    "residual": -1.24
+  },
+  {
+    "crop": "Rice",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 0.16,
+    "predicted": 0.03,
+    "residual": 0.13
+  },
+  {
+    "crop": "Rice",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 0.92,
+    "predicted": 1.11,
+    "residual": -0.19
+  },
+  {
+    "crop": "Rice",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 0.53,
+    "predicted": 0.46,
+    "residual": 0.07
+  },
+  {
+    "crop": "Rice",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 0.89,
+    "predicted": 1.73,
+    "residual": -0.84
+  },
+  {
+    "crop": "Rice",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 0.39,
+    "predicted": 0.56,
+    "residual": -0.17
+  },
+  {
+    "crop": "Soybean",
+    "district": "Burdwan",
+    "year": 2022,
+    "actual": 0.11,
+    "predicted": 0.18,
+    "residual": -0.07
+  },
+  {
+    "crop": "Soybean",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 0.13,
+    "predicted": 0.28,
+    "residual": -0.15
+  },
+  {
+    "crop": "Soybean",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 0.22,
+    "predicted": 0.52,
+    "residual": -0.3
+  },
+  {
+    "crop": "Soybean",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 0.35,
+    "predicted": 0.32,
+    "residual": 0.03
+  },
+  {
+    "crop": "Soybean",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 1.37,
+    "predicted": 1.19,
+    "residual": 0.18
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Burdwan",
+    "year": 2022,
+    "actual": 25.66,
+    "predicted": 33.41,
+    "residual": -7.75
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Burdwan",
+    "year": 2022,
+    "actual": 9.34,
+    "predicted": 9.7,
+    "residual": -0.36
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 31.3,
+    "predicted": 4.94,
+    "residual": 26.36
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Karnal",
+    "year": 2022,
+    "actual": 38.49,
+    "predicted": 66.79,
+    "residual": -28.3
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Karnal",
+    "year": 2022,
+    "actual": 11.06,
+    "predicted": 11.16,
+    "residual": -0.1
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 47.31,
+    "predicted": 48.99,
+    "residual": -1.68
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 6.05,
+    "predicted": 8.68,
+    "residual": -2.63
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 65.39,
+    "predicted": 60.88,
+    "residual": 4.51
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 12.02,
+    "predicted": 13.29,
+    "residual": -1.27
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 15.49,
+    "predicted": 38.09,
+    "residual": -22.6
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 40.92,
+    "predicted": 16.63,
+    "residual": 24.29
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 79.2,
+    "predicted": 69.36,
+    "residual": 9.84
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 12.74,
+    "predicted": 11.46,
+    "residual": 1.28
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 2.99,
+    "predicted": 2.89,
+    "residual": 0.1
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 7.13,
+    "predicted": 29.75,
+    "residual": -22.62
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Thanjavur",
+    "year": 2022,
+    "actual": 13.21,
+    "predicted": 23.9,
+    "residual": -10.69
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 13.84,
+    "predicted": 48.3,
+    "residual": -34.46
+  },
+  {
+    "crop": "Sugarcane",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 9.14,
+    "predicted": 8.91,
+    "residual": 0.23
+  },
+  {
+    "crop": "Tomato",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 1.06,
+    "predicted": 1.96,
+    "residual": -0.9
+  },
+  {
+    "crop": "Tomato",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 18.24,
+    "predicted": 15.55,
+    "residual": 2.69
+  },
+  {
+    "crop": "Tomato",
+    "district": "Guntur",
+    "year": 2022,
+    "actual": 4.9,
+    "predicted": 3.95,
+    "residual": 0.95
+  },
+  {
+    "crop": "Tomato",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 1.63,
+    "predicted": 1.57,
+    "residual": 0.06
+  },
+  {
+    "crop": "Tomato",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 4.09,
+    "predicted": 2.55,
+    "residual": 1.54
+  },
+  {
+    "crop": "Tomato",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 2.09,
+    "predicted": 2.67,
+    "residual": -0.58
+  },
+  {
+    "crop": "Tomato",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 2.51,
+    "predicted": 6.81,
+    "residual": -4.3
+  },
+  {
+    "crop": "Tomato",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 29.89,
+    "predicted": 18.57,
+    "residual": 11.32
+  },
+  {
+    "crop": "Tomato",
+    "district": "Mandya",
+    "year": 2022,
+    "actual": 5.07,
+    "predicted": 6.11,
+    "residual": -1.04
+  },
+  {
+    "crop": "Tomato",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 1.98,
+    "predicted": 3.02,
+    "residual": -1.04
+  },
+  {
+    "crop": "Tomato",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 4.86,
+    "predicted": 2.88,
+    "residual": 1.98
+  },
+  {
+    "crop": "Tomato",
+    "district": "Nashik",
+    "year": 2022,
+    "actual": 2.52,
+    "predicted": 3.88,
+    "residual": -1.36
+  },
+  {
+    "crop": "Tomato",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 2.6,
+    "predicted": 2.22,
+    "residual": 0.38
+  },
+  {
+    "crop": "Tomato",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 1.31,
+    "predicted": 1.64,
+    "residual": -0.33
+  },
+  {
+    "crop": "Tomato",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 1.87,
+    "predicted": 0.98,
+    "residual": 0.89
+  },
+  {
+    "crop": "Tomato",
+    "district": "Varanasi",
+    "year": 2022,
+    "actual": 3.12,
+    "predicted": 2.06,
+    "residual": 1.06
+  },
+  {
+    "crop": "Wheat",
+    "district": "Burdwan",
+    "year": 2022,
+    "actual": 0.78,
+    "predicted": 1.73,
+    "residual": -0.95
+  },
+  {
+    "crop": "Wheat",
+    "district": "Indore",
+    "year": 2022,
+    "actual": 1.24,
+    "predicted": 2.1,
+    "residual": -0.86
+  },
+  {
+    "crop": "Wheat",
+    "district": "Karnal",
+    "year": 2022,
+    "actual": 4.42,
+    "predicted": 3.3,
+    "residual": 1.12
+  },
+  {
+    "crop": "Wheat",
+    "district": "Kota",
+    "year": 2022,
+    "actual": 2.06,
+    "predicted": 3.27,
+    "residual": -1.21
+  },
+  {
+    "crop": "Wheat",
+    "district": "Ludhiana",
+    "year": 2022,
+    "actual": 4.31,
+    "predicted": 3.97,
+    "residual": 0.34
+  },
+  {
+    "crop": "Wheat",
+    "district": "Patna",
+    "year": 2022,
+    "actual": 0.57,
+    "predicted": 1.22,
+    "residual": -0.65
+  }
+]

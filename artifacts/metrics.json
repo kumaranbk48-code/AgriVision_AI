@@ -1,0 +1,209 @@
+{
+  "model_name": "AgriVision AI LightGBM Regressor with Quantile Intervals",
+  "test_period": "2021 - 2024",
+  "train_period": "2005 - 2020",
+  "train_samples": 2410,
+  "test_samples": 599,
+  "models_comparison": {
+    "Ridge Regression": {
+      "rmse": 8.02,
+      "mae": 4.817,
+      "r2": 0.6058,
+      "mape": 514.81
+    },
+    "Random Forest": {
+      "rmse": 3.007,
+      "mae": 1.086,
+      "r2": 0.9446,
+      "mape": 29.68
+    },
+    "LightGBM (Primary)": {
+      "rmse": 4.093,
+      "mae": 1.462,
+      "r2": 0.8973,
+      "mape": 46.09
+    }
+  },
+  "primary_model_overall_metrics": {
+    "rmse": 4.093,
+    "mae": 1.462,
+    "r2": 0.8973,
+    "mape": 46.09
+  },
+  "per_crop_metrics": {
+    "Bajra": {
+      "rmse": 0.204,
+      "mae": 0.118,
+      "r2": -21.3185,
+      "mape": 44.74,
+      "count": 18
+    },
+    "Chickpea": {
+      "rmse": 0.294,
+      "mae": 0.245,
+      "r2": 0.7472,
+      "mape": 65.99,
+      "count": 23
+    },
+    "Coffee": {
+      "rmse": 0.496,
+      "mae": 0.315,
+      "r2": -3.5064,
+      "mape": 171.93,
+      "count": 15
+    },
+    "Cotton": {
+      "rmse": 0.778,
+      "mae": 0.482,
+      "r2": -1.3265,
+      "mape": 70.23,
+      "count": 22
+    },
+    "Groundnut": {
+      "rmse": 0.322,
+      "mae": 0.221,
+      "r2": 0.5231,
+      "mape": 33.4,
+      "count": 43
+    },
+    "Jowar": {
+      "rmse": 0.262,
+      "mae": 0.167,
+      "r2": 0.2673,
+      "mape": 49.15,
+      "count": 44
+    },
+    "Maize": {
+      "rmse": 0.438,
+      "mae": 0.284,
+      "r2": 0.8224,
+      "mape": 36.92,
+      "count": 55
+    },
+    "Mustard": {
+      "rmse": 0.344,
+      "mae": 0.279,
+      "r2": 0.5155,
+      "mape": 52.77,
+      "count": 26
+    },
+    "Onion": {
+      "rmse": 1.671,
+      "mae": 1.021,
+      "r2": 0.7327,
+      "mape": 39.24,
+      "count": 49
+    },
+    "Potato": {
+      "rmse": 4.358,
+      "mae": 3.694,
+      "r2": 0.5772,
+      "mape": 66.67,
+      "count": 25
+    },
+    "Ragi": {
+      "rmse": 0.144,
+      "mae": 0.104,
+      "r2": 0.8561,
+      "mape": 48.49,
+      "count": 27
+    },
+    "Rice": {
+      "rmse": 0.524,
+      "mae": 0.353,
+      "r2": 0.7551,
+      "mape": 31.6,
+      "count": 66
+    },
+    "Soybean": {
+      "rmse": 0.4,
+      "mae": 0.262,
+      "r2": 0.6489,
+      "mape": 45.44,
+      "count": 18
+    },
+    "Sugarcane": {
+      "rmse": 11.18,
+      "mae": 7.418,
+      "r2": 0.8029,
+      "mape": 39.94,
+      "count": 68
+    },
+    "Tomato": {
+      "rmse": 3.585,
+      "mae": 1.778,
+      "r2": 0.7531,
+      "mape": 35.2,
+      "count": 66
+    },
+    "Wheat": {
+      "rmse": 0.67,
+      "mae": 0.537,
+      "r2": 0.8215,
+      "mape": 38.71,
+      "count": 34
+    }
+  },
+  "global_shap_importance": [
+    {
+      "feature": "historical_benchmark_yield",
+      "importance": 5.0597
+    },
+    {
+      "feature": "avg_temp_c",
+      "importance": 0.8746
+    },
+    {
+      "feature": "irrigation_type_Rainfed",
+      "importance": 0.6247
+    },
+    {
+      "feature": "rainfall_x_irrigation",
+      "importance": 0.5785
+    },
+    {
+      "feature": "total_npk",
+      "importance": 0.4928
+    },
+    {
+      "feature": "rolling_3yr_mean",
+      "importance": 0.3231
+    },
+    {
+      "feature": "growing_degree_days",
+      "importance": 0.297
+    },
+    {
+      "feature": "rainfall_mm",
+      "importance": 0.1955
+    },
+    {
+      "feature": "crop_Sugarcane",
+      "importance": 0.1865
+    },
+    {
+      "feature": "ph_neutral_diff",
+      "importance": 0.1862
+    },
+    {
+      "feature": "lag_yield_1yr",
+      "importance": 0.1048
+    },
+    {
+      "feature": "fertilizer_p",
+      "importance": 0.1026
+    },
+    {
+      "feature": "year",
+      "importance": 0.0955
+    },
+    {
+      "feature": "fertilizer_n",
+      "importance": 0.0869
+    },
+    {
+      "feature": "soil_ph",
+      "importance": 0.0725
+    }
+  ]
+}

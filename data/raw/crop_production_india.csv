@@ -1,0 +1,3010 @@
+state,district,crop,season,year,area_ha,production_tonnes,yield_tonnes_per_ha
+West Bengal,Burdwan,Bajra,Kharif,2010,797.3,167.4,0.21
+West Bengal,Burdwan,Bajra,Kharif,2015,108.5,23.9,0.22
+West Bengal,Burdwan,Bajra,Kharif,2017,442.4,92.9,0.21
+West Bengal,Burdwan,Bajra,Kharif,2019,120.8,24.2,0.2
+West Bengal,Burdwan,Bajra,Kharif,2021,456.7,109.6,0.24
+Andhra Pradesh,Guntur,Bajra,Kharif,2010,363.0,127.0,0.35
+Andhra Pradesh,Guntur,Bajra,Kharif,2014,755.3,287.0,0.38
+Andhra Pradesh,Guntur,Bajra,Kharif,2017,612.9,214.5,0.35
+Madhya Pradesh,Indore,Bajra,Kharif,2017,59.0,20.1,0.34
+Madhya Pradesh,Indore,Bajra,Kharif,2020,269.1,80.7,0.3
+Haryana,Karnal,Bajra,Kharif,2005,437.1,122.4,0.28
+Haryana,Karnal,Bajra,Kharif,2006,286.6,91.7,0.32
+Haryana,Karnal,Bajra,Kharif,2007,176.0,47.5,0.27
+Haryana,Karnal,Bajra,Kharif,2008,203.9,57.1,0.28
+Haryana,Karnal,Bajra,Kharif,2009,556.1,161.3,0.29
+Haryana,Karnal,Bajra,Kharif,2010,358.2,114.6,0.32
+Haryana,Karnal,Bajra,Kharif,2011,484.2,140.4,0.29
+Haryana,Karnal,Bajra,Kharif,2012,612.3,183.7,0.3
+Haryana,Karnal,Bajra,Kharif,2013,398.0,115.4,0.29
+Haryana,Karnal,Bajra,Kharif,2014,235.4,65.9,0.28
+Haryana,Karnal,Bajra,Kharif,2015,141.1,48.0,0.34
+Haryana,Karnal,Bajra,Kharif,2016,590.0,171.1,0.29
+Haryana,Karnal,Bajra,Kharif,2017,678.4,217.1,0.32
+Haryana,Karnal,Bajra,Kharif,2018,169.8,56.0,0.33
+Haryana,Karnal,Bajra,Kharif,2019,320.6,102.6,0.32
+Haryana,Karnal,Bajra,Kharif,2020,333.8,106.8,0.32
+Haryana,Karnal,Bajra,Kharif,2021,399.9,128.0,0.32
+Haryana,Karnal,Bajra,Kharif,2022,370.4,103.7,0.28
+Haryana,Karnal,Bajra,Kharif,2023,348.1,111.4,0.32
+Haryana,Karnal,Bajra,Kharif,2024,235.7,75.4,0.32
+Rajasthan,Kota,Bajra,Kharif,2005,330.0,102.3,0.31
+Rajasthan,Kota,Bajra,Kharif,2006,300.9,93.3,0.31
+Rajasthan,Kota,Bajra,Kharif,2007,113.7,31.8,0.28
+Rajasthan,Kota,Bajra,Kharif,2008,389.7,105.2,0.27
+Rajasthan,Kota,Bajra,Kharif,2009,328.0,101.7,0.31
+Rajasthan,Kota,Bajra,Kharif,2010,277.1,74.8,0.27
+Rajasthan,Kota,Bajra,Kharif,2011,265.1,82.2,0.31
+Rajasthan,Kota,Bajra,Kharif,2012,71.1,19.2,0.27
+Rajasthan,Kota,Bajra,Kharif,2013,810.2,251.2,0.31
+Rajasthan,Kota,Bajra,Kharif,2014,628.0,194.7,0.31
+Rajasthan,Kota,Bajra,Kharif,2015,223.4,69.3,0.31
+Rajasthan,Kota,Bajra,Kharif,2016,571.9,165.9,0.29
+Rajasthan,Kota,Bajra,Kharif,2017,192.7,61.7,0.32
+Rajasthan,Kota,Bajra,Kharif,2018,610.2,201.4,0.33
+Rajasthan,Kota,Bajra,Kharif,2019,474.4,142.3,0.3
+Rajasthan,Kota,Bajra,Kharif,2020,439.9,132.0,0.3
+Rajasthan,Kota,Bajra,Kharif,2021,805.2,233.5,0.29
+Rajasthan,Kota,Bajra,Kharif,2022,545.2,158.1,0.29
+Rajasthan,Kota,Bajra,Kharif,2023,78.0,24.2,0.31
+Rajasthan,Kota,Bajra,Kharif,2024,419.4,130.0,0.31
+Punjab,Ludhiana,Bajra,Kharif,2005,84.1,25.2,0.3
+Punjab,Ludhiana,Bajra,Kharif,2006,108.7,29.3,0.27
+Punjab,Ludhiana,Bajra,Kharif,2007,535.8,150.0,0.28
+Punjab,Ludhiana,Bajra,Kharif,2008,363.0,94.4,0.26
+Punjab,Ludhiana,Bajra,Kharif,2009,558.3,295.9,0.53
+Punjab,Ludhiana,Bajra,Kharif,2010,497.0,134.2,0.27
+Punjab,Ludhiana,Bajra,Kharif,2011,110.9,33.3,0.3
+Punjab,Ludhiana,Bajra,Kharif,2012,296.0,195.4,0.66
+Punjab,Ludhiana,Bajra,Kharif,2013,758.1,250.2,0.33
+Punjab,Ludhiana,Bajra,Kharif,2014,319.3,89.4,0.28
+Punjab,Ludhiana,Bajra,Kharif,2015,315.1,116.6,0.37
+Punjab,Ludhiana,Bajra,Kharif,2016,138.6,37.4,0.27
+Punjab,Ludhiana,Bajra,Kharif,2017,351.7,95.0,0.27
+Punjab,Ludhiana,Bajra,Kharif,2018,208.8,60.6,0.29
+Punjab,Ludhiana,Bajra,Kharif,2019,376.4,112.9,0.3
+Punjab,Ludhiana,Bajra,Kharif,2020,615.8,209.4,0.34
+Punjab,Ludhiana,Bajra,Kharif,2021,270.6,86.6,0.32
+Punjab,Ludhiana,Bajra,Kharif,2022,219.5,59.3,0.27
+Punjab,Ludhiana,Bajra,Kharif,2023,190.0,58.9,0.31
+Punjab,Ludhiana,Bajra,Kharif,2024,231.3,76.3,0.33
+Karnataka,Mandya,Bajra,Kharif,2008,283.2,181.2,0.64
+Karnataka,Mandya,Bajra,Kharif,2012,169.2,133.7,0.79
+Maharashtra,Nashik,Bajra,Kharif,2015,547.9,126.0,0.23
+Maharashtra,Nashik,Bajra,Kharif,2024,203.8,42.8,0.21
+Bihar,Patna,Bajra,Kharif,2012,70.7,19.1,0.27
+Gujarat,Rajkot,Bajra,Kharif,2005,380.5,106.5,0.28
+Gujarat,Rajkot,Bajra,Kharif,2006,94.1,32.0,0.34
+Gujarat,Rajkot,Bajra,Kharif,2007,440.3,158.5,0.36
+Gujarat,Rajkot,Bajra,Kharif,2008,257.5,121.0,0.47
+Gujarat,Rajkot,Bajra,Kharif,2009,261.2,279.5,1.07
+Gujarat,Rajkot,Bajra,Kharif,2010,700.0,238.0,0.34
+Gujarat,Rajkot,Bajra,Kharif,2011,517.4,139.7,0.27
+Gujarat,Rajkot,Bajra,Kharif,2012,768.0,207.4,0.27
+Gujarat,Rajkot,Bajra,Kharif,2013,554.9,199.8,0.36
+Gujarat,Rajkot,Bajra,Kharif,2014,668.3,233.9,0.35
+Gujarat,Rajkot,Bajra,Kharif,2015,809.5,267.1,0.33
+Gujarat,Rajkot,Bajra,Kharif,2016,309.8,408.9,1.32
+Gujarat,Rajkot,Bajra,Kharif,2017,376.8,128.1,0.34
+Gujarat,Rajkot,Bajra,Kharif,2018,355.2,135.0,0.38
+Gujarat,Rajkot,Bajra,Kharif,2019,123.0,48.0,0.39
+Gujarat,Rajkot,Bajra,Kharif,2020,236.0,82.6,0.35
+Gujarat,Rajkot,Bajra,Kharif,2021,564.5,203.2,0.36
+Gujarat,Rajkot,Bajra,Kharif,2022,445.6,182.7,0.41
+Gujarat,Rajkot,Bajra,Kharif,2023,286.1,77.2,0.27
+Gujarat,Rajkot,Bajra,Kharif,2024,287.7,97.8,0.34
+Tamil Nadu,Thanjavur,Bajra,Kharif,2009,280.7,233.0,0.83
+Tamil Nadu,Thanjavur,Bajra,Kharif,2013,513.8,308.3,0.6
+Tamil Nadu,Thanjavur,Bajra,Kharif,2017,357.1,192.8,0.54
+Uttar Pradesh,Varanasi,Bajra,Kharif,2007,142.7,41.4,0.29
+Uttar Pradesh,Varanasi,Bajra,Kharif,2010,395.5,114.7,0.29
+Uttar Pradesh,Varanasi,Bajra,Kharif,2014,59.8,17.9,0.3
+West Bengal,Burdwan,Chickpea,Rabi,2011,291.4,306.0,1.05
+West Bengal,Burdwan,Chickpea,Rabi,2020,614.0,405.2,0.66
+Andhra Pradesh,Guntur,Chickpea,Rabi,2008,614.3,61.4,0.1
+Andhra Pradesh,Guntur,Chickpea,Rabi,2012,641.8,64.2,0.1
+Andhra Pradesh,Guntur,Chickpea,Rabi,2017,341.7,34.2,0.1
+Andhra Pradesh,Guntur,Chickpea,Rabi,2023,550.8,55.1,0.1
+Madhya Pradesh,Indore,Chickpea,Rabi,2005,385.4,84.8,0.22
+Madhya Pradesh,Indore,Chickpea,Rabi,2006,545.8,174.7,0.32
+Madhya Pradesh,Indore,Chickpea,Rabi,2007,406.0,121.8,0.3
+Madhya Pradesh,Indore,Chickpea,Rabi,2008,1110.8,1121.9,1.01
+Madhya Pradesh,Indore,Chickpea,Rabi,2009,536.8,139.6,0.26
+Madhya Pradesh,Indore,Chickpea,Rabi,2010,532.4,756.0,1.42
+Madhya Pradesh,Indore,Chickpea,Rabi,2011,346.2,335.8,0.97
+Madhya Pradesh,Indore,Chickpea,Rabi,2012,251.3,414.6,1.65
+Madhya Pradesh,Indore,Chickpea,Rabi,2013,115.7,167.8,1.45
+Madhya Pradesh,Indore,Chickpea,Rabi,2014,438.3,433.9,0.99
+Madhya Pradesh,Indore,Chickpea,Rabi,2015,552.4,602.1,1.09
+Madhya Pradesh,Indore,Chickpea,Rabi,2016,79.4,95.3,1.2
+Madhya Pradesh,Indore,Chickpea,Rabi,2017,422.3,625.0,1.48
+Madhya Pradesh,Indore,Chickpea,Rabi,2018,444.1,159.9,0.36
+Madhya Pradesh,Indore,Chickpea,Rabi,2019,790.6,371.6,0.47
+Madhya Pradesh,Indore,Chickpea,Rabi,2020,190.9,227.2,1.19
+Madhya Pradesh,Indore,Chickpea,Rabi,2021,317.4,453.9,1.43
+Madhya Pradesh,Indore,Chickpea,Rabi,2022,88.7,14.2,0.16
+Madhya Pradesh,Indore,Chickpea,Rabi,2023,468.3,777.4,1.66
+Madhya Pradesh,Indore,Chickpea,Rabi,2024,279.2,438.3,1.57
+Rajasthan,Kota,Chickpea,Rabi,2005,501.1,616.4,1.23
+Rajasthan,Kota,Chickpea,Rabi,2006,406.1,527.9,1.3
+Rajasthan,Kota,Chickpea,Rabi,2007,603.7,621.8,1.03
+Rajasthan,Kota,Chickpea,Rabi,2008,356.5,402.8,1.13
+Rajasthan,Kota,Chickpea,Rabi,2009,443.7,510.3,1.15
+Rajasthan,Kota,Chickpea,Rabi,2010,569.0,830.7,1.46
+Rajasthan,Kota,Chickpea,Rabi,2011,234.4,288.3,1.23
+Rajasthan,Kota,Chickpea,Rabi,2012,306.0,407.0,1.33
+Rajasthan,Kota,Chickpea,Rabi,2013,212.0,318.0,1.5
+Rajasthan,Kota,Chickpea,Rabi,2014,362.7,399.0,1.1
+Rajasthan,Kota,Chickpea,Rabi,2015,197.5,223.2,1.13
+Rajasthan,Kota,Chickpea,Rabi,2016,399.6,447.6,1.12
+Rajasthan,Kota,Chickpea,Rabi,2017,774.4,712.4,0.92
+Rajasthan,Kota,Chickpea,Rabi,2018,608.4,949.1,1.56
+Rajasthan,Kota,Chickpea,Rabi,2019,687.6,887.0,1.29
+Rajasthan,Kota,Chickpea,Rabi,2020,152.3,178.2,1.17
+Rajasthan,Kota,Chickpea,Rabi,2021,942.2,1140.1,1.21
+Rajasthan,Kota,Chickpea,Rabi,2022,294.0,367.5,1.25
+Rajasthan,Kota,Chickpea,Rabi,2023,236.0,342.2,1.45
+Rajasthan,Kota,Chickpea,Rabi,2024,271.1,417.5,1.54
+Punjab,Ludhiana,Chickpea,Rabi,2012,623.7,692.3,1.11
+Punjab,Ludhiana,Chickpea,Rabi,2015,184.7,271.5,1.47
+Karnataka,Mandya,Chickpea,Rabi,2015,636.3,63.6,0.1
+Karnataka,Mandya,Chickpea,Rabi,2016,499.6,50.0,0.1
+Karnataka,Mandya,Chickpea,Rabi,2020,598.6,59.9,0.1
+Karnataka,Mandya,Chickpea,Rabi,2023,158.5,15.9,0.1
+Maharashtra,Nashik,Chickpea,Rabi,2005,285.1,310.8,1.09
+Maharashtra,Nashik,Chickpea,Rabi,2006,330.8,387.0,1.17
+Maharashtra,Nashik,Chickpea,Rabi,2007,478.7,124.5,0.26
+Maharashtra,Nashik,Chickpea,Rabi,2008,395.0,118.5,0.3
+Maharashtra,Nashik,Chickpea,Rabi,2009,398.2,378.3,0.95
+Maharashtra,Nashik,Chickpea,Rabi,2010,268.6,96.7,0.36
+Maharashtra,Nashik,Chickpea,Rabi,2011,205.0,53.3,0.26
+Maharashtra,Nashik,Chickpea,Rabi,2012,528.5,491.5,0.93
+Maharashtra,Nashik,Chickpea,Rabi,2013,77.0,21.6,0.28
+Maharashtra,Nashik,Chickpea,Rabi,2014,971.4,1029.7,1.06
+Maharashtra,Nashik,Chickpea,Rabi,2015,448.7,170.5,0.38
+Maharashtra,Nashik,Chickpea,Rabi,2016,208.6,262.8,1.26
+Maharashtra,Nashik,Chickpea,Rabi,2017,546.5,131.2,0.24
+Maharashtra,Nashik,Chickpea,Rabi,2018,585.1,128.7,0.22
+Maharashtra,Nashik,Chickpea,Rabi,2019,410.6,537.9,1.31
+Maharashtra,Nashik,Chickpea,Rabi,2020,237.2,102.0,0.43
+Maharashtra,Nashik,Chickpea,Rabi,2021,600.4,210.1,0.35
+Maharashtra,Nashik,Chickpea,Rabi,2022,286.4,126.0,0.44
+Maharashtra,Nashik,Chickpea,Rabi,2023,273.5,270.8,0.99
+Maharashtra,Nashik,Chickpea,Rabi,2024,383.0,141.7,0.37
+Bihar,Patna,Chickpea,Rabi,2005,330.3,508.7,1.54
+Bihar,Patna,Chickpea,Rabi,2006,286.2,506.6,1.77
+Bihar,Patna,Chickpea,Rabi,2007,826.5,363.7,0.44
+Bihar,Patna,Chickpea,Rabi,2008,275.6,413.4,1.5
+Bihar,Patna,Chickpea,Rabi,2009,342.3,540.8,1.58
+Bihar,Patna,Chickpea,Rabi,2010,376.5,210.8,0.56
+Bihar,Patna,Chickpea,Rabi,2011,484.4,746.0,1.54
+Bihar,Patna,Chickpea,Rabi,2012,214.3,293.6,1.37
+Bihar,Patna,Chickpea,Rabi,2013,436.6,240.1,0.55
+Bihar,Patna,Chickpea,Rabi,2014,111.1,61.1,0.55
+Bihar,Patna,Chickpea,Rabi,2015,485.1,781.0,1.61
+Bihar,Patna,Chickpea,Rabi,2016,235.0,124.6,0.53
+Bihar,Patna,Chickpea,Rabi,2017,497.3,238.7,0.48
+Bihar,Patna,Chickpea,Rabi,2018,365.2,208.2,0.57
+Bihar,Patna,Chickpea,Rabi,2019,530.9,711.4,1.34
+Bihar,Patna,Chickpea,Rabi,2020,310.1,176.8,0.57
+Bihar,Patna,Chickpea,Rabi,2021,669.6,448.6,0.67
+Bihar,Patna,Chickpea,Rabi,2022,210.1,310.9,1.48
+Bihar,Patna,Chickpea,Rabi,2023,372.9,589.2,1.58
+Bihar,Patna,Chickpea,Rabi,2024,366.9,539.3,1.47
+Gujarat,Rajkot,Chickpea,Rabi,2011,159.3,78.1,0.49
+Gujarat,Rajkot,Chickpea,Rabi,2018,414.6,41.5,0.1
+Tamil Nadu,Thanjavur,Chickpea,Rabi,2006,448.4,44.8,0.1
+Tamil Nadu,Thanjavur,Chickpea,Rabi,2009,400.3,40.0,0.1
+Tamil Nadu,Thanjavur,Chickpea,Rabi,2016,293.3,29.3,0.1
+Tamil Nadu,Thanjavur,Chickpea,Rabi,2021,853.4,85.3,0.1
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2005,276.7,428.9,1.55
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2006,718.5,1063.4,1.48
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2007,98.1,62.8,0.64
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2008,405.5,567.7,1.4
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2009,907.5,1270.5,1.4
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2010,654.3,320.6,0.49
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2011,131.4,223.4,1.7
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2012,101.9,55.0,0.54
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2013,784.4,1200.1,1.53
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2014,447.2,675.3,1.51
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2015,481.1,875.6,1.82
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2016,534.4,897.8,1.68
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2017,605.9,1011.9,1.67
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2018,257.1,169.7,0.66
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2019,187.4,163.0,0.87
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2020,159.7,284.3,1.78
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2021,209.2,370.3,1.77
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2022,574.6,712.5,1.24
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2023,475.9,318.9,0.67
+Uttar Pradesh,Varanasi,Chickpea,Rabi,2024,569.2,922.1,1.62
+West Bengal,Burdwan,Coffee,Kharif,2006,207.5,27.0,0.13
+West Bengal,Burdwan,Coffee,Kharif,2014,470.1,47.0,0.1
+West Bengal,Burdwan,Coffee,Rabi,2005,310.0,49.6,0.16
+West Bengal,Burdwan,Coffee,Rabi,2013,292.3,58.5,0.2
+West Bengal,Burdwan,Coffee,Rabi,2022,321.1,64.2,0.2
+Andhra Pradesh,Guntur,Coffee,Kharif,2009,132.2,21.2,0.16
+Andhra Pradesh,Guntur,Coffee,Kharif,2018,618.3,98.9,0.16
+Andhra Pradesh,Guntur,Coffee,Rabi,2018,484.5,135.7,0.28
+Madhya Pradesh,Indore,Coffee,Kharif,2017,251.8,42.8,0.17
+Madhya Pradesh,Indore,Coffee,Kharif,2020,367.4,44.1,0.12
+Madhya Pradesh,Indore,Coffee,Kharif,2024,292.0,29.2,0.1
+Haryana,Karnal,Coffee,Kharif,2019,300.9,48.1,0.16
+Haryana,Karnal,Coffee,Kharif,2020,269.4,43.1,0.16
+Haryana,Karnal,Coffee,Rabi,2005,290.3,29.0,0.1
+Rajasthan,Kota,Coffee,Kharif,2010,192.8,28.9,0.15
+Rajasthan,Kota,Coffee,Kharif,2019,383.1,65.1,0.17
+Rajasthan,Kota,Coffee,Rabi,2012,307.0,30.7,0.1
+Rajasthan,Kota,Coffee,Rabi,2014,789.0,78.9,0.1
+Rajasthan,Kota,Coffee,Rabi,2018,556.2,66.7,0.12
+Rajasthan,Kota,Coffee,Rabi,2023,94.9,9.5,0.1
+Punjab,Ludhiana,Coffee,Kharif,2008,326.1,48.9,0.15
+Punjab,Ludhiana,Coffee,Rabi,2024,472.7,47.3,0.1
+Karnataka,Mandya,Coffee,Kharif,2005,404.9,93.1,0.23
+Karnataka,Mandya,Coffee,Kharif,2006,293.5,70.4,0.24
+Karnataka,Mandya,Coffee,Kharif,2007,142.8,14.3,0.1
+Karnataka,Mandya,Coffee,Kharif,2008,411.6,160.5,0.39
+Karnataka,Mandya,Coffee,Kharif,2009,217.5,21.8,0.1
+Karnataka,Mandya,Coffee,Kharif,2010,516.6,191.1,0.37
+Karnataka,Mandya,Coffee,Kharif,2011,348.1,34.8,0.1
+Karnataka,Mandya,Coffee,Kharif,2012,503.3,105.7,0.21
+Karnataka,Mandya,Coffee,Kharif,2013,214.2,49.3,0.23
+Karnataka,Mandya,Coffee,Kharif,2014,231.1,55.5,0.24
+Karnataka,Mandya,Coffee,Kharif,2015,407.2,65.2,0.16
+Karnataka,Mandya,Coffee,Kharif,2016,384.6,57.7,0.15
+Karnataka,Mandya,Coffee,Kharif,2017,250.9,82.8,0.33
+Karnataka,Mandya,Coffee,Kharif,2018,658.9,336.0,0.51
+Karnataka,Mandya,Coffee,Kharif,2019,366.3,172.2,0.47
+Karnataka,Mandya,Coffee,Kharif,2020,428.6,171.4,0.4
+Karnataka,Mandya,Coffee,Kharif,2021,357.5,75.1,0.21
+Karnataka,Mandya,Coffee,Kharif,2022,458.8,100.9,0.22
+Karnataka,Mandya,Coffee,Kharif,2023,225.3,69.8,0.31
+Karnataka,Mandya,Coffee,Kharif,2024,283.9,45.4,0.16
+Karnataka,Mandya,Coffee,Rabi,2005,309.6,55.7,0.18
+Karnataka,Mandya,Coffee,Rabi,2006,566.7,90.7,0.16
+Karnataka,Mandya,Coffee,Rabi,2007,329.7,151.7,0.46
+Karnataka,Mandya,Coffee,Rabi,2008,276.2,49.7,0.18
+Karnataka,Mandya,Coffee,Rabi,2009,581.9,69.8,0.12
+Karnataka,Mandya,Coffee,Rabi,2010,410.5,61.6,0.15
+Karnataka,Mandya,Coffee,Rabi,2011,584.6,87.7,0.15
+Karnataka,Mandya,Coffee,Rabi,2012,219.0,74.5,0.34
+Karnataka,Mandya,Coffee,Rabi,2013,214.1,36.4,0.17
+Karnataka,Mandya,Coffee,Rabi,2014,339.9,299.1,0.88
+Karnataka,Mandya,Coffee,Rabi,2015,270.1,170.2,0.63
+Karnataka,Mandya,Coffee,Rabi,2016,484.7,334.4,0.69
+Karnataka,Mandya,Coffee,Rabi,2017,453.8,217.8,0.48
+Karnataka,Mandya,Coffee,Rabi,2018,410.3,69.8,0.17
+Karnataka,Mandya,Coffee,Rabi,2019,978.4,1056.7,1.08
+Karnataka,Mandya,Coffee,Rabi,2020,456.4,351.4,0.77
+Karnataka,Mandya,Coffee,Rabi,2021,105.8,95.2,0.9
+Karnataka,Mandya,Coffee,Rabi,2022,703.0,154.7,0.22
+Karnataka,Mandya,Coffee,Rabi,2023,329.5,187.8,0.57
+Karnataka,Mandya,Coffee,Rabi,2024,135.3,96.1,0.71
+Maharashtra,Nashik,Coffee,Kharif,2009,334.0,46.8,0.14
+Maharashtra,Nashik,Coffee,Kharif,2015,232.8,23.3,0.1
+Maharashtra,Nashik,Coffee,Kharif,2022,895.9,143.3,0.16
+Maharashtra,Nashik,Coffee,Rabi,2008,457.1,45.7,0.1
+Maharashtra,Nashik,Coffee,Rabi,2016,148.7,52.0,0.35
+Maharashtra,Nashik,Coffee,Rabi,2017,429.1,184.5,0.43
+Maharashtra,Nashik,Coffee,Rabi,2022,503.3,70.5,0.14
+Bihar,Patna,Coffee,Kharif,2009,482.5,72.4,0.15
+Bihar,Patna,Coffee,Kharif,2020,578.1,69.4,0.12
+Bihar,Patna,Coffee,Rabi,2010,207.9,20.8,0.1
+Bihar,Patna,Coffee,Rabi,2016,330.2,33.0,0.1
+Gujarat,Rajkot,Coffee,Kharif,2006,435.7,69.7,0.16
+Gujarat,Rajkot,Coffee,Rabi,2006,1044.6,114.9,0.11
+Gujarat,Rajkot,Coffee,Rabi,2008,531.3,175.3,0.33
+Gujarat,Rajkot,Coffee,Rabi,2009,287.6,97.8,0.34
+Gujarat,Rajkot,Coffee,Rabi,2019,943.0,245.2,0.26
+Gujarat,Rajkot,Coffee,Rabi,2021,486.1,111.8,0.23
+Tamil Nadu,Thanjavur,Coffee,Rabi,2018,344.6,110.3,0.32
+Uttar Pradesh,Varanasi,Coffee,Kharif,2012,205.3,28.7,0.14
+Uttar Pradesh,Varanasi,Coffee,Kharif,2018,184.6,31.4,0.17
+Uttar Pradesh,Varanasi,Coffee,Kharif,2020,137.7,13.8,0.1
+Uttar Pradesh,Varanasi,Coffee,Rabi,2005,337.0,33.7,0.1
+Uttar Pradesh,Varanasi,Coffee,Rabi,2006,178.7,17.9,0.1
+Uttar Pradesh,Varanasi,Coffee,Rabi,2012,423.4,42.3,0.1
+West Bengal,Burdwan,Cotton,Kharif,2019,766.7,253.0,0.33
+Andhra Pradesh,Guntur,Cotton,Kharif,2005,555.6,755.6,1.36
+Andhra Pradesh,Guntur,Cotton,Kharif,2006,390.6,226.5,0.58
+Andhra Pradesh,Guntur,Cotton,Kharif,2007,213.8,186.0,0.87
+Andhra Pradesh,Guntur,Cotton,Kharif,2008,111.3,146.9,1.32
+Andhra Pradesh,Guntur,Cotton,Kharif,2009,632.0,549.8,0.87
+Andhra Pradesh,Guntur,Cotton,Kharif,2010,148.4,228.5,1.54
+Andhra Pradesh,Guntur,Cotton,Kharif,2011,348.8,341.8,0.98
+Andhra Pradesh,Guntur,Cotton,Kharif,2012,226.1,153.7,0.68
+Andhra Pradesh,Guntur,Cotton,Kharif,2013,910.4,1465.7,1.61
+Andhra Pradesh,Guntur,Cotton,Kharif,2014,65.7,66.4,1.01
+Andhra Pradesh,Guntur,Cotton,Kharif,2015,240.1,206.5,0.86
+Andhra Pradesh,Guntur,Cotton,Kharif,2016,305.9,162.1,0.53
+Andhra Pradesh,Guntur,Cotton,Kharif,2017,709.6,1043.1,1.47
+Andhra Pradesh,Guntur,Cotton,Kharif,2018,88.7,105.6,1.19
+Andhra Pradesh,Guntur,Cotton,Kharif,2019,578.2,242.8,0.42
+Andhra Pradesh,Guntur,Cotton,Kharif,2020,420.0,138.6,0.33
+Andhra Pradesh,Guntur,Cotton,Kharif,2021,672.2,685.6,1.02
+Andhra Pradesh,Guntur,Cotton,Kharif,2022,901.9,631.3,0.7
+Andhra Pradesh,Guntur,Cotton,Kharif,2023,665.5,292.8,0.44
+Andhra Pradesh,Guntur,Cotton,Kharif,2024,648.5,1044.1,1.61
+Madhya Pradesh,Indore,Cotton,Kharif,2005,455.8,770.3,1.69
+Madhya Pradesh,Indore,Cotton,Kharif,2006,197.1,226.7,1.15
+Madhya Pradesh,Indore,Cotton,Kharif,2007,186.6,268.7,1.44
+Madhya Pradesh,Indore,Cotton,Kharif,2008,266.6,189.3,0.71
+Madhya Pradesh,Indore,Cotton,Kharif,2009,514.2,318.8,0.62
+Madhya Pradesh,Indore,Cotton,Kharif,2010,194.2,141.8,0.73
+Madhya Pradesh,Indore,Cotton,Kharif,2011,409.2,744.7,1.82
+Madhya Pradesh,Indore,Cotton,Kharif,2012,95.0,40.9,0.43
+Madhya Pradesh,Indore,Cotton,Kharif,2013,212.6,78.7,0.37
+Madhya Pradesh,Indore,Cotton,Kharif,2014,202.9,265.8,1.31
+Madhya Pradesh,Indore,Cotton,Kharif,2015,591.3,360.7,0.61
+Madhya Pradesh,Indore,Cotton,Kharif,2016,269.5,102.4,0.38
+Madhya Pradesh,Indore,Cotton,Kharif,2017,79.9,61.5,0.77
+Madhya Pradesh,Indore,Cotton,Kharif,2018,301.6,410.2,1.36
+Madhya Pradesh,Indore,Cotton,Kharif,2019,142.0,41.2,0.29
+Madhya Pradesh,Indore,Cotton,Kharif,2020,321.1,125.2,0.39
+Madhya Pradesh,Indore,Cotton,Kharif,2021,410.2,865.5,2.11
+Madhya Pradesh,Indore,Cotton,Kharif,2022,646.3,258.5,0.4
+Madhya Pradesh,Indore,Cotton,Kharif,2023,806.2,685.3,0.85
+Madhya Pradesh,Indore,Cotton,Kharif,2024,641.8,1424.8,2.22
+Haryana,Karnal,Cotton,Kharif,2006,223.9,295.5,1.32
+Haryana,Karnal,Cotton,Kharif,2013,153.6,185.9,1.21
+Rajasthan,Kota,Cotton,Kharif,2009,378.0,446.0,1.18
+Rajasthan,Kota,Cotton,Kharif,2017,332.7,442.5,1.33
+Punjab,Ludhiana,Cotton,Kharif,2005,188.0,161.7,0.86
+Punjab,Ludhiana,Cotton,Kharif,2006,108.9,82.8,0.76
+Punjab,Ludhiana,Cotton,Kharif,2007,408.1,457.1,1.12
+Punjab,Ludhiana,Cotton,Kharif,2008,724.9,724.9,1.0
+Punjab,Ludhiana,Cotton,Kharif,2009,270.5,173.1,0.64
+Punjab,Ludhiana,Cotton,Kharif,2010,230.1,280.7,1.22
+Punjab,Ludhiana,Cotton,Kharif,2011,538.1,301.3,0.56
+Punjab,Ludhiana,Cotton,Kharif,2012,232.4,353.2,1.52
+Punjab,Ludhiana,Cotton,Kharif,2013,310.3,412.7,1.33
+Punjab,Ludhiana,Cotton,Kharif,2014,217.0,167.1,0.77
+Punjab,Ludhiana,Cotton,Kharif,2015,248.1,163.7,0.66
+Punjab,Ludhiana,Cotton,Kharif,2016,641.2,660.4,1.03
+Punjab,Ludhiana,Cotton,Kharif,2017,101.1,76.8,0.76
+Punjab,Ludhiana,Cotton,Kharif,2018,432.1,544.4,1.26
+Punjab,Ludhiana,Cotton,Kharif,2019,262.1,89.1,0.34
+Punjab,Ludhiana,Cotton,Kharif,2020,106.8,68.4,0.64
+Punjab,Ludhiana,Cotton,Kharif,2021,325.5,260.4,0.8
+Punjab,Ludhiana,Cotton,Kharif,2022,327.7,337.5,1.03
+Punjab,Ludhiana,Cotton,Kharif,2023,207.0,157.3,0.76
+Punjab,Ludhiana,Cotton,Kharif,2024,183.3,254.8,1.39
+Karnataka,Mandya,Cotton,Kharif,2014,508.6,503.5,0.99
+Karnataka,Mandya,Cotton,Kharif,2022,335.8,275.4,0.82
+Maharashtra,Nashik,Cotton,Kharif,2005,969.6,281.2,0.29
+Maharashtra,Nashik,Cotton,Kharif,2006,488.1,136.7,0.28
+Maharashtra,Nashik,Cotton,Kharif,2007,255.8,87.0,0.34
+Maharashtra,Nashik,Cotton,Kharif,2008,227.9,79.8,0.35
+Maharashtra,Nashik,Cotton,Kharif,2009,471.7,570.8,1.21
+Maharashtra,Nashik,Cotton,Kharif,2010,239.1,57.4,0.24
+Maharashtra,Nashik,Cotton,Kharif,2011,591.3,467.1,0.79
+Maharashtra,Nashik,Cotton,Kharif,2012,204.2,69.4,0.34
+Maharashtra,Nashik,Cotton,Kharif,2013,226.2,101.8,0.45
+Maharashtra,Nashik,Cotton,Kharif,2014,432.9,251.1,0.58
+Maharashtra,Nashik,Cotton,Kharif,2015,230.3,82.9,0.36
+Maharashtra,Nashik,Cotton,Kharif,2016,344.8,417.2,1.21
+Maharashtra,Nashik,Cotton,Kharif,2017,258.7,222.5,0.86
+Maharashtra,Nashik,Cotton,Kharif,2018,279.1,103.3,0.37
+Maharashtra,Nashik,Cotton,Kharif,2019,169.9,108.7,0.64
+Maharashtra,Nashik,Cotton,Kharif,2020,275.6,275.6,1.0
+Maharashtra,Nashik,Cotton,Kharif,2021,537.5,344.0,0.64
+Maharashtra,Nashik,Cotton,Kharif,2022,92.9,97.5,1.05
+Maharashtra,Nashik,Cotton,Kharif,2023,204.3,91.9,0.45
+Maharashtra,Nashik,Cotton,Kharif,2024,373.9,160.8,0.43
+Bihar,Patna,Cotton,Kharif,2008,587.0,1033.1,1.76
+Bihar,Patna,Cotton,Kharif,2009,228.6,274.3,1.2
+Gujarat,Rajkot,Cotton,Kharif,2005,591.5,372.6,0.63
+Gujarat,Rajkot,Cotton,Kharif,2006,314.4,440.2,1.4
+Gujarat,Rajkot,Cotton,Kharif,2007,261.0,250.6,0.96
+Gujarat,Rajkot,Cotton,Kharif,2008,439.4,549.2,1.25
+Gujarat,Rajkot,Cotton,Kharif,2009,102.0,136.7,1.34
+Gujarat,Rajkot,Cotton,Kharif,2010,159.9,193.5,1.21
+Gujarat,Rajkot,Cotton,Kharif,2011,366.1,347.8,0.95
+Gujarat,Rajkot,Cotton,Kharif,2012,177.9,167.2,0.94
+Gujarat,Rajkot,Cotton,Kharif,2013,238.7,236.3,0.99
+Gujarat,Rajkot,Cotton,Kharif,2014,448.2,614.0,1.37
+Gujarat,Rajkot,Cotton,Kharif,2015,656.6,433.4,0.66
+Gujarat,Rajkot,Cotton,Kharif,2016,479.9,609.5,1.27
+Gujarat,Rajkot,Cotton,Kharif,2017,730.8,555.4,0.76
+Gujarat,Rajkot,Cotton,Kharif,2018,138.1,77.3,0.56
+Gujarat,Rajkot,Cotton,Kharif,2019,119.5,184.0,1.54
+Gujarat,Rajkot,Cotton,Kharif,2020,183.2,349.9,1.91
+Gujarat,Rajkot,Cotton,Kharif,2021,674.0,539.2,0.8
+Gujarat,Rajkot,Cotton,Kharif,2022,295.1,100.3,0.34
+Gujarat,Rajkot,Cotton,Kharif,2023,518.9,337.3,0.65
+Gujarat,Rajkot,Cotton,Kharif,2024,380.9,224.7,0.59
+Tamil Nadu,Thanjavur,Cotton,Kharif,2022,196.8,88.6,0.45
+Uttar Pradesh,Varanasi,Cotton,Kharif,2006,224.3,74.0,0.33
+West Bengal,Burdwan,Groundnut,Kharif,2015,518.7,197.1,0.38
+West Bengal,Burdwan,Groundnut,Summer,2009,608.0,218.9,0.36
+Andhra Pradesh,Guntur,Groundnut,Kharif,2005,440.8,409.9,0.93
+Andhra Pradesh,Guntur,Groundnut,Kharif,2006,133.8,96.3,0.72
+Andhra Pradesh,Guntur,Groundnut,Kharif,2007,181.0,30.8,0.17
+Andhra Pradesh,Guntur,Groundnut,Kharif,2008,418.4,100.4,0.24
+Andhra Pradesh,Guntur,Groundnut,Kharif,2009,150.3,24.0,0.16
+Andhra Pradesh,Guntur,Groundnut,Kharif,2010,314.7,100.7,0.32
+Andhra Pradesh,Guntur,Groundnut,Kharif,2011,446.6,67.0,0.15
+Andhra Pradesh,Guntur,Groundnut,Kharif,2012,169.5,35.6,0.21
+Andhra Pradesh,Guntur,Groundnut,Kharif,2013,727.1,123.6,0.17
+Andhra Pradesh,Guntur,Groundnut,Kharif,2014,361.8,72.4,0.2
+Andhra Pradesh,Guntur,Groundnut,Kharif,2015,146.6,22.0,0.15
+Andhra Pradesh,Guntur,Groundnut,Kharif,2016,789.3,126.3,0.16
+Andhra Pradesh,Guntur,Groundnut,Kharif,2017,473.6,497.3,1.05
+Andhra Pradesh,Guntur,Groundnut,Kharif,2018,447.8,89.6,0.2
+Andhra Pradesh,Guntur,Groundnut,Kharif,2019,561.2,145.9,0.26
+Andhra Pradesh,Guntur,Groundnut,Kharif,2020,513.8,82.2,0.16
+Andhra Pradesh,Guntur,Groundnut,Kharif,2021,208.1,222.7,1.07
+Andhra Pradesh,Guntur,Groundnut,Kharif,2022,547.1,54.7,0.1
+Andhra Pradesh,Guntur,Groundnut,Kharif,2023,232.4,46.5,0.2
+Andhra Pradesh,Guntur,Groundnut,Kharif,2024,144.8,152.0,1.05
+Andhra Pradesh,Guntur,Groundnut,Summer,2005,328.2,101.7,0.31
+Andhra Pradesh,Guntur,Groundnut,Summer,2006,148.9,25.3,0.17
+Andhra Pradesh,Guntur,Groundnut,Summer,2007,87.8,16.7,0.19
+Andhra Pradesh,Guntur,Groundnut,Summer,2008,230.1,43.7,0.19
+Andhra Pradesh,Guntur,Groundnut,Summer,2009,418.0,41.8,0.1
+Andhra Pradesh,Guntur,Groundnut,Summer,2010,358.4,96.8,0.27
+Andhra Pradesh,Guntur,Groundnut,Summer,2011,28.0,5.6,0.2
+Andhra Pradesh,Guntur,Groundnut,Summer,2012,265.5,47.8,0.18
+Andhra Pradesh,Guntur,Groundnut,Summer,2013,335.4,60.4,0.18
+Andhra Pradesh,Guntur,Groundnut,Summer,2014,475.9,47.6,0.1
+Andhra Pradesh,Guntur,Groundnut,Summer,2015,320.9,61.0,0.19
+Andhra Pradesh,Guntur,Groundnut,Summer,2016,234.4,75.0,0.32
+Andhra Pradesh,Guntur,Groundnut,Summer,2017,1048.7,230.7,0.22
+Andhra Pradesh,Guntur,Groundnut,Summer,2018,780.0,140.4,0.18
+Andhra Pradesh,Guntur,Groundnut,Summer,2019,318.1,111.3,0.35
+Andhra Pradesh,Guntur,Groundnut,Summer,2020,425.8,140.5,0.33
+Andhra Pradesh,Guntur,Groundnut,Summer,2021,492.3,103.4,0.21
+Andhra Pradesh,Guntur,Groundnut,Summer,2022,200.3,20.0,0.1
+Andhra Pradesh,Guntur,Groundnut,Summer,2023,142.7,31.4,0.22
+Andhra Pradesh,Guntur,Groundnut,Summer,2024,405.7,77.1,0.19
+Madhya Pradesh,Indore,Groundnut,Kharif,2007,205.2,55.4,0.27
+Madhya Pradesh,Indore,Groundnut,Summer,2006,372.5,100.6,0.27
+Madhya Pradesh,Indore,Groundnut,Summer,2012,342.8,68.6,0.2
+Haryana,Karnal,Groundnut,Kharif,2016,201.7,104.9,0.52
+Haryana,Karnal,Groundnut,Kharif,2017,415.7,291.0,0.7
+Haryana,Karnal,Groundnut,Summer,2015,344.9,79.3,0.23
+Haryana,Karnal,Groundnut,Summer,2016,474.7,113.9,0.24
+Rajasthan,Kota,Groundnut,Kharif,2016,929.9,306.9,0.33
+Rajasthan,Kota,Groundnut,Kharif,2018,680.9,163.4,0.24
+Rajasthan,Kota,Groundnut,Summer,2018,307.7,55.4,0.18
+Rajasthan,Kota,Groundnut,Summer,2019,446.5,80.4,0.18
+Rajasthan,Kota,Groundnut,Summer,2022,334.6,60.2,0.18
+Punjab,Ludhiana,Groundnut,Kharif,2005,395.5,67.2,0.17
+Punjab,Ludhiana,Groundnut,Summer,2006,993.0,317.8,0.32
+Punjab,Ludhiana,Groundnut,Summer,2020,167.2,53.5,0.32
+Karnataka,Mandya,Groundnut,Kharif,2005,290.4,281.7,0.97
+Karnataka,Mandya,Groundnut,Kharif,2006,219.7,184.5,0.84
+Karnataka,Mandya,Groundnut,Kharif,2007,131.1,186.2,1.42
+Karnataka,Mandya,Groundnut,Kharif,2008,641.7,616.0,0.96
+Karnataka,Mandya,Groundnut,Kharif,2009,330.7,393.5,1.19
+Karnataka,Mandya,Groundnut,Kharif,2010,109.1,89.5,0.82
+Karnataka,Mandya,Groundnut,Kharif,2011,707.1,1414.2,2.0
+Karnataka,Mandya,Groundnut,Kharif,2012,618.9,965.5,1.56
+Karnataka,Mandya,Groundnut,Kharif,2013,306.1,422.4,1.38
+Karnataka,Mandya,Groundnut,Kharif,2014,218.7,275.6,1.26
+Karnataka,Mandya,Groundnut,Kharif,2015,673.3,1521.7,2.26
+Karnataka,Mandya,Groundnut,Kharif,2016,372.0,651.0,1.75
+Karnataka,Mandya,Groundnut,Kharif,2017,462.6,948.3,2.05
+Karnataka,Mandya,Groundnut,Kharif,2018,693.2,388.2,0.56
+Karnataka,Mandya,Groundnut,Kharif,2019,406.1,150.3,0.37
+Karnataka,Mandya,Groundnut,Kharif,2020,1156.9,2140.3,1.85
+Karnataka,Mandya,Groundnut,Kharif,2021,156.1,142.1,0.91
+Karnataka,Mandya,Groundnut,Kharif,2022,896.6,385.5,0.43
+Karnataka,Mandya,Groundnut,Kharif,2023,245.8,295.0,1.2
+Karnataka,Mandya,Groundnut,Kharif,2024,330.0,432.3,1.31
+Karnataka,Mandya,Groundnut,Summer,2005,519.9,577.1,1.11
+Karnataka,Mandya,Groundnut,Summer,2006,503.6,125.9,0.25
+Karnataka,Mandya,Groundnut,Summer,2007,231.3,78.6,0.34
+Karnataka,Mandya,Groundnut,Summer,2008,753.6,309.0,0.41
+Karnataka,Mandya,Groundnut,Summer,2009,447.9,120.9,0.27
+Karnataka,Mandya,Groundnut,Summer,2010,521.6,1058.8,2.03
+Karnataka,Mandya,Groundnut,Summer,2011,418.9,703.8,1.68
+Karnataka,Mandya,Groundnut,Summer,2012,614.0,896.4,1.46
+Karnataka,Mandya,Groundnut,Summer,2013,270.4,427.2,1.58
+Karnataka,Mandya,Groundnut,Summer,2014,188.0,73.3,0.39
+Karnataka,Mandya,Groundnut,Summer,2015,920.9,1436.6,1.56
+Karnataka,Mandya,Groundnut,Summer,2016,158.8,73.0,0.46
+Karnataka,Mandya,Groundnut,Summer,2017,499.0,778.4,1.56
+Karnataka,Mandya,Groundnut,Summer,2018,185.8,371.6,2.0
+Karnataka,Mandya,Groundnut,Summer,2019,388.2,601.7,1.55
+Karnataka,Mandya,Groundnut,Summer,2020,318.7,573.7,1.8
+Karnataka,Mandya,Groundnut,Summer,2021,512.8,1051.2,2.05
+Karnataka,Mandya,Groundnut,Summer,2022,518.5,591.1,1.14
+Karnataka,Mandya,Groundnut,Summer,2023,329.8,148.4,0.45
+Karnataka,Mandya,Groundnut,Summer,2024,328.9,148.0,0.45
+Maharashtra,Nashik,Groundnut,Kharif,2005,406.8,105.8,0.26
+Maharashtra,Nashik,Groundnut,Kharif,2006,167.0,41.8,0.25
+Maharashtra,Nashik,Groundnut,Kharif,2007,836.6,217.5,0.26
+Maharashtra,Nashik,Groundnut,Kharif,2008,253.4,68.4,0.27
+Maharashtra,Nashik,Groundnut,Kharif,2009,278.5,339.8,1.22
+Maharashtra,Nashik,Groundnut,Kharif,2010,309.4,83.5,0.27
+Maharashtra,Nashik,Groundnut,Kharif,2011,676.7,933.8,1.38
+Maharashtra,Nashik,Groundnut,Kharif,2012,454.0,281.5,0.62
+Maharashtra,Nashik,Groundnut,Kharif,2013,145.1,40.6,0.28
+Maharashtra,Nashik,Groundnut,Kharif,2014,218.4,59.0,0.27
+Maharashtra,Nashik,Groundnut,Kharif,2015,232.7,130.3,0.56
+Maharashtra,Nashik,Groundnut,Kharif,2016,117.3,39.9,0.34
+Maharashtra,Nashik,Groundnut,Kharif,2017,284.7,88.3,0.31
+Maharashtra,Nashik,Groundnut,Kharif,2018,209.8,58.7,0.28
+Maharashtra,Nashik,Groundnut,Kharif,2019,676.8,176.0,0.26
+Maharashtra,Nashik,Groundnut,Kharif,2020,96.4,25.1,0.26
+Maharashtra,Nashik,Groundnut,Kharif,2021,173.8,252.0,1.45
+Maharashtra,Nashik,Groundnut,Kharif,2022,850.1,1105.1,1.3
+Maharashtra,Nashik,Groundnut,Kharif,2023,267.2,173.7,0.65
+Maharashtra,Nashik,Groundnut,Kharif,2024,191.2,55.4,0.29
+Maharashtra,Nashik,Groundnut,Summer,2005,378.8,72.0,0.19
+Maharashtra,Nashik,Groundnut,Summer,2006,36.1,20.6,0.57
+Maharashtra,Nashik,Groundnut,Summer,2007,296.2,115.5,0.39
+Maharashtra,Nashik,Groundnut,Summer,2008,266.1,61.2,0.23
+Maharashtra,Nashik,Groundnut,Summer,2009,300.3,45.0,0.15
+Maharashtra,Nashik,Groundnut,Summer,2010,353.7,70.7,0.2
+Maharashtra,Nashik,Groundnut,Summer,2011,753.5,165.8,0.22
+Maharashtra,Nashik,Groundnut,Summer,2012,414.8,41.5,0.1
+Maharashtra,Nashik,Groundnut,Summer,2013,416.3,154.0,0.37
+Maharashtra,Nashik,Groundnut,Summer,2014,189.7,19.0,0.1
+Maharashtra,Nashik,Groundnut,Summer,2015,809.1,323.6,0.4
+Maharashtra,Nashik,Groundnut,Summer,2016,642.3,83.5,0.13
+Maharashtra,Nashik,Groundnut,Summer,2017,578.0,156.1,0.27
+Maharashtra,Nashik,Groundnut,Summer,2018,585.6,269.4,0.46
+Maharashtra,Nashik,Groundnut,Summer,2019,151.6,71.3,0.47
+Maharashtra,Nashik,Groundnut,Summer,2020,72.0,60.5,0.84
+Maharashtra,Nashik,Groundnut,Summer,2021,441.4,309.0,0.7
+Maharashtra,Nashik,Groundnut,Summer,2022,556.1,166.8,0.3
+Maharashtra,Nashik,Groundnut,Summer,2023,155.1,31.0,0.2
+Maharashtra,Nashik,Groundnut,Summer,2024,428.9,308.8,0.72
+Bihar,Patna,Groundnut,Kharif,2014,146.1,29.2,0.2
+Bihar,Patna,Groundnut,Kharif,2023,380.1,117.8,0.31
+Bihar,Patna,Groundnut,Kharif,2024,688.7,234.2,0.34
+Gujarat,Rajkot,Groundnut,Kharif,2005,430.7,120.6,0.28
+Gujarat,Rajkot,Groundnut,Kharif,2006,1001.6,290.5,0.29
+Gujarat,Rajkot,Groundnut,Kharif,2007,341.8,109.4,0.32
+Gujarat,Rajkot,Groundnut,Kharif,2008,207.2,161.6,0.78
+Gujarat,Rajkot,Groundnut,Kharif,2009,222.5,62.3,0.28
+Gujarat,Rajkot,Groundnut,Kharif,2010,728.4,779.4,1.07
+Gujarat,Rajkot,Groundnut,Kharif,2011,284.9,424.5,1.49
+Gujarat,Rajkot,Groundnut,Kharif,2012,149.4,225.6,1.51
+Gujarat,Rajkot,Groundnut,Kharif,2013,361.3,90.3,0.25
+Gujarat,Rajkot,Groundnut,Kharif,2014,308.3,413.1,1.34
+Gujarat,Rajkot,Groundnut,Kharif,2015,390.7,93.8,0.24
+Gujarat,Rajkot,Groundnut,Kharif,2016,445.5,512.3,1.15
+Gujarat,Rajkot,Groundnut,Kharif,2017,703.1,175.8,0.25
+Gujarat,Rajkot,Groundnut,Kharif,2018,261.3,70.6,0.27
+Gujarat,Rajkot,Groundnut,Kharif,2019,164.6,42.8,0.26
+Gujarat,Rajkot,Groundnut,Kharif,2020,250.9,75.3,0.3
+Gujarat,Rajkot,Groundnut,Kharif,2021,209.3,272.1,1.3
+Gujarat,Rajkot,Groundnut,Kharif,2022,315.7,63.1,0.2
+Gujarat,Rajkot,Groundnut,Kharif,2023,449.7,139.4,0.31
+Gujarat,Rajkot,Groundnut,Kharif,2024,570.5,450.7,0.79
+Gujarat,Rajkot,Groundnut,Summer,2005,120.4,21.7,0.18
+Gujarat,Rajkot,Groundnut,Summer,2006,616.0,117.0,0.19
+Gujarat,Rajkot,Groundnut,Summer,2007,481.2,48.1,0.1
+Gujarat,Rajkot,Groundnut,Summer,2008,155.4,31.1,0.2
+Gujarat,Rajkot,Groundnut,Summer,2009,511.1,127.8,0.25
+Gujarat,Rajkot,Groundnut,Summer,2010,669.9,221.1,0.33
+Gujarat,Rajkot,Groundnut,Summer,2011,413.3,86.8,0.21
+Gujarat,Rajkot,Groundnut,Summer,2012,688.8,186.0,0.27
+Gujarat,Rajkot,Groundnut,Summer,2013,216.2,75.7,0.35
+Gujarat,Rajkot,Groundnut,Summer,2014,851.9,85.2,0.1
+Gujarat,Rajkot,Groundnut,Summer,2015,269.8,56.7,0.21
+Gujarat,Rajkot,Groundnut,Summer,2016,473.9,99.5,0.21
+Gujarat,Rajkot,Groundnut,Summer,2017,292.2,29.2,0.1
+Gujarat,Rajkot,Groundnut,Summer,2018,350.2,112.1,0.32
+Gujarat,Rajkot,Groundnut,Summer,2019,249.4,52.4,0.21
+Gujarat,Rajkot,Groundnut,Summer,2020,473.4,47.3,0.1
+Gujarat,Rajkot,Groundnut,Summer,2021,288.5,106.7,0.37
+Gujarat,Rajkot,Groundnut,Summer,2022,482.3,135.0,0.28
+Gujarat,Rajkot,Groundnut,Summer,2023,403.2,96.8,0.24
+Gujarat,Rajkot,Groundnut,Summer,2024,385.3,146.4,0.38
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2005,192.5,211.8,1.1
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2006,666.3,226.5,0.34
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2007,434.6,334.6,0.77
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2008,306.3,147.0,0.48
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2009,172.6,93.2,0.54
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2010,196.2,84.4,0.43
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2011,483.1,154.6,0.32
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2012,180.2,162.2,0.9
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2013,238.5,133.6,0.56
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2014,470.4,244.6,0.52
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2015,812.9,341.4,0.42
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2016,253.0,134.1,0.53
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2017,382.5,202.7,0.53
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2018,374.2,194.6,0.52
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2019,532.7,298.3,0.56
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2020,257.9,149.6,0.58
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2021,253.2,248.1,0.98
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2022,903.8,379.6,0.42
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2023,95.6,121.4,1.27
+Tamil Nadu,Thanjavur,Groundnut,Kharif,2024,329.1,398.2,1.21
+Tamil Nadu,Thanjavur,Groundnut,Summer,2005,223.5,69.3,0.31
+Tamil Nadu,Thanjavur,Groundnut,Summer,2006,84.4,8.4,0.1
+Tamil Nadu,Thanjavur,Groundnut,Summer,2007,159.7,51.1,0.32
+Tamil Nadu,Thanjavur,Groundnut,Summer,2008,237.9,23.8,0.1
+Tamil Nadu,Thanjavur,Groundnut,Summer,2009,361.1,86.7,0.24
+Tamil Nadu,Thanjavur,Groundnut,Summer,2010,265.9,90.4,0.34
+Tamil Nadu,Thanjavur,Groundnut,Summer,2011,537.2,150.4,0.28
+Tamil Nadu,Thanjavur,Groundnut,Summer,2012,459.9,46.0,0.1
+Tamil Nadu,Thanjavur,Groundnut,Summer,2013,526.4,157.9,0.3
+Tamil Nadu,Thanjavur,Groundnut,Summer,2014,277.0,27.7,0.1
+Tamil Nadu,Thanjavur,Groundnut,Summer,2015,587.5,158.6,0.27
+Tamil Nadu,Thanjavur,Groundnut,Summer,2016,283.5,102.1,0.36
+Tamil Nadu,Thanjavur,Groundnut,Summer,2017,598.7,179.6,0.3
+Tamil Nadu,Thanjavur,Groundnut,Summer,2018,172.8,17.3,0.1
+Tamil Nadu,Thanjavur,Groundnut,Summer,2019,188.9,83.1,0.44
+Tamil Nadu,Thanjavur,Groundnut,Summer,2020,409.6,102.4,0.25
+Tamil Nadu,Thanjavur,Groundnut,Summer,2021,585.7,210.9,0.36
+Tamil Nadu,Thanjavur,Groundnut,Summer,2022,498.2,144.5,0.29
+Tamil Nadu,Thanjavur,Groundnut,Summer,2023,595.4,184.6,0.31
+Tamil Nadu,Thanjavur,Groundnut,Summer,2024,295.6,82.8,0.28
+Uttar Pradesh,Varanasi,Groundnut,Kharif,2006,273.4,71.1,0.26
+Uttar Pradesh,Varanasi,Groundnut,Kharif,2008,142.0,55.4,0.39
+Uttar Pradesh,Varanasi,Groundnut,Summer,2011,161.0,35.4,0.22
+Uttar Pradesh,Varanasi,Groundnut,Summer,2020,393.9,39.4,0.1
+West Bengal,Burdwan,Jowar,Kharif,2017,580.9,127.8,0.22
+Andhra Pradesh,Guntur,Jowar,Kharif,2005,278.1,77.9,0.28
+Andhra Pradesh,Guntur,Jowar,Kharif,2006,198.0,162.4,0.82
+Andhra Pradesh,Guntur,Jowar,Kharif,2007,164.8,225.8,1.37
+Andhra Pradesh,Guntur,Jowar,Kharif,2008,392.9,589.3,1.5
+Andhra Pradesh,Guntur,Jowar,Kharif,2009,191.5,101.5,0.53
+Andhra Pradesh,Guntur,Jowar,Kharif,2010,135.8,65.2,0.48
+Andhra Pradesh,Guntur,Jowar,Kharif,2011,319.3,92.6,0.29
+Andhra Pradesh,Guntur,Jowar,Kharif,2012,796.3,923.7,1.16
+Andhra Pradesh,Guntur,Jowar,Kharif,2013,486.8,593.9,1.22
+Andhra Pradesh,Guntur,Jowar,Kharif,2014,683.3,225.5,0.33
+Andhra Pradesh,Guntur,Jowar,Kharif,2015,339.0,98.3,0.29
+Andhra Pradesh,Guntur,Jowar,Kharif,2016,225.8,83.5,0.37
+Andhra Pradesh,Guntur,Jowar,Kharif,2017,539.6,151.1,0.28
+Andhra Pradesh,Guntur,Jowar,Kharif,2018,100.6,114.7,1.14
+Andhra Pradesh,Guntur,Jowar,Kharif,2019,420.6,147.2,0.35
+Andhra Pradesh,Guntur,Jowar,Kharif,2020,316.2,94.9,0.3
+Andhra Pradesh,Guntur,Jowar,Kharif,2021,557.8,178.5,0.32
+Andhra Pradesh,Guntur,Jowar,Kharif,2022,197.3,67.1,0.34
+Andhra Pradesh,Guntur,Jowar,Kharif,2023,672.0,342.7,0.51
+Andhra Pradesh,Guntur,Jowar,Kharif,2024,311.1,127.6,0.41
+Andhra Pradesh,Guntur,Jowar,Rabi,2005,577.8,479.6,0.83
+Andhra Pradesh,Guntur,Jowar,Rabi,2006,551.0,88.2,0.16
+Andhra Pradesh,Guntur,Jowar,Rabi,2007,903.8,162.7,0.18
+Andhra Pradesh,Guntur,Jowar,Rabi,2008,380.4,311.9,0.82
+Andhra Pradesh,Guntur,Jowar,Rabi,2009,103.3,86.8,0.84
+Andhra Pradesh,Guntur,Jowar,Rabi,2010,258.4,199.0,0.77
+Andhra Pradesh,Guntur,Jowar,Rabi,2011,659.8,508.0,0.77
+Andhra Pradesh,Guntur,Jowar,Rabi,2012,636.9,605.1,0.95
+Andhra Pradesh,Guntur,Jowar,Rabi,2013,202.9,158.3,0.78
+Andhra Pradesh,Guntur,Jowar,Rabi,2014,364.8,69.3,0.19
+Andhra Pradesh,Guntur,Jowar,Rabi,2015,200.8,228.9,1.14
+Andhra Pradesh,Guntur,Jowar,Rabi,2016,323.1,384.5,1.19
+Andhra Pradesh,Guntur,Jowar,Rabi,2017,455.6,510.3,1.12
+Andhra Pradesh,Guntur,Jowar,Rabi,2018,426.6,354.1,0.83
+Andhra Pradesh,Guntur,Jowar,Rabi,2019,637.3,478.0,0.75
+Andhra Pradesh,Guntur,Jowar,Rabi,2020,333.6,346.9,1.04
+Andhra Pradesh,Guntur,Jowar,Rabi,2021,108.7,102.2,0.94
+Andhra Pradesh,Guntur,Jowar,Rabi,2022,648.1,868.5,1.34
+Andhra Pradesh,Guntur,Jowar,Rabi,2023,553.8,105.2,0.19
+Andhra Pradesh,Guntur,Jowar,Rabi,2024,177.1,35.4,0.2
+Madhya Pradesh,Indore,Jowar,Kharif,2005,337.4,81.0,0.24
+Madhya Pradesh,Indore,Jowar,Kharif,2006,233.8,65.5,0.28
+Madhya Pradesh,Indore,Jowar,Kharif,2007,676.5,155.6,0.23
+Madhya Pradesh,Indore,Jowar,Kharif,2008,570.8,137.0,0.24
+Madhya Pradesh,Indore,Jowar,Kharif,2009,302.8,93.9,0.31
+Madhya Pradesh,Indore,Jowar,Kharif,2010,114.5,28.6,0.25
+Madhya Pradesh,Indore,Jowar,Kharif,2011,254.8,76.4,0.3
+Madhya Pradesh,Indore,Jowar,Kharif,2012,198.8,51.7,0.26
+Madhya Pradesh,Indore,Jowar,Kharif,2013,222.0,53.3,0.24
+Madhya Pradesh,Indore,Jowar,Kharif,2014,592.3,177.7,0.3
+Madhya Pradesh,Indore,Jowar,Kharif,2015,187.0,44.9,0.24
+Madhya Pradesh,Indore,Jowar,Kharif,2016,324.2,103.7,0.32
+Madhya Pradesh,Indore,Jowar,Kharif,2017,370.3,170.3,0.46
+Madhya Pradesh,Indore,Jowar,Kharif,2018,658.0,190.8,0.29
+Madhya Pradesh,Indore,Jowar,Kharif,2019,194.5,52.5,0.27
+Madhya Pradesh,Indore,Jowar,Kharif,2020,420.7,130.4,0.31
+Madhya Pradesh,Indore,Jowar,Kharif,2021,391.8,125.4,0.32
+Madhya Pradesh,Indore,Jowar,Kharif,2022,369.2,129.2,0.35
+Madhya Pradesh,Indore,Jowar,Kharif,2023,426.7,307.2,0.72
+Madhya Pradesh,Indore,Jowar,Kharif,2024,377.5,105.7,0.28
+Madhya Pradesh,Indore,Jowar,Rabi,2005,130.8,32.7,0.25
+Madhya Pradesh,Indore,Jowar,Rabi,2006,430.3,137.7,0.32
+Madhya Pradesh,Indore,Jowar,Rabi,2007,317.7,101.7,0.32
+Madhya Pradesh,Indore,Jowar,Rabi,2008,590.1,153.4,0.26
+Madhya Pradesh,Indore,Jowar,Rabi,2009,487.7,117.0,0.24
+Madhya Pradesh,Indore,Jowar,Rabi,2010,71.3,19.3,0.27
+Madhya Pradesh,Indore,Jowar,Rabi,2011,143.9,14.4,0.1
+Madhya Pradesh,Indore,Jowar,Rabi,2012,396.8,123.0,0.31
+Madhya Pradesh,Indore,Jowar,Rabi,2013,168.6,16.9,0.1
+Madhya Pradesh,Indore,Jowar,Rabi,2014,426.1,42.6,0.1
+Madhya Pradesh,Indore,Jowar,Rabi,2015,157.5,15.8,0.1
+Madhya Pradesh,Indore,Jowar,Rabi,2016,475.7,47.6,0.1
+Madhya Pradesh,Indore,Jowar,Rabi,2017,215.3,58.1,0.27
+Madhya Pradesh,Indore,Jowar,Rabi,2018,310.7,105.6,0.34
+Madhya Pradesh,Indore,Jowar,Rabi,2019,499.7,50.0,0.1
+Madhya Pradesh,Indore,Jowar,Rabi,2020,503.8,136.0,0.27
+Madhya Pradesh,Indore,Jowar,Rabi,2021,384.4,38.4,0.1
+Madhya Pradesh,Indore,Jowar,Rabi,2022,403.1,84.7,0.21
+Madhya Pradesh,Indore,Jowar,Rabi,2023,501.2,50.1,0.1
+Madhya Pradesh,Indore,Jowar,Rabi,2024,397.6,115.3,0.29
+Haryana,Karnal,Jowar,Kharif,2005,799.5,255.8,0.32
+Haryana,Karnal,Jowar,Kharif,2008,168.9,57.4,0.34
+Haryana,Karnal,Jowar,Kharif,2010,354.8,106.4,0.3
+Haryana,Karnal,Jowar,Kharif,2024,303.2,97.0,0.32
+Haryana,Karnal,Jowar,Rabi,2014,529.4,132.3,0.25
+Haryana,Karnal,Jowar,Rabi,2019,628.8,182.4,0.29
+Rajasthan,Kota,Jowar,Kharif,2005,512.7,128.2,0.25
+Rajasthan,Kota,Jowar,Kharif,2006,463.8,111.3,0.24
+Rajasthan,Kota,Jowar,Kharif,2007,350.9,80.7,0.23
+Rajasthan,Kota,Jowar,Kharif,2008,189.0,47.2,0.25
+Rajasthan,Kota,Jowar,Kharif,2009,248.0,79.4,0.32
+Rajasthan,Kota,Jowar,Kharif,2010,399.5,79.9,0.2
+Rajasthan,Kota,Jowar,Kharif,2011,396.7,103.1,0.26
+Rajasthan,Kota,Jowar,Kharif,2012,207.5,56.0,0.27
+Rajasthan,Kota,Jowar,Kharif,2013,167.3,36.8,0.22
+Rajasthan,Kota,Jowar,Kharif,2014,137.0,26.0,0.19
+Rajasthan,Kota,Jowar,Kharif,2015,381.6,99.2,0.26
+Rajasthan,Kota,Jowar,Kharif,2016,187.5,52.5,0.28
+Rajasthan,Kota,Jowar,Kharif,2017,725.5,203.1,0.28
+Rajasthan,Kota,Jowar,Kharif,2018,63.1,16.4,0.26
+Rajasthan,Kota,Jowar,Kharif,2019,91.6,22.9,0.25
+Rajasthan,Kota,Jowar,Kharif,2020,88.1,21.1,0.24
+Rajasthan,Kota,Jowar,Kharif,2021,927.4,185.5,0.2
+Rajasthan,Kota,Jowar,Kharif,2022,512.7,179.4,0.35
+Rajasthan,Kota,Jowar,Kharif,2023,304.3,76.1,0.25
+Rajasthan,Kota,Jowar,Kharif,2024,558.7,162.0,0.29
+Rajasthan,Kota,Jowar,Rabi,2005,605.0,90.8,0.15
+Rajasthan,Kota,Jowar,Rabi,2006,232.4,53.5,0.23
+Rajasthan,Kota,Jowar,Rabi,2007,135.0,23.0,0.17
+Rajasthan,Kota,Jowar,Rabi,2008,153.4,33.7,0.22
+Rajasthan,Kota,Jowar,Rabi,2009,228.5,50.3,0.22
+Rajasthan,Kota,Jowar,Rabi,2010,114.6,21.8,0.19
+Rajasthan,Kota,Jowar,Rabi,2011,298.5,56.7,0.19
+Rajasthan,Kota,Jowar,Rabi,2012,136.5,28.7,0.21
+Rajasthan,Kota,Jowar,Rabi,2013,454.2,131.7,0.29
+Rajasthan,Kota,Jowar,Rabi,2014,84.6,17.8,0.21
+Rajasthan,Kota,Jowar,Rabi,2015,186.5,26.1,0.14
+Rajasthan,Kota,Jowar,Rabi,2016,94.3,17.0,0.18
+Rajasthan,Kota,Jowar,Rabi,2017,207.8,39.5,0.19
+Rajasthan,Kota,Jowar,Rabi,2018,450.1,90.0,0.2
+Rajasthan,Kota,Jowar,Rabi,2019,409.7,90.1,0.22
+Rajasthan,Kota,Jowar,Rabi,2020,533.3,117.3,0.22
+Rajasthan,Kota,Jowar,Rabi,2021,427.2,81.2,0.19
+Rajasthan,Kota,Jowar,Rabi,2022,453.1,86.1,0.19
+Rajasthan,Kota,Jowar,Rabi,2023,175.3,38.6,0.22
+Rajasthan,Kota,Jowar,Rabi,2024,395.2,94.8,0.24
+Punjab,Ludhiana,Jowar,Kharif,2010,215.7,79.8,0.37
+Punjab,Ludhiana,Jowar,Rabi,2006,416.3,120.7,0.29
+Punjab,Ludhiana,Jowar,Rabi,2020,388.2,116.5,0.3
+Punjab,Ludhiana,Jowar,Rabi,2024,529.8,143.0,0.27
+Karnataka,Mandya,Jowar,Kharif,2014,405.3,449.9,1.11
+Karnataka,Mandya,Jowar,Kharif,2021,316.6,126.6,0.4
+Karnataka,Mandya,Jowar,Rabi,2015,473.3,326.6,0.69
+Maharashtra,Nashik,Jowar,Kharif,2005,313.1,84.5,0.27
+Maharashtra,Nashik,Jowar,Kharif,2006,511.2,117.6,0.23
+Maharashtra,Nashik,Jowar,Kharif,2007,445.9,124.9,0.28
+Maharashtra,Nashik,Jowar,Kharif,2008,69.9,22.4,0.32
+Maharashtra,Nashik,Jowar,Kharif,2009,290.6,142.4,0.49
+Maharashtra,Nashik,Jowar,Kharif,2010,88.0,20.2,0.23
+Maharashtra,Nashik,Jowar,Kharif,2011,223.4,299.4,1.34
+Maharashtra,Nashik,Jowar,Kharif,2012,78.3,20.4,0.26
+Maharashtra,Nashik,Jowar,Kharif,2013,381.1,343.0,0.9
+Maharashtra,Nashik,Jowar,Kharif,2014,247.1,74.1,0.3
+Maharashtra,Nashik,Jowar,Kharif,2015,438.0,184.0,0.42
+Maharashtra,Nashik,Jowar,Kharif,2016,154.8,150.2,0.97
+Maharashtra,Nashik,Jowar,Kharif,2017,241.0,72.3,0.3
+Maharashtra,Nashik,Jowar,Kharif,2018,218.2,72.0,0.33
+Maharashtra,Nashik,Jowar,Kharif,2019,635.0,171.5,0.27
+Maharashtra,Nashik,Jowar,Kharif,2020,637.3,165.7,0.26
+Maharashtra,Nashik,Jowar,Kharif,2021,347.1,107.6,0.31
+Maharashtra,Nashik,Jowar,Kharif,2022,436.6,742.2,1.7
+Maharashtra,Nashik,Jowar,Kharif,2023,100.7,37.3,0.37
+Maharashtra,Nashik,Jowar,Kharif,2024,315.6,176.7,0.56
+Maharashtra,Nashik,Jowar,Rabi,2005,324.2,32.4,0.1
+Maharashtra,Nashik,Jowar,Rabi,2006,314.0,116.2,0.37
+Maharashtra,Nashik,Jowar,Rabi,2007,637.0,235.7,0.37
+Maharashtra,Nashik,Jowar,Rabi,2008,174.4,45.3,0.26
+Maharashtra,Nashik,Jowar,Rabi,2009,259.3,25.9,0.1
+Maharashtra,Nashik,Jowar,Rabi,2010,247.1,64.2,0.26
+Maharashtra,Nashik,Jowar,Rabi,2011,225.5,90.2,0.4
+Maharashtra,Nashik,Jowar,Rabi,2012,264.7,66.2,0.25
+Maharashtra,Nashik,Jowar,Rabi,2013,512.0,51.2,0.1
+Maharashtra,Nashik,Jowar,Rabi,2014,335.3,137.5,0.41
+Maharashtra,Nashik,Jowar,Rabi,2015,208.9,60.6,0.29
+Maharashtra,Nashik,Jowar,Rabi,2016,131.9,33.0,0.25
+Maharashtra,Nashik,Jowar,Rabi,2017,74.8,20.2,0.27
+Maharashtra,Nashik,Jowar,Rabi,2018,148.7,14.9,0.1
+Maharashtra,Nashik,Jowar,Rabi,2019,104.5,31.3,0.3
+Maharashtra,Nashik,Jowar,Rabi,2020,492.3,49.2,0.1
+Maharashtra,Nashik,Jowar,Rabi,2021,477.4,47.7,0.1
+Maharashtra,Nashik,Jowar,Rabi,2022,204.7,98.3,0.48
+Maharashtra,Nashik,Jowar,Rabi,2023,186.8,52.3,0.28
+Maharashtra,Nashik,Jowar,Rabi,2024,341.2,129.7,0.38
+Bihar,Patna,Jowar,Kharif,2013,587.1,146.8,0.25
+Bihar,Patna,Jowar,Kharif,2015,333.8,90.1,0.27
+Bihar,Patna,Jowar,Kharif,2019,294.6,91.3,0.31
+Gujarat,Rajkot,Jowar,Kharif,2005,542.1,140.9,0.26
+Gujarat,Rajkot,Jowar,Kharif,2006,303.2,78.8,0.26
+Gujarat,Rajkot,Jowar,Kharif,2007,272.5,117.2,0.43
+Gujarat,Rajkot,Jowar,Kharif,2008,651.6,677.7,1.04
+Gujarat,Rajkot,Jowar,Kharif,2009,564.7,220.2,0.39
+Gujarat,Rajkot,Jowar,Kharif,2010,362.2,97.8,0.27
+Gujarat,Rajkot,Jowar,Kharif,2011,141.6,155.8,1.1
+Gujarat,Rajkot,Jowar,Kharif,2012,598.7,149.7,0.25
+Gujarat,Rajkot,Jowar,Kharif,2013,141.1,152.4,1.08
+Gujarat,Rajkot,Jowar,Kharif,2014,180.9,86.8,0.48
+Gujarat,Rajkot,Jowar,Kharif,2015,465.4,130.3,0.28
+Gujarat,Rajkot,Jowar,Kharif,2016,385.5,161.9,0.42
+Gujarat,Rajkot,Jowar,Kharif,2017,298.5,83.6,0.28
+Gujarat,Rajkot,Jowar,Kharif,2018,137.7,38.6,0.28
+Gujarat,Rajkot,Jowar,Kharif,2019,342.7,106.2,0.31
+Gujarat,Rajkot,Jowar,Kharif,2020,254.2,137.3,0.54
+Gujarat,Rajkot,Jowar,Kharif,2021,522.8,214.3,0.41
+Gujarat,Rajkot,Jowar,Kharif,2022,79.2,40.4,0.51
+Gujarat,Rajkot,Jowar,Kharif,2023,837.7,226.2,0.27
+Gujarat,Rajkot,Jowar,Kharif,2024,149.2,116.4,0.78
+Gujarat,Rajkot,Jowar,Rabi,2005,175.8,38.7,0.22
+Gujarat,Rajkot,Jowar,Rabi,2006,589.8,106.2,0.18
+Gujarat,Rajkot,Jowar,Rabi,2007,287.4,74.7,0.26
+Gujarat,Rajkot,Jowar,Rabi,2008,501.6,125.4,0.25
+Gujarat,Rajkot,Jowar,Rabi,2009,201.7,80.7,0.4
+Gujarat,Rajkot,Jowar,Rabi,2010,271.9,27.2,0.1
+Gujarat,Rajkot,Jowar,Rabi,2011,161.6,40.4,0.25
+Gujarat,Rajkot,Jowar,Rabi,2012,416.5,133.3,0.32
+Gujarat,Rajkot,Jowar,Rabi,2013,371.6,37.2,0.1
+Gujarat,Rajkot,Jowar,Rabi,2014,202.4,20.2,0.1
+Gujarat,Rajkot,Jowar,Rabi,2015,485.9,170.1,0.35
+Gujarat,Rajkot,Jowar,Rabi,2016,361.2,83.1,0.23
+Gujarat,Rajkot,Jowar,Rabi,2017,503.2,186.2,0.37
+Gujarat,Rajkot,Jowar,Rabi,2018,377.8,37.8,0.1
+Gujarat,Rajkot,Jowar,Rabi,2019,598.2,209.4,0.35
+Gujarat,Rajkot,Jowar,Rabi,2020,275.2,27.5,0.1
+Gujarat,Rajkot,Jowar,Rabi,2021,211.9,21.2,0.1
+Gujarat,Rajkot,Jowar,Rabi,2022,160.1,81.7,0.51
+Gujarat,Rajkot,Jowar,Rabi,2023,329.5,98.8,0.3
+Gujarat,Rajkot,Jowar,Rabi,2024,258.0,25.8,0.1
+Tamil Nadu,Thanjavur,Jowar,Kharif,2016,353.2,328.5,0.93
+Tamil Nadu,Thanjavur,Jowar,Kharif,2019,140.9,212.8,1.51
+Tamil Nadu,Thanjavur,Jowar,Rabi,2010,269.0,209.8,0.78
+Tamil Nadu,Thanjavur,Jowar,Rabi,2016,261.1,182.8,0.7
+Tamil Nadu,Thanjavur,Jowar,Rabi,2021,160.9,38.6,0.24
+Uttar Pradesh,Varanasi,Jowar,Kharif,2012,370.9,103.9,0.28
+Uttar Pradesh,Varanasi,Jowar,Rabi,2013,511.4,122.7,0.24
+West Bengal,Burdwan,Maize,Kharif,2005,193.0,123.5,0.64
+West Bengal,Burdwan,Maize,Kharif,2020,150.7,129.6,0.86
+West Bengal,Burdwan,Maize,Kharif,2024,214.0,119.8,0.56
+West Bengal,Burdwan,Maize,Rabi,2016,676.4,581.7,0.86
+West Bengal,Burdwan,Maize,Rabi,2023,605.7,145.4,0.24
+Andhra Pradesh,Guntur,Maize,Kharif,2005,376.6,218.4,0.58
+Andhra Pradesh,Guntur,Maize,Kharif,2006,90.2,138.9,1.54
+Andhra Pradesh,Guntur,Maize,Kharif,2007,162.1,145.9,0.9
+Andhra Pradesh,Guntur,Maize,Kharif,2008,157.8,206.7,1.31
+Andhra Pradesh,Guntur,Maize,Kharif,2009,235.2,131.7,0.56
+Andhra Pradesh,Guntur,Maize,Kharif,2010,217.7,459.3,2.11
+Andhra Pradesh,Guntur,Maize,Kharif,2011,588.6,300.2,0.51
+Andhra Pradesh,Guntur,Maize,Kharif,2012,336.0,245.3,0.73
+Andhra Pradesh,Guntur,Maize,Kharif,2013,574.3,218.2,0.38
+Andhra Pradesh,Guntur,Maize,Kharif,2014,325.7,172.6,0.53
+Andhra Pradesh,Guntur,Maize,Kharif,2015,496.4,630.4,1.27
+Andhra Pradesh,Guntur,Maize,Kharif,2016,473.8,208.5,0.44
+Andhra Pradesh,Guntur,Maize,Kharif,2017,622.5,666.1,1.07
+Andhra Pradesh,Guntur,Maize,Kharif,2018,212.2,142.2,0.67
+Andhra Pradesh,Guntur,Maize,Kharif,2019,364.5,185.9,0.51
+Andhra Pradesh,Guntur,Maize,Kharif,2020,300.0,72.0,0.24
+Andhra Pradesh,Guntur,Maize,Kharif,2021,501.3,431.1,0.86
+Andhra Pradesh,Guntur,Maize,Kharif,2022,433.1,376.8,0.87
+Andhra Pradesh,Guntur,Maize,Kharif,2023,349.8,118.9,0.34
+Andhra Pradesh,Guntur,Maize,Kharif,2024,438.9,776.9,1.77
+Andhra Pradesh,Guntur,Maize,Rabi,2005,259.9,722.5,2.78
+Andhra Pradesh,Guntur,Maize,Rabi,2006,367.4,1113.2,3.03
+Andhra Pradesh,Guntur,Maize,Rabi,2007,639.5,2020.8,3.16
+Andhra Pradesh,Guntur,Maize,Rabi,2008,344.8,206.9,0.6
+Andhra Pradesh,Guntur,Maize,Rabi,2009,119.8,69.5,0.58
+Andhra Pradesh,Guntur,Maize,Rabi,2010,545.3,1401.4,2.57
+Andhra Pradesh,Guntur,Maize,Rabi,2011,228.7,128.1,0.56
+Andhra Pradesh,Guntur,Maize,Rabi,2012,318.6,213.5,0.67
+Andhra Pradesh,Guntur,Maize,Rabi,2013,222.6,587.7,2.64
+Andhra Pradesh,Guntur,Maize,Rabi,2014,235.0,712.0,3.03
+Andhra Pradesh,Guntur,Maize,Rabi,2015,350.5,280.4,0.8
+Andhra Pradesh,Guntur,Maize,Rabi,2016,402.5,273.7,0.68
+Andhra Pradesh,Guntur,Maize,Rabi,2017,205.5,637.1,3.1
+Andhra Pradesh,Guntur,Maize,Rabi,2018,264.3,150.7,0.57
+Andhra Pradesh,Guntur,Maize,Rabi,2019,462.0,1284.4,2.78
+Andhra Pradesh,Guntur,Maize,Rabi,2020,497.3,1566.5,3.15
+Andhra Pradesh,Guntur,Maize,Rabi,2021,441.5,326.7,0.74
+Andhra Pradesh,Guntur,Maize,Rabi,2022,239.1,160.2,0.67
+Andhra Pradesh,Guntur,Maize,Rabi,2023,209.2,623.4,2.98
+Andhra Pradesh,Guntur,Maize,Rabi,2024,767.2,498.7,0.65
+Madhya Pradesh,Indore,Maize,Kharif,2022,306.7,138.0,0.45
+Madhya Pradesh,Indore,Maize,Rabi,2017,504.5,257.3,0.51
+Madhya Pradesh,Indore,Maize,Rabi,2019,621.9,460.2,0.74
+Madhya Pradesh,Indore,Maize,Rabi,2021,209.1,104.5,0.5
+Haryana,Karnal,Maize,Kharif,2005,235.1,263.3,1.12
+Haryana,Karnal,Maize,Kharif,2015,423.3,461.4,1.09
+Haryana,Karnal,Maize,Kharif,2023,204.1,169.4,0.83
+Haryana,Karnal,Maize,Rabi,2008,883.7,556.7,0.63
+Haryana,Karnal,Maize,Rabi,2012,433.7,303.6,0.7
+Haryana,Karnal,Maize,Rabi,2015,354.5,187.9,0.53
+Haryana,Karnal,Maize,Rabi,2018,248.7,156.7,0.63
+Haryana,Karnal,Maize,Rabi,2020,569.9,324.8,0.57
+Haryana,Karnal,Maize,Rabi,2022,240.8,173.4,0.72
+Rajasthan,Kota,Maize,Kharif,2005,419.8,159.5,0.38
+Rajasthan,Kota,Maize,Kharif,2006,657.6,210.4,0.32
+Rajasthan,Kota,Maize,Kharif,2007,387.1,135.5,0.35
+Rajasthan,Kota,Maize,Kharif,2008,321.2,192.7,0.6
+Rajasthan,Kota,Maize,Kharif,2009,608.1,516.9,0.85
+Rajasthan,Kota,Maize,Kharif,2010,145.1,31.9,0.22
+Rajasthan,Kota,Maize,Kharif,2011,181.8,112.7,0.62
+Rajasthan,Kota,Maize,Kharif,2012,107.0,109.1,1.02
+Rajasthan,Kota,Maize,Kharif,2013,905.7,398.5,0.44
+Rajasthan,Kota,Maize,Kharif,2014,600.5,144.1,0.24
+Rajasthan,Kota,Maize,Kharif,2015,468.5,299.8,0.64
+Rajasthan,Kota,Maize,Kharif,2016,410.9,439.7,1.07
+Rajasthan,Kota,Maize,Kharif,2017,342.7,325.6,0.95
+Rajasthan,Kota,Maize,Kharif,2018,412.1,156.6,0.38
+Rajasthan,Kota,Maize,Kharif,2019,377.0,154.6,0.41
+Rajasthan,Kota,Maize,Kharif,2020,100.7,44.3,0.44
+Rajasthan,Kota,Maize,Kharif,2021,299.2,239.4,0.8
+Rajasthan,Kota,Maize,Kharif,2022,298.6,185.1,0.62
+Rajasthan,Kota,Maize,Kharif,2023,390.9,129.0,0.33
+Rajasthan,Kota,Maize,Kharif,2024,424.2,364.8,0.86
+Rajasthan,Kota,Maize,Rabi,2005,276.0,115.9,0.42
+Rajasthan,Kota,Maize,Rabi,2006,749.1,269.7,0.36
+Rajasthan,Kota,Maize,Rabi,2007,269.3,94.3,0.35
+Rajasthan,Kota,Maize,Rabi,2008,117.1,45.7,0.39
+Rajasthan,Kota,Maize,Rabi,2009,144.6,57.8,0.4
+Rajasthan,Kota,Maize,Rabi,2010,263.9,105.6,0.4
+Rajasthan,Kota,Maize,Rabi,2011,304.6,112.7,0.37
+Rajasthan,Kota,Maize,Rabi,2012,179.2,73.5,0.41
+Rajasthan,Kota,Maize,Rabi,2013,220.5,132.3,0.6
+Rajasthan,Kota,Maize,Rabi,2014,573.7,235.2,0.41
+Rajasthan,Kota,Maize,Rabi,2015,329.0,115.1,0.35
+Rajasthan,Kota,Maize,Rabi,2016,838.7,335.5,0.4
+Rajasthan,Kota,Maize,Rabi,2017,110.6,52.0,0.47
+Rajasthan,Kota,Maize,Rabi,2018,92.6,34.3,0.37
+Rajasthan,Kota,Maize,Rabi,2019,1094.7,448.8,0.41
+Rajasthan,Kota,Maize,Rabi,2020,694.1,284.6,0.41
+Rajasthan,Kota,Maize,Rabi,2021,571.1,285.6,0.5
+Rajasthan,Kota,Maize,Rabi,2022,485.9,354.7,0.73
+Rajasthan,Kota,Maize,Rabi,2023,126.8,64.7,0.51
+Rajasthan,Kota,Maize,Rabi,2024,593.6,326.5,0.55
+Punjab,Ludhiana,Maize,Kharif,2005,185.9,85.5,0.46
+Punjab,Ludhiana,Maize,Kharif,2006,280.2,162.5,0.58
+Punjab,Ludhiana,Maize,Kharif,2007,425.2,272.1,0.64
+Punjab,Ludhiana,Maize,Kharif,2008,420.1,550.3,1.31
+Punjab,Ludhiana,Maize,Kharif,2009,154.2,180.4,1.17
+Punjab,Ludhiana,Maize,Kharif,2010,453.6,317.5,0.7
+Punjab,Ludhiana,Maize,Kharif,2011,426.0,98.0,0.23
+Punjab,Ludhiana,Maize,Kharif,2012,127.2,137.4,1.08
+Punjab,Ludhiana,Maize,Kharif,2013,523.4,397.8,0.76
+Punjab,Ludhiana,Maize,Kharif,2014,184.7,112.7,0.61
+Punjab,Ludhiana,Maize,Kharif,2015,374.2,306.8,0.82
+Punjab,Ludhiana,Maize,Kharif,2016,181.0,105.0,0.58
+Punjab,Ludhiana,Maize,Kharif,2017,876.9,605.1,0.69
+Punjab,Ludhiana,Maize,Kharif,2018,130.7,117.6,0.9
+Punjab,Ludhiana,Maize,Kharif,2019,947.1,274.7,0.29
+Punjab,Ludhiana,Maize,Kharif,2020,157.2,58.2,0.37
+Punjab,Ludhiana,Maize,Kharif,2021,299.5,140.8,0.47
+Punjab,Ludhiana,Maize,Kharif,2022,153.1,117.9,0.77
+Punjab,Ludhiana,Maize,Kharif,2023,376.7,184.6,0.49
+Punjab,Ludhiana,Maize,Kharif,2024,306.5,272.8,0.89
+Punjab,Ludhiana,Maize,Rabi,2005,261.1,221.9,0.85
+Punjab,Ludhiana,Maize,Rabi,2006,550.8,385.6,0.7
+Punjab,Ludhiana,Maize,Rabi,2007,516.9,289.5,0.56
+Punjab,Ludhiana,Maize,Rabi,2008,530.6,398.0,0.75
+Punjab,Ludhiana,Maize,Rabi,2009,315.7,189.4,0.6
+Punjab,Ludhiana,Maize,Rabi,2010,236.7,170.4,0.72
+Punjab,Ludhiana,Maize,Rabi,2011,253.6,213.0,0.84
+Punjab,Ludhiana,Maize,Rabi,2012,397.4,381.5,0.96
+Punjab,Ludhiana,Maize,Rabi,2013,104.0,70.7,0.68
+Punjab,Ludhiana,Maize,Rabi,2014,254.9,211.6,0.83
+Punjab,Ludhiana,Maize,Rabi,2015,213.8,158.2,0.74
+Punjab,Ludhiana,Maize,Rabi,2016,563.1,326.6,0.58
+Punjab,Ludhiana,Maize,Rabi,2017,444.5,333.4,0.75
+Punjab,Ludhiana,Maize,Rabi,2018,524.6,372.5,0.71
+Punjab,Ludhiana,Maize,Rabi,2019,387.8,298.6,0.77
+Punjab,Ludhiana,Maize,Rabi,2020,221.1,203.4,0.92
+Punjab,Ludhiana,Maize,Rabi,2021,433.3,442.0,1.02
+Punjab,Ludhiana,Maize,Rabi,2022,696.9,529.6,0.76
+Punjab,Ludhiana,Maize,Rabi,2023,510.7,515.8,1.01
+Punjab,Ludhiana,Maize,Rabi,2024,166.0,134.5,0.81
+Karnataka,Mandya,Maize,Kharif,2005,395.2,1620.3,4.1
+Karnataka,Mandya,Maize,Kharif,2006,362.3,1206.5,3.33
+Karnataka,Mandya,Maize,Kharif,2007,61.6,131.2,2.13
+Karnataka,Mandya,Maize,Kharif,2008,154.2,374.7,2.43
+Karnataka,Mandya,Maize,Kharif,2009,340.9,794.3,2.33
+Karnataka,Mandya,Maize,Kharif,2010,134.6,254.4,1.89
+Karnataka,Mandya,Maize,Kharif,2011,322.3,1247.3,3.87
+Karnataka,Mandya,Maize,Kharif,2012,419.0,917.6,2.19
+Karnataka,Mandya,Maize,Kharif,2013,364.1,608.0,1.67
+Karnataka,Mandya,Maize,Kharif,2014,379.7,1169.5,3.08
+Karnataka,Mandya,Maize,Kharif,2015,196.8,659.3,3.35
+Karnataka,Mandya,Maize,Kharif,2016,612.5,2413.2,3.94
+Karnataka,Mandya,Maize,Kharif,2017,280.5,869.6,3.1
+Karnataka,Mandya,Maize,Kharif,2018,389.4,1222.7,3.14
+Karnataka,Mandya,Maize,Kharif,2019,554.8,826.7,1.49
+Karnataka,Mandya,Maize,Kharif,2020,208.1,410.0,1.97
+Karnataka,Mandya,Maize,Kharif,2021,77.0,273.3,3.55
+Karnataka,Mandya,Maize,Kharif,2022,433.3,1546.9,3.57
+Karnataka,Mandya,Maize,Kharif,2023,86.3,295.1,3.42
+Karnataka,Mandya,Maize,Kharif,2024,387.0,1787.9,4.62
+Karnataka,Mandya,Maize,Rabi,2005,861.7,482.6,0.56
+Karnataka,Mandya,Maize,Rabi,2006,271.3,165.5,0.61
+Karnataka,Mandya,Maize,Rabi,2007,271.2,716.0,2.64
+Karnataka,Mandya,Maize,Rabi,2008,374.0,205.7,0.55
+Karnataka,Mandya,Maize,Rabi,2009,812.3,674.2,0.83
+Karnataka,Mandya,Maize,Rabi,2010,413.4,268.7,0.65
+Karnataka,Mandya,Maize,Rabi,2011,635.7,483.1,0.76
+Karnataka,Mandya,Maize,Rabi,2012,195.5,760.5,3.89
+Karnataka,Mandya,Maize,Rabi,2013,183.9,605.0,3.29
+Karnataka,Mandya,Maize,Rabi,2014,520.0,296.4,0.57
+Karnataka,Mandya,Maize,Rabi,2015,314.1,1137.0,3.62
+Karnataka,Mandya,Maize,Rabi,2016,321.2,199.1,0.62
+Karnataka,Mandya,Maize,Rabi,2017,496.9,1550.3,3.12
+Karnataka,Mandya,Maize,Rabi,2018,278.9,856.2,3.07
+Karnataka,Mandya,Maize,Rabi,2019,410.2,976.3,2.38
+Karnataka,Mandya,Maize,Rabi,2020,223.1,807.6,3.62
+Karnataka,Mandya,Maize,Rabi,2021,165.9,99.5,0.6
+Karnataka,Mandya,Maize,Rabi,2022,431.2,1617.0,3.75
+Karnataka,Mandya,Maize,Rabi,2023,284.4,159.3,0.56
+Karnataka,Mandya,Maize,Rabi,2024,446.2,1584.0,3.55
+Maharashtra,Nashik,Maize,Rabi,2008,139.2,34.8,0.25
+Maharashtra,Nashik,Maize,Rabi,2015,377.5,215.2,0.57
+Bihar,Patna,Maize,Kharif,2005,292.1,137.3,0.47
+Bihar,Patna,Maize,Kharif,2006,311.1,136.9,0.44
+Bihar,Patna,Maize,Kharif,2007,159.8,97.5,0.61
+Bihar,Patna,Maize,Kharif,2008,170.8,131.5,0.77
+Bihar,Patna,Maize,Kharif,2009,563.5,636.8,1.13
+Bihar,Patna,Maize,Kharif,2010,447.2,183.4,0.41
+Bihar,Patna,Maize,Kharif,2011,451.2,270.7,0.6
+Bihar,Patna,Maize,Kharif,2012,345.4,224.5,0.65
+Bihar,Patna,Maize,Kharif,2013,213.9,124.1,0.58
+Bihar,Patna,Maize,Kharif,2014,301.1,105.4,0.35
+Bihar,Patna,Maize,Kharif,2015,140.8,247.8,1.76
+Bihar,Patna,Maize,Kharif,2016,308.1,261.9,0.85
+Bihar,Patna,Maize,Kharif,2017,824.1,667.5,0.81
+Bihar,Patna,Maize,Kharif,2018,397.7,135.2,0.34
+Bihar,Patna,Maize,Kharif,2019,481.5,332.2,0.69
+Bihar,Patna,Maize,Kharif,2020,238.3,166.8,0.7
+Bihar,Patna,Maize,Kharif,2021,659.6,527.7,0.8
+Bihar,Patna,Maize,Kharif,2022,362.5,101.5,0.28
+Bihar,Patna,Maize,Kharif,2023,626.5,382.2,0.61
+Bihar,Patna,Maize,Kharif,2024,246.7,165.3,0.67
+Bihar,Patna,Maize,Rabi,2005,218.2,39.3,0.18
+Bihar,Patna,Maize,Rabi,2006,292.3,166.6,0.57
+Bihar,Patna,Maize,Rabi,2007,545.9,360.3,0.66
+Bihar,Patna,Maize,Rabi,2008,78.9,53.7,0.68
+Bihar,Patna,Maize,Rabi,2009,300.4,177.2,0.59
+Bihar,Patna,Maize,Rabi,2010,549.2,411.9,0.75
+Bihar,Patna,Maize,Rabi,2011,404.7,194.3,0.48
+Bihar,Patna,Maize,Rabi,2012,173.2,39.8,0.23
+Bihar,Patna,Maize,Rabi,2013,78.4,14.1,0.18
+Bihar,Patna,Maize,Rabi,2014,654.3,392.6,0.6
+Bihar,Patna,Maize,Rabi,2015,629.2,333.5,0.53
+Bihar,Patna,Maize,Rabi,2016,361.5,206.1,0.57
+Bihar,Patna,Maize,Rabi,2017,223.4,147.4,0.66
+Bihar,Patna,Maize,Rabi,2018,837.1,477.1,0.57
+Bihar,Patna,Maize,Rabi,2019,289.0,193.6,0.67
+Bihar,Patna,Maize,Rabi,2020,177.6,110.1,0.62
+Bihar,Patna,Maize,Rabi,2021,133.6,86.8,0.65
+Bihar,Patna,Maize,Rabi,2022,100.5,53.3,0.53
+Bihar,Patna,Maize,Rabi,2023,259.3,59.6,0.23
+Bihar,Patna,Maize,Rabi,2024,428.2,214.1,0.5
+Gujarat,Rajkot,Maize,Kharif,2017,420.2,197.5,0.47
+Gujarat,Rajkot,Maize,Rabi,2019,245.9,243.4,0.99
+Tamil Nadu,Thanjavur,Maize,Kharif,2013,415.8,469.9,1.13
+Tamil Nadu,Thanjavur,Maize,Rabi,2015,680.7,1150.4,1.69
+Tamil Nadu,Thanjavur,Maize,Rabi,2021,248.3,300.4,1.21
+Uttar Pradesh,Varanasi,Maize,Kharif,2005,590.2,407.2,0.69
+Uttar Pradesh,Varanasi,Maize,Kharif,2006,267.5,139.1,0.52
+Uttar Pradesh,Varanasi,Maize,Kharif,2007,275.1,104.5,0.38
+Uttar Pradesh,Varanasi,Maize,Kharif,2008,717.0,530.6,0.74
+Uttar Pradesh,Varanasi,Maize,Kharif,2009,181.0,291.4,1.61
+Uttar Pradesh,Varanasi,Maize,Kharif,2010,196.8,139.7,0.71
+Uttar Pradesh,Varanasi,Maize,Kharif,2011,533.0,810.2,1.52
+Uttar Pradesh,Varanasi,Maize,Kharif,2012,549.7,445.3,0.81
+Uttar Pradesh,Varanasi,Maize,Kharif,2013,422.5,245.0,0.58
+Uttar Pradesh,Varanasi,Maize,Kharif,2014,574.2,947.4,1.65
+Uttar Pradesh,Varanasi,Maize,Kharif,2015,465.4,307.2,0.66
+Uttar Pradesh,Varanasi,Maize,Kharif,2016,333.5,190.1,0.57
+Uttar Pradesh,Varanasi,Maize,Kharif,2017,244.3,136.8,0.56
+Uttar Pradesh,Varanasi,Maize,Kharif,2018,188.7,130.2,0.69
+Uttar Pradesh,Varanasi,Maize,Kharif,2019,474.8,261.1,0.55
+Uttar Pradesh,Varanasi,Maize,Kharif,2020,251.1,168.2,0.67
+Uttar Pradesh,Varanasi,Maize,Kharif,2021,680.7,449.3,0.66
+Uttar Pradesh,Varanasi,Maize,Kharif,2022,295.0,73.8,0.25
+Uttar Pradesh,Varanasi,Maize,Kharif,2023,295.8,260.3,0.88
+Uttar Pradesh,Varanasi,Maize,Kharif,2024,217.5,91.3,0.42
+Uttar Pradesh,Varanasi,Maize,Rabi,2005,526.4,321.1,0.61
+Uttar Pradesh,Varanasi,Maize,Rabi,2006,332.0,73.0,0.22
+Uttar Pradesh,Varanasi,Maize,Rabi,2007,285.0,168.1,0.59
+Uttar Pradesh,Varanasi,Maize,Rabi,2008,644.6,135.4,0.21
+Uttar Pradesh,Varanasi,Maize,Rabi,2009,155.3,79.2,0.51
+Uttar Pradesh,Varanasi,Maize,Rabi,2010,273.8,145.1,0.53
+Uttar Pradesh,Varanasi,Maize,Rabi,2011,678.9,149.4,0.22
+Uttar Pradesh,Varanasi,Maize,Rabi,2012,459.3,101.0,0.22
+Uttar Pradesh,Varanasi,Maize,Rabi,2013,183.9,123.2,0.67
+Uttar Pradesh,Varanasi,Maize,Rabi,2014,639.4,134.3,0.21
+Uttar Pradesh,Varanasi,Maize,Rabi,2015,415.4,78.9,0.19
+Uttar Pradesh,Varanasi,Maize,Rabi,2016,199.3,145.5,0.73
+Uttar Pradesh,Varanasi,Maize,Rabi,2017,211.0,38.0,0.18
+Uttar Pradesh,Varanasi,Maize,Rabi,2018,638.3,408.5,0.64
+Uttar Pradesh,Varanasi,Maize,Rabi,2019,391.9,317.4,0.81
+Uttar Pradesh,Varanasi,Maize,Rabi,2020,343.2,219.6,0.64
+Uttar Pradesh,Varanasi,Maize,Rabi,2021,25.4,6.3,0.25
+Uttar Pradesh,Varanasi,Maize,Rabi,2022,791.2,783.3,0.99
+Uttar Pradesh,Varanasi,Maize,Rabi,2023,96.2,67.3,0.7
+Uttar Pradesh,Varanasi,Maize,Rabi,2024,410.3,110.8,0.27
+West Bengal,Burdwan,Mustard,Rabi,2005,635.2,393.8,0.62
+West Bengal,Burdwan,Mustard,Rabi,2006,444.6,146.7,0.33
+West Bengal,Burdwan,Mustard,Rabi,2007,726.4,363.2,0.5
+West Bengal,Burdwan,Mustard,Rabi,2008,166.6,58.3,0.35
+West Bengal,Burdwan,Mustard,Rabi,2009,120.7,55.5,0.46
+West Bengal,Burdwan,Mustard,Rabi,2010,491.7,147.5,0.3
+West Bengal,Burdwan,Mustard,Rabi,2011,337.6,216.1,0.64
+West Bengal,Burdwan,Mustard,Rabi,2012,56.1,17.4,0.31
+West Bengal,Burdwan,Mustard,Rabi,2013,152.5,112.8,0.74
+West Bengal,Burdwan,Mustard,Rabi,2014,394.7,126.3,0.32
+West Bengal,Burdwan,Mustard,Rabi,2015,165.3,51.2,0.31
+West Bengal,Burdwan,Mustard,Rabi,2016,348.4,163.7,0.47
+West Bengal,Burdwan,Mustard,Rabi,2017,909.8,500.4,0.55
+West Bengal,Burdwan,Mustard,Rabi,2018,124.2,64.6,0.52
+West Bengal,Burdwan,Mustard,Rabi,2019,584.5,379.9,0.65
+West Bengal,Burdwan,Mustard,Rabi,2020,262.4,118.1,0.45
+West Bengal,Burdwan,Mustard,Rabi,2021,224.8,209.1,0.93
+West Bengal,Burdwan,Mustard,Rabi,2022,254.7,84.1,0.33
+West Bengal,Burdwan,Mustard,Rabi,2023,580.8,313.6,0.54
+West Bengal,Burdwan,Mustard,Rabi,2024,239.3,71.8,0.3
+Andhra Pradesh,Guntur,Mustard,Rabi,2005,910.9,91.1,0.1
+Andhra Pradesh,Guntur,Mustard,Rabi,2014,273.0,27.3,0.1
+Andhra Pradesh,Guntur,Mustard,Rabi,2016,277.6,27.8,0.1
+Andhra Pradesh,Guntur,Mustard,Rabi,2020,1229.7,123.0,0.1
+Madhya Pradesh,Indore,Mustard,Rabi,2006,659.6,639.8,0.97
+Madhya Pradesh,Indore,Mustard,Rabi,2024,866.5,649.9,0.75
+Haryana,Karnal,Mustard,Rabi,2005,150.9,184.1,1.22
+Haryana,Karnal,Mustard,Rabi,2006,494.8,603.7,1.22
+Haryana,Karnal,Mustard,Rabi,2007,291.9,303.6,1.04
+Haryana,Karnal,Mustard,Rabi,2008,761.8,1097.0,1.44
+Haryana,Karnal,Mustard,Rabi,2009,416.8,616.9,1.48
+Haryana,Karnal,Mustard,Rabi,2010,411.8,555.9,1.35
+Haryana,Karnal,Mustard,Rabi,2011,225.2,265.7,1.18
+Haryana,Karnal,Mustard,Rabi,2012,780.5,1131.7,1.45
+Haryana,Karnal,Mustard,Rabi,2013,337.8,493.2,1.46
+Haryana,Karnal,Mustard,Rabi,2014,122.8,189.1,1.54
+Haryana,Karnal,Mustard,Rabi,2015,293.2,486.7,1.66
+Haryana,Karnal,Mustard,Rabi,2016,327.8,449.1,1.37
+Haryana,Karnal,Mustard,Rabi,2017,193.7,193.7,1.0
+Haryana,Karnal,Mustard,Rabi,2018,547.2,700.4,1.28
+Haryana,Karnal,Mustard,Rabi,2019,233.3,224.0,0.96
+Haryana,Karnal,Mustard,Rabi,2020,385.7,470.6,1.22
+Haryana,Karnal,Mustard,Rabi,2021,447.2,684.2,1.53
+Haryana,Karnal,Mustard,Rabi,2022,278.4,437.1,1.57
+Haryana,Karnal,Mustard,Rabi,2023,73.4,123.3,1.68
+Haryana,Karnal,Mustard,Rabi,2024,348.8,593.0,1.7
+Rajasthan,Kota,Mustard,Rabi,2005,432.1,652.5,1.51
+Rajasthan,Kota,Mustard,Rabi,2006,701.6,856.0,1.22
+Rajasthan,Kota,Mustard,Rabi,2007,166.7,160.0,0.96
+Rajasthan,Kota,Mustard,Rabi,2008,567.8,806.3,1.42
+Rajasthan,Kota,Mustard,Rabi,2009,357.7,364.9,1.02
+Rajasthan,Kota,Mustard,Rabi,2010,246.8,291.2,1.18
+Rajasthan,Kota,Mustard,Rabi,2011,240.7,288.8,1.2
+Rajasthan,Kota,Mustard,Rabi,2012,89.3,139.3,1.56
+Rajasthan,Kota,Mustard,Rabi,2013,541.8,850.6,1.57
+Rajasthan,Kota,Mustard,Rabi,2014,304.6,356.4,1.17
+Rajasthan,Kota,Mustard,Rabi,2015,212.4,225.1,1.06
+Rajasthan,Kota,Mustard,Rabi,2016,477.4,601.5,1.26
+Rajasthan,Kota,Mustard,Rabi,2017,992.0,1418.6,1.43
+Rajasthan,Kota,Mustard,Rabi,2018,205.4,265.0,1.29
+Rajasthan,Kota,Mustard,Rabi,2019,262.0,345.8,1.32
+Rajasthan,Kota,Mustard,Rabi,2020,394.2,646.5,1.64
+Rajasthan,Kota,Mustard,Rabi,2021,759.6,820.4,1.08
+Rajasthan,Kota,Mustard,Rabi,2022,336.5,259.1,0.77
+Rajasthan,Kota,Mustard,Rabi,2023,58.5,73.1,1.25
+Rajasthan,Kota,Mustard,Rabi,2024,206.4,348.8,1.69
+Punjab,Ludhiana,Mustard,Rabi,2005,524.6,545.6,1.04
+Punjab,Ludhiana,Mustard,Rabi,2006,694.4,715.2,1.03
+Punjab,Ludhiana,Mustard,Rabi,2007,442.8,549.1,1.24
+Punjab,Ludhiana,Mustard,Rabi,2008,424.1,581.0,1.37
+Punjab,Ludhiana,Mustard,Rabi,2009,492.5,709.2,1.44
+Punjab,Ludhiana,Mustard,Rabi,2010,239.9,191.9,0.8
+Punjab,Ludhiana,Mustard,Rabi,2011,457.1,671.9,1.47
+Punjab,Ludhiana,Mustard,Rabi,2012,449.4,638.1,1.42
+Punjab,Ludhiana,Mustard,Rabi,2013,132.9,210.0,1.58
+Punjab,Ludhiana,Mustard,Rabi,2014,227.8,373.6,1.64
+Punjab,Ludhiana,Mustard,Rabi,2015,135.0,247.1,1.83
+Punjab,Ludhiana,Mustard,Rabi,2016,288.8,343.7,1.19
+Punjab,Ludhiana,Mustard,Rabi,2017,259.9,254.7,0.98
+Punjab,Ludhiana,Mustard,Rabi,2018,509.0,621.0,1.22
+Punjab,Ludhiana,Mustard,Rabi,2019,569.9,621.2,1.09
+Punjab,Ludhiana,Mustard,Rabi,2020,385.0,319.6,0.83
+Punjab,Ludhiana,Mustard,Rabi,2021,223.6,353.3,1.58
+Punjab,Ludhiana,Mustard,Rabi,2022,454.1,535.8,1.18
+Punjab,Ludhiana,Mustard,Rabi,2023,159.0,232.1,1.46
+Punjab,Ludhiana,Mustard,Rabi,2024,223.5,397.8,1.78
+Karnataka,Mandya,Mustard,Rabi,2012,501.0,50.1,0.1
+Maharashtra,Nashik,Mustard,Rabi,2006,283.0,150.0,0.53
+Maharashtra,Nashik,Mustard,Rabi,2008,751.7,481.1,0.64
+Maharashtra,Nashik,Mustard,Rabi,2013,175.7,66.8,0.38
+Bihar,Patna,Mustard,Rabi,2005,539.6,636.7,1.18
+Bihar,Patna,Mustard,Rabi,2006,359.3,495.8,1.38
+Bihar,Patna,Mustard,Rabi,2007,472.2,708.3,1.5
+Bihar,Patna,Mustard,Rabi,2008,855.0,1179.9,1.38
+Bihar,Patna,Mustard,Rabi,2009,697.6,223.2,0.32
+Bihar,Patna,Mustard,Rabi,2010,610.4,1013.3,1.66
+Bihar,Patna,Mustard,Rabi,2011,683.0,1127.0,1.65
+Bihar,Patna,Mustard,Rabi,2012,510.1,290.8,0.57
+Bihar,Patna,Mustard,Rabi,2013,425.9,242.8,0.57
+Bihar,Patna,Mustard,Rabi,2014,747.5,1024.1,1.37
+Bihar,Patna,Mustard,Rabi,2015,142.2,41.2,0.29
+Bihar,Patna,Mustard,Rabi,2016,240.6,462.0,1.92
+Bihar,Patna,Mustard,Rabi,2017,176.7,270.4,1.53
+Bihar,Patna,Mustard,Rabi,2018,543.1,744.0,1.37
+Bihar,Patna,Mustard,Rabi,2019,436.5,724.6,1.66
+Bihar,Patna,Mustard,Rabi,2020,395.4,688.0,1.74
+Bihar,Patna,Mustard,Rabi,2021,213.0,170.4,0.8
+Bihar,Patna,Mustard,Rabi,2022,189.8,191.7,1.01
+Bihar,Patna,Mustard,Rabi,2023,354.0,240.7,0.68
+Bihar,Patna,Mustard,Rabi,2024,358.9,570.7,1.59
+Gujarat,Rajkot,Mustard,Rabi,2008,658.3,348.9,0.53
+Tamil Nadu,Thanjavur,Mustard,Rabi,2019,721.3,72.1,0.1
+Tamil Nadu,Thanjavur,Mustard,Rabi,2024,419.1,41.9,0.1
+Uttar Pradesh,Varanasi,Mustard,Rabi,2005,957.0,1531.2,1.6
+Uttar Pradesh,Varanasi,Mustard,Rabi,2006,261.7,130.8,0.5
+Uttar Pradesh,Varanasi,Mustard,Rabi,2007,247.8,175.9,0.71
+Uttar Pradesh,Varanasi,Mustard,Rabi,2008,617.6,704.1,1.14
+Uttar Pradesh,Varanasi,Mustard,Rabi,2009,395.5,146.3,0.37
+Uttar Pradesh,Varanasi,Mustard,Rabi,2010,174.4,99.4,0.57
+Uttar Pradesh,Varanasi,Mustard,Rabi,2011,556.6,807.1,1.45
+Uttar Pradesh,Varanasi,Mustard,Rabi,2012,170.1,221.1,1.3
+Uttar Pradesh,Varanasi,Mustard,Rabi,2013,326.0,436.8,1.34
+Uttar Pradesh,Varanasi,Mustard,Rabi,2014,143.5,147.8,1.03
+Uttar Pradesh,Varanasi,Mustard,Rabi,2015,289.8,347.8,1.2
+Uttar Pradesh,Varanasi,Mustard,Rabi,2016,197.1,275.9,1.4
+Uttar Pradesh,Varanasi,Mustard,Rabi,2017,635.3,1016.5,1.6
+Uttar Pradesh,Varanasi,Mustard,Rabi,2018,533.5,874.9,1.64
+Uttar Pradesh,Varanasi,Mustard,Rabi,2019,141.8,231.1,1.63
+Uttar Pradesh,Varanasi,Mustard,Rabi,2020,239.5,239.5,1.0
+Uttar Pradesh,Varanasi,Mustard,Rabi,2021,157.5,121.3,0.77
+Uttar Pradesh,Varanasi,Mustard,Rabi,2022,157.2,116.3,0.74
+Uttar Pradesh,Varanasi,Mustard,Rabi,2023,582.2,291.1,0.5
+Uttar Pradesh,Varanasi,Mustard,Rabi,2024,256.0,381.4,1.49
+West Bengal,Burdwan,Onion,Kharif,2008,441.7,450.5,1.02
+West Bengal,Burdwan,Onion,Kharif,2009,275.0,203.5,0.74
+West Bengal,Burdwan,Onion,Rabi,2006,333.2,2169.1,6.51
+West Bengal,Burdwan,Onion,Rabi,2015,346.2,3645.5,10.53
+Andhra Pradesh,Guntur,Onion,Kharif,2005,668.3,427.7,0.64
+Andhra Pradesh,Guntur,Onion,Kharif,2006,223.8,214.8,0.96
+Andhra Pradesh,Guntur,Onion,Kharif,2007,512.8,446.1,0.87
+Andhra Pradesh,Guntur,Onion,Kharif,2008,187.2,142.3,0.76
+Andhra Pradesh,Guntur,Onion,Kharif,2009,144.7,283.6,1.96
+Andhra Pradesh,Guntur,Onion,Kharif,2010,303.7,227.8,0.75
+Andhra Pradesh,Guntur,Onion,Kharif,2011,515.6,402.2,0.78
+Andhra Pradesh,Guntur,Onion,Kharif,2012,253.3,184.9,0.73
+Andhra Pradesh,Guntur,Onion,Kharif,2013,712.1,562.6,0.79
+Andhra Pradesh,Guntur,Onion,Kharif,2014,247.1,163.1,0.66
+Andhra Pradesh,Guntur,Onion,Kharif,2015,50.2,35.1,0.7
+Andhra Pradesh,Guntur,Onion,Kharif,2016,138.1,111.9,0.81
+Andhra Pradesh,Guntur,Onion,Kharif,2017,133.7,90.9,0.68
+Andhra Pradesh,Guntur,Onion,Kharif,2018,133.0,99.8,0.75
+Andhra Pradesh,Guntur,Onion,Kharif,2019,742.9,616.6,0.83
+Andhra Pradesh,Guntur,Onion,Kharif,2020,505.5,318.5,0.63
+Andhra Pradesh,Guntur,Onion,Kharif,2021,504.9,363.5,0.72
+Andhra Pradesh,Guntur,Onion,Kharif,2022,504.7,418.9,0.83
+Andhra Pradesh,Guntur,Onion,Kharif,2023,369.8,292.1,0.79
+Andhra Pradesh,Guntur,Onion,Kharif,2024,398.8,374.9,0.94
+Andhra Pradesh,Guntur,Onion,Rabi,2005,447.5,1517.0,3.39
+Andhra Pradesh,Guntur,Onion,Rabi,2006,309.4,1531.5,4.95
+Andhra Pradesh,Guntur,Onion,Rabi,2007,453.8,6530.2,14.39
+Andhra Pradesh,Guntur,Onion,Rabi,2008,309.8,1127.7,3.64
+Andhra Pradesh,Guntur,Onion,Rabi,2009,263.8,3527.0,13.37
+Andhra Pradesh,Guntur,Onion,Rabi,2010,410.3,5883.7,14.34
+Andhra Pradesh,Guntur,Onion,Rabi,2011,544.0,7529.0,13.84
+Andhra Pradesh,Guntur,Onion,Rabi,2012,370.3,888.7,2.4
+Andhra Pradesh,Guntur,Onion,Rabi,2013,464.4,5610.0,12.08
+Andhra Pradesh,Guntur,Onion,Rabi,2014,246.7,3009.7,12.2
+Andhra Pradesh,Guntur,Onion,Rabi,2015,410.1,1295.9,3.16
+Andhra Pradesh,Guntur,Onion,Rabi,2016,408.5,4403.6,10.78
+Andhra Pradesh,Guntur,Onion,Rabi,2017,455.5,1097.8,2.41
+Andhra Pradesh,Guntur,Onion,Rabi,2018,178.5,974.6,5.46
+Andhra Pradesh,Guntur,Onion,Rabi,2019,337.2,4376.9,12.98
+Andhra Pradesh,Guntur,Onion,Rabi,2020,321.8,4492.3,13.96
+Andhra Pradesh,Guntur,Onion,Rabi,2021,409.5,1335.0,3.26
+Andhra Pradesh,Guntur,Onion,Rabi,2022,204.2,1801.0,8.82
+Andhra Pradesh,Guntur,Onion,Rabi,2023,322.1,1868.2,5.8
+Andhra Pradesh,Guntur,Onion,Rabi,2024,467.3,6570.2,14.06
+Madhya Pradesh,Indore,Onion,Kharif,2005,466.4,662.3,1.42
+Madhya Pradesh,Indore,Onion,Kharif,2006,171.6,250.5,1.46
+Madhya Pradesh,Indore,Onion,Kharif,2007,552.4,519.3,0.94
+Madhya Pradesh,Indore,Onion,Kharif,2008,465.2,869.9,1.87
+Madhya Pradesh,Indore,Onion,Kharif,2009,968.1,851.9,0.88
+Madhya Pradesh,Indore,Onion,Kharif,2010,122.4,213.0,1.74
+Madhya Pradesh,Indore,Onion,Kharif,2011,86.3,89.8,1.04
+Madhya Pradesh,Indore,Onion,Kharif,2012,265.2,283.8,1.07
+Madhya Pradesh,Indore,Onion,Kharif,2013,583.2,653.2,1.12
+Madhya Pradesh,Indore,Onion,Kharif,2014,543.1,439.9,0.81
+Madhya Pradesh,Indore,Onion,Kharif,2015,780.4,569.7,0.73
+Madhya Pradesh,Indore,Onion,Kharif,2016,110.7,232.5,2.1
+Madhya Pradesh,Indore,Onion,Kharif,2017,627.6,495.8,0.79
+Madhya Pradesh,Indore,Onion,Kharif,2018,886.2,1550.9,1.75
+Madhya Pradesh,Indore,Onion,Kharif,2019,386.6,1097.9,2.84
+Madhya Pradesh,Indore,Onion,Kharif,2020,417.1,700.7,1.68
+Madhya Pradesh,Indore,Onion,Kharif,2021,272.5,455.1,1.67
+Madhya Pradesh,Indore,Onion,Kharif,2022,335.1,248.0,0.74
+Madhya Pradesh,Indore,Onion,Kharif,2023,698.6,1243.5,1.78
+Madhya Pradesh,Indore,Onion,Kharif,2024,293.0,231.5,0.79
+Madhya Pradesh,Indore,Onion,Rabi,2005,325.6,2048.0,6.29
+Madhya Pradesh,Indore,Onion,Rabi,2006,75.1,91.6,1.22
+Madhya Pradesh,Indore,Onion,Rabi,2007,343.8,2083.4,6.06
+Madhya Pradesh,Indore,Onion,Rabi,2008,592.4,1090.0,1.84
+Madhya Pradesh,Indore,Onion,Rabi,2009,364.3,2036.4,5.59
+Madhya Pradesh,Indore,Onion,Rabi,2010,176.5,307.1,1.74
+Madhya Pradesh,Indore,Onion,Rabi,2011,293.1,2004.8,6.84
+Madhya Pradesh,Indore,Onion,Rabi,2012,488.2,3568.7,7.31
+Madhya Pradesh,Indore,Onion,Rabi,2013,526.8,3498.0,6.64
+Madhya Pradesh,Indore,Onion,Rabi,2014,434.6,795.3,1.83
+Madhya Pradesh,Indore,Onion,Rabi,2015,437.3,997.0,2.28
+Madhya Pradesh,Indore,Onion,Rabi,2016,349.3,1697.6,4.86
+Madhya Pradesh,Indore,Onion,Rabi,2017,826.6,1264.7,1.53
+Madhya Pradesh,Indore,Onion,Rabi,2018,428.7,2340.7,5.46
+Madhya Pradesh,Indore,Onion,Rabi,2019,105.3,225.3,2.14
+Madhya Pradesh,Indore,Onion,Rabi,2020,151.7,753.9,4.97
+Madhya Pradesh,Indore,Onion,Rabi,2021,328.4,1714.2,5.22
+Madhya Pradesh,Indore,Onion,Rabi,2022,252.7,2160.6,8.55
+Madhya Pradesh,Indore,Onion,Rabi,2023,365.2,2264.2,6.2
+Madhya Pradesh,Indore,Onion,Rabi,2024,130.3,331.0,2.54
+Haryana,Karnal,Onion,Kharif,2009,192.2,159.5,0.83
+Haryana,Karnal,Onion,Kharif,2010,149.1,101.4,0.68
+Haryana,Karnal,Onion,Kharif,2013,406.6,398.5,0.98
+Haryana,Karnal,Onion,Kharif,2015,640.6,544.5,0.85
+Rajasthan,Kota,Onion,Kharif,2006,413.4,219.1,0.53
+Rajasthan,Kota,Onion,Kharif,2007,656.1,374.0,0.57
+Rajasthan,Kota,Onion,Kharif,2019,271.2,173.6,0.64
+Rajasthan,Kota,Onion,Kharif,2023,163.3,106.1,0.65
+Rajasthan,Kota,Onion,Rabi,2012,517.1,1163.5,2.25
+Rajasthan,Kota,Onion,Rabi,2021,891.2,2842.9,3.19
+Rajasthan,Kota,Onion,Rabi,2022,461.4,1905.6,4.13
+Punjab,Ludhiana,Onion,Kharif,2005,511.8,353.1,0.69
+Punjab,Ludhiana,Onion,Rabi,2005,403.8,1724.2,4.27
+Punjab,Ludhiana,Onion,Rabi,2019,336.0,1377.6,4.1
+Punjab,Ludhiana,Onion,Rabi,2022,250.7,1830.1,7.3
+Karnataka,Mandya,Onion,Kharif,2014,155.2,1494.6,9.63
+Karnataka,Mandya,Onion,Rabi,2005,429.7,2414.9,5.62
+Karnataka,Mandya,Onion,Rabi,2011,666.8,6301.3,9.45
+Karnataka,Mandya,Onion,Rabi,2014,816.2,13214.3,16.19
+Karnataka,Mandya,Onion,Rabi,2019,182.2,1355.6,7.44
+Maharashtra,Nashik,Onion,Kharif,2005,359.2,862.1,2.4
+Maharashtra,Nashik,Onion,Kharif,2006,156.1,326.2,2.09
+Maharashtra,Nashik,Onion,Kharif,2007,604.1,1123.6,1.86
+Maharashtra,Nashik,Onion,Kharif,2008,600.6,774.8,1.29
+Maharashtra,Nashik,Onion,Kharif,2009,195.3,265.6,1.36
+Maharashtra,Nashik,Onion,Kharif,2010,524.1,1326.0,2.53
+Maharashtra,Nashik,Onion,Kharif,2011,290.4,702.8,2.42
+Maharashtra,Nashik,Onion,Kharif,2012,302.1,791.5,2.62
+Maharashtra,Nashik,Onion,Kharif,2013,70.8,217.4,3.07
+Maharashtra,Nashik,Onion,Kharif,2014,811.0,1557.1,1.92
+Maharashtra,Nashik,Onion,Kharif,2015,211.0,468.4,2.22
+Maharashtra,Nashik,Onion,Kharif,2016,609.1,1772.5,2.91
+Maharashtra,Nashik,Onion,Kharif,2017,338.9,847.2,2.5
+Maharashtra,Nashik,Onion,Kharif,2018,353.8,700.5,1.98
+Maharashtra,Nashik,Onion,Kharif,2019,439.1,1023.1,2.33
+Maharashtra,Nashik,Onion,Kharif,2020,584.7,1567.0,2.68
+Maharashtra,Nashik,Onion,Kharif,2021,201.9,520.9,2.58
+Maharashtra,Nashik,Onion,Kharif,2022,216.6,201.4,0.93
+Maharashtra,Nashik,Onion,Kharif,2023,764.7,1108.8,1.45
+Maharashtra,Nashik,Onion,Kharif,2024,201.3,565.7,2.81
+Maharashtra,Nashik,Onion,Rabi,2005,412.3,3624.1,8.79
+Maharashtra,Nashik,Onion,Rabi,2006,111.4,1327.9,11.92
+Maharashtra,Nashik,Onion,Rabi,2007,474.9,1196.7,2.52
+Maharashtra,Nashik,Onion,Rabi,2008,341.9,2215.5,6.48
+Maharashtra,Nashik,Onion,Rabi,2009,189.2,493.8,2.61
+Maharashtra,Nashik,Onion,Rabi,2010,799.7,2447.1,3.06
+Maharashtra,Nashik,Onion,Rabi,2011,476.7,1320.5,2.77
+Maharashtra,Nashik,Onion,Rabi,2012,276.9,2434.0,8.79
+Maharashtra,Nashik,Onion,Rabi,2013,410.4,1149.1,2.8
+Maharashtra,Nashik,Onion,Rabi,2014,485.0,1595.7,3.29
+Maharashtra,Nashik,Onion,Rabi,2015,111.5,609.9,5.47
+Maharashtra,Nashik,Onion,Rabi,2016,181.0,1143.9,6.32
+Maharashtra,Nashik,Onion,Rabi,2017,208.9,2866.1,13.72
+Maharashtra,Nashik,Onion,Rabi,2018,458.9,1138.1,2.48
+Maharashtra,Nashik,Onion,Rabi,2019,663.4,1930.5,2.91
+Maharashtra,Nashik,Onion,Rabi,2020,858.1,10262.9,11.96
+Maharashtra,Nashik,Onion,Rabi,2021,688.2,1830.6,2.66
+Maharashtra,Nashik,Onion,Rabi,2022,207.2,830.9,4.01
+Maharashtra,Nashik,Onion,Rabi,2023,168.2,1821.6,10.83
+Maharashtra,Nashik,Onion,Rabi,2024,185.5,432.2,2.33
+Bihar,Patna,Onion,Kharif,2005,647.5,459.7,0.71
+Bihar,Patna,Onion,Kharif,2006,523.5,408.3,0.78
+Bihar,Patna,Onion,Kharif,2007,695.7,605.3,0.87
+Bihar,Patna,Onion,Kharif,2008,375.7,413.3,1.1
+Bihar,Patna,Onion,Kharif,2009,821.6,862.7,1.05
+Bihar,Patna,Onion,Kharif,2010,117.8,95.4,0.81
+Bihar,Patna,Onion,Kharif,2011,231.7,285.0,1.23
+Bihar,Patna,Onion,Kharif,2012,247.5,232.6,0.94
+Bihar,Patna,Onion,Kharif,2013,244.2,200.2,0.82
+Bihar,Patna,Onion,Kharif,2014,976.9,898.7,0.92
+Bihar,Patna,Onion,Kharif,2015,371.5,323.2,0.87
+Bihar,Patna,Onion,Kharif,2016,208.7,267.1,1.28
+Bihar,Patna,Onion,Kharif,2017,169.4,155.8,0.92
+Bihar,Patna,Onion,Kharif,2018,138.5,123.3,0.89
+Bihar,Patna,Onion,Kharif,2019,285.4,279.7,0.98
+Bihar,Patna,Onion,Kharif,2020,392.8,384.9,0.98
+Bihar,Patna,Onion,Kharif,2021,390.1,390.1,1.0
+Bihar,Patna,Onion,Kharif,2022,234.1,182.6,0.78
+Bihar,Patna,Onion,Kharif,2023,342.6,294.6,0.86
+Bihar,Patna,Onion,Kharif,2024,266.7,288.0,1.08
+Bihar,Patna,Onion,Rabi,2005,202.6,316.1,1.56
+Bihar,Patna,Onion,Rabi,2006,370.2,1995.4,5.39
+Bihar,Patna,Onion,Rabi,2007,284.5,253.2,0.89
+Bihar,Patna,Onion,Rabi,2008,58.9,93.7,1.59
+Bihar,Patna,Onion,Rabi,2009,249.3,1642.9,6.59
+Bihar,Patna,Onion,Rabi,2010,223.1,671.5,3.01
+Bihar,Patna,Onion,Rabi,2011,358.6,269.0,0.75
+Bihar,Patna,Onion,Rabi,2012,559.3,2007.9,3.59
+Bihar,Patna,Onion,Rabi,2013,189.0,224.9,1.19
+Bihar,Patna,Onion,Rabi,2014,323.0,468.3,1.45
+Bihar,Patna,Onion,Rabi,2015,278.8,1240.7,4.45
+Bihar,Patna,Onion,Rabi,2016,343.5,968.7,2.82
+Bihar,Patna,Onion,Rabi,2017,674.4,2792.0,4.14
+Bihar,Patna,Onion,Rabi,2018,94.5,542.4,5.74
+Bihar,Patna,Onion,Rabi,2019,212.6,202.0,0.95
+Bihar,Patna,Onion,Rabi,2020,507.9,1589.7,3.13
+Bihar,Patna,Onion,Rabi,2021,267.8,265.1,0.99
+Bihar,Patna,Onion,Rabi,2022,666.1,1265.6,1.9
+Bihar,Patna,Onion,Rabi,2023,246.0,1018.4,4.14
+Bihar,Patna,Onion,Rabi,2024,136.2,382.7,2.81
+Gujarat,Rajkot,Onion,Kharif,2005,375.1,236.3,0.63
+Gujarat,Rajkot,Onion,Kharif,2006,893.5,545.0,0.61
+Gujarat,Rajkot,Onion,Kharif,2007,116.2,66.2,0.57
+Gujarat,Rajkot,Onion,Kharif,2008,304.5,228.4,0.75
+Gujarat,Rajkot,Onion,Kharif,2009,524.8,320.1,0.61
+Gujarat,Rajkot,Onion,Kharif,2010,341.7,215.3,0.63
+Gujarat,Rajkot,Onion,Kharif,2011,789.9,473.9,0.6
+Gujarat,Rajkot,Onion,Kharif,2012,293.7,167.4,0.57
+Gujarat,Rajkot,Onion,Kharif,2013,295.1,138.7,0.47
+Gujarat,Rajkot,Onion,Kharif,2014,449.2,274.0,0.61
+Gujarat,Rajkot,Onion,Kharif,2015,386.9,247.6,0.64
+Gujarat,Rajkot,Onion,Kharif,2016,207.7,477.7,2.3
+Gujarat,Rajkot,Onion,Kharif,2017,283.2,161.4,0.57
+Gujarat,Rajkot,Onion,Kharif,2018,436.4,283.7,0.65
+Gujarat,Rajkot,Onion,Kharif,2019,455.5,296.1,0.65
+Gujarat,Rajkot,Onion,Kharif,2020,228.3,150.7,0.66
+Gujarat,Rajkot,Onion,Kharif,2021,676.8,446.7,0.66
+Gujarat,Rajkot,Onion,Kharif,2022,148.4,100.9,0.68
+Gujarat,Rajkot,Onion,Kharif,2023,145.7,93.2,0.64
+Gujarat,Rajkot,Onion,Kharif,2024,264.0,184.8,0.7
+Gujarat,Rajkot,Onion,Rabi,2005,622.5,1363.3,2.19
+Gujarat,Rajkot,Onion,Rabi,2006,352.9,2466.8,6.99
+Gujarat,Rajkot,Onion,Rabi,2007,904.8,7129.8,7.88
+Gujarat,Rajkot,Onion,Rabi,2008,220.0,1227.6,5.58
+Gujarat,Rajkot,Onion,Rabi,2009,321.2,3215.2,10.01
+Gujarat,Rajkot,Onion,Rabi,2010,396.3,741.1,1.87
+Gujarat,Rajkot,Onion,Rabi,2011,326.7,640.3,1.96
+Gujarat,Rajkot,Onion,Rabi,2012,546.3,2944.6,5.39
+Gujarat,Rajkot,Onion,Rabi,2013,154.6,929.1,6.01
+Gujarat,Rajkot,Onion,Rabi,2014,135.5,860.4,6.35
+Gujarat,Rajkot,Onion,Rabi,2015,216.7,1909.1,8.81
+Gujarat,Rajkot,Onion,Rabi,2016,638.9,1546.1,2.42
+Gujarat,Rajkot,Onion,Rabi,2017,289.2,2617.3,9.05
+Gujarat,Rajkot,Onion,Rabi,2018,177.1,1627.5,9.19
+Gujarat,Rajkot,Onion,Rabi,2019,328.3,3115.6,9.49
+Gujarat,Rajkot,Onion,Rabi,2020,764.6,5757.4,7.53
+Gujarat,Rajkot,Onion,Rabi,2021,290.5,2411.2,8.3
+Gujarat,Rajkot,Onion,Rabi,2022,212.4,531.0,2.5
+Gujarat,Rajkot,Onion,Rabi,2023,685.6,5100.9,7.44
+Gujarat,Rajkot,Onion,Rabi,2024,329.3,2591.6,7.87
+Tamil Nadu,Thanjavur,Onion,Kharif,2007,208.2,439.3,2.11
+Tamil Nadu,Thanjavur,Onion,Kharif,2013,304.5,590.7,1.94
+Tamil Nadu,Thanjavur,Onion,Kharif,2022,394.1,1276.9,3.24
+Tamil Nadu,Thanjavur,Onion,Kharif,2024,288.8,424.5,1.47
+Tamil Nadu,Thanjavur,Onion,Rabi,2007,222.4,611.6,2.75
+Tamil Nadu,Thanjavur,Onion,Rabi,2010,431.2,1254.8,2.91
+Uttar Pradesh,Varanasi,Onion,Kharif,2006,428.5,411.4,0.96
+Uttar Pradesh,Varanasi,Onion,Kharif,2008,381.0,415.3,1.09
+Uttar Pradesh,Varanasi,Onion,Kharif,2009,391.1,332.4,0.85
+Uttar Pradesh,Varanasi,Onion,Kharif,2011,112.3,94.3,0.84
+Uttar Pradesh,Varanasi,Onion,Rabi,2011,350.3,1723.5,4.92
+Uttar Pradesh,Varanasi,Onion,Rabi,2013,394.5,678.5,1.72
+Uttar Pradesh,Varanasi,Onion,Rabi,2021,211.6,721.6,3.41
+Uttar Pradesh,Varanasi,Onion,Rabi,2022,229.9,2526.6,10.99
+Uttar Pradesh,Varanasi,Onion,Rabi,2023,98.1,217.8,2.22
+West Bengal,Burdwan,Potato,Rabi,2005,262.1,4523.8,17.26
+West Bengal,Burdwan,Potato,Rabi,2006,217.3,645.4,2.97
+West Bengal,Burdwan,Potato,Rabi,2007,531.3,7544.5,14.2
+West Bengal,Burdwan,Potato,Rabi,2008,120.8,1617.5,13.39
+West Bengal,Burdwan,Potato,Rabi,2009,355.6,4057.4,11.41
+West Bengal,Burdwan,Potato,Rabi,2010,99.9,208.8,2.09
+West Bengal,Burdwan,Potato,Rabi,2011,261.7,4820.5,18.42
+West Bengal,Burdwan,Potato,Rabi,2012,517.6,4953.4,9.57
+West Bengal,Burdwan,Potato,Rabi,2013,351.2,6065.2,17.27
+West Bengal,Burdwan,Potato,Rabi,2014,611.1,4424.4,7.24
+West Bengal,Burdwan,Potato,Rabi,2015,356.2,470.2,1.32
+West Bengal,Burdwan,Potato,Rabi,2016,350.5,1128.6,3.22
+West Bengal,Burdwan,Potato,Rabi,2017,710.5,2003.6,2.82
+West Bengal,Burdwan,Potato,Rabi,2018,207.7,2340.8,11.27
+West Bengal,Burdwan,Potato,Rabi,2019,453.6,8813.4,19.43
+West Bengal,Burdwan,Potato,Rabi,2020,159.7,662.8,4.15
+West Bengal,Burdwan,Potato,Rabi,2021,537.8,10551.6,19.62
+West Bengal,Burdwan,Potato,Rabi,2022,543.8,3561.9,6.55
+West Bengal,Burdwan,Potato,Rabi,2023,848.6,12185.9,14.36
+West Bengal,Burdwan,Potato,Rabi,2024,71.7,557.8,7.78
+Madhya Pradesh,Indore,Potato,Rabi,2005,534.2,4941.4,9.25
+Madhya Pradesh,Indore,Potato,Rabi,2006,311.9,3986.1,12.78
+Madhya Pradesh,Indore,Potato,Rabi,2021,285.6,3438.6,12.04
+Haryana,Karnal,Potato,Rabi,2005,510.8,6190.9,12.12
+Haryana,Karnal,Potato,Rabi,2006,445.2,4167.1,9.36
+Haryana,Karnal,Potato,Rabi,2007,223.8,1593.5,7.12
+Haryana,Karnal,Potato,Rabi,2008,288.4,3556.0,12.33
+Haryana,Karnal,Potato,Rabi,2009,39.0,634.5,16.27
+Haryana,Karnal,Potato,Rabi,2010,487.3,7572.6,15.54
+Haryana,Karnal,Potato,Rabi,2011,285.5,2092.7,7.33
+Haryana,Karnal,Potato,Rabi,2012,460.3,7963.2,17.3
+Haryana,Karnal,Potato,Rabi,2013,129.4,1292.7,9.99
+Haryana,Karnal,Potato,Rabi,2014,509.1,7259.8,14.26
+Haryana,Karnal,Potato,Rabi,2015,319.5,5418.7,16.96
+Haryana,Karnal,Potato,Rabi,2016,353.5,4758.1,13.46
+Haryana,Karnal,Potato,Rabi,2017,141.1,1085.1,7.69
+Haryana,Karnal,Potato,Rabi,2018,397.6,5705.6,14.35
+Haryana,Karnal,Potato,Rabi,2019,283.0,2445.1,8.64
+Haryana,Karnal,Potato,Rabi,2020,221.3,3777.6,17.07
+Haryana,Karnal,Potato,Rabi,2021,290.8,2727.7,9.38
+Haryana,Karnal,Potato,Rabi,2022,493.2,10041.6,20.36
+Haryana,Karnal,Potato,Rabi,2023,146.8,2696.7,18.37
+Haryana,Karnal,Potato,Rabi,2024,393.6,6325.2,16.07
+Rajasthan,Kota,Potato,Rabi,2011,199.1,2377.3,11.94
+Punjab,Ludhiana,Potato,Rabi,2005,720.8,9716.4,13.48
+Punjab,Ludhiana,Potato,Rabi,2006,147.9,1870.9,12.65
+Punjab,Ludhiana,Potato,Rabi,2007,429.1,7453.5,17.37
+Punjab,Ludhiana,Potato,Rabi,2008,435.4,7249.4,16.65
+Punjab,Ludhiana,Potato,Rabi,2009,196.5,3605.8,18.35
+Punjab,Ludhiana,Potato,Rabi,2010,320.5,6371.5,19.88
+Punjab,Ludhiana,Potato,Rabi,2011,429.7,6819.3,15.87
+Punjab,Ludhiana,Potato,Rabi,2012,405.7,5606.8,13.82
+Punjab,Ludhiana,Potato,Rabi,2013,379.4,6575.0,17.33
+Punjab,Ludhiana,Potato,Rabi,2014,53.7,976.8,18.19
+Punjab,Ludhiana,Potato,Rabi,2015,98.3,1585.6,16.13
+Punjab,Ludhiana,Potato,Rabi,2016,226.9,3664.4,16.15
+Punjab,Ludhiana,Potato,Rabi,2017,345.1,6173.8,17.89
+Punjab,Ludhiana,Potato,Rabi,2018,538.7,7035.4,13.06
+Punjab,Ludhiana,Potato,Rabi,2019,210.1,2981.3,14.19
+Punjab,Ludhiana,Potato,Rabi,2020,835.9,12663.9,15.15
+Punjab,Ludhiana,Potato,Rabi,2021,203.6,2496.1,12.26
+Punjab,Ludhiana,Potato,Rabi,2022,152.9,2957.1,19.34
+Punjab,Ludhiana,Potato,Rabi,2023,146.6,2518.6,17.18
+Punjab,Ludhiana,Potato,Rabi,2024,253.4,4285.0,16.91
+Karnataka,Mandya,Potato,Rabi,2017,207.7,550.4,2.65
+Maharashtra,Nashik,Potato,Rabi,2016,176.4,1698.7,9.63
+Maharashtra,Nashik,Potato,Rabi,2022,285.7,1045.7,3.66
+Maharashtra,Nashik,Potato,Rabi,2023,133.9,555.7,4.15
+Bihar,Patna,Potato,Rabi,2005,832.4,11428.9,13.73
+Bihar,Patna,Potato,Rabi,2006,210.5,2972.3,14.12
+Bihar,Patna,Potato,Rabi,2007,259.9,3396.9,13.07
+Bihar,Patna,Potato,Rabi,2008,201.8,3164.2,15.68
+Bihar,Patna,Potato,Rabi,2009,65.8,868.6,13.2
+Bihar,Patna,Potato,Rabi,2010,863.2,11256.1,13.04
+Bihar,Patna,Potato,Rabi,2011,193.9,3269.2,16.86
+Bihar,Patna,Potato,Rabi,2012,285.2,1103.7,3.87
+Bihar,Patna,Potato,Rabi,2013,758.3,12330.0,16.26
+Bihar,Patna,Potato,Rabi,2014,635.7,2021.5,3.18
+Bihar,Patna,Potato,Rabi,2015,144.8,556.0,3.84
+Bihar,Patna,Potato,Rabi,2016,643.8,2388.5,3.71
+Bihar,Patna,Potato,Rabi,2017,217.4,3461.0,15.92
+Bihar,Patna,Potato,Rabi,2018,313.5,1065.9,3.4
+Bihar,Patna,Potato,Rabi,2019,663.8,11165.1,16.82
+Bihar,Patna,Potato,Rabi,2020,108.3,1821.6,16.82
+Bihar,Patna,Potato,Rabi,2021,668.4,12278.5,18.37
+Bihar,Patna,Potato,Rabi,2022,595.9,8718.0,14.63
+Bihar,Patna,Potato,Rabi,2023,89.1,1465.7,16.45
+Bihar,Patna,Potato,Rabi,2024,327.8,6002.0,18.31
+Gujarat,Rajkot,Potato,Rabi,2005,176.5,790.7,4.48
+Gujarat,Rajkot,Potato,Rabi,2009,453.0,1689.7,3.73
+Gujarat,Rajkot,Potato,Rabi,2010,1286.9,8776.7,6.82
+Gujarat,Rajkot,Potato,Rabi,2015,722.4,671.8,0.93
+Gujarat,Rajkot,Potato,Rabi,2017,601.9,553.7,0.92
+Tamil Nadu,Thanjavur,Potato,Rabi,2017,260.2,273.2,1.05
+Tamil Nadu,Thanjavur,Potato,Rabi,2022,416.2,337.1,0.81
+Tamil Nadu,Thanjavur,Potato,Rabi,2024,131.8,125.2,0.95
+Uttar Pradesh,Varanasi,Potato,Rabi,2005,512.1,8378.0,16.36
+Uttar Pradesh,Varanasi,Potato,Rabi,2006,225.2,3265.4,14.5
+Uttar Pradesh,Varanasi,Potato,Rabi,2007,406.4,1377.7,3.39
+Uttar Pradesh,Varanasi,Potato,Rabi,2008,457.7,1615.7,3.53
+Uttar Pradesh,Varanasi,Potato,Rabi,2009,493.1,5601.6,11.36
+Uttar Pradesh,Varanasi,Potato,Rabi,2010,307.8,4173.8,13.56
+Uttar Pradesh,Varanasi,Potato,Rabi,2011,260.4,3994.5,15.34
+Uttar Pradesh,Varanasi,Potato,Rabi,2012,621.2,11206.4,18.04
+Uttar Pradesh,Varanasi,Potato,Rabi,2013,633.1,2247.5,3.55
+Uttar Pradesh,Varanasi,Potato,Rabi,2014,170.2,2052.6,12.06
+Uttar Pradesh,Varanasi,Potato,Rabi,2015,703.0,9497.5,13.51
+Uttar Pradesh,Varanasi,Potato,Rabi,2016,338.9,5635.9,16.63
+Uttar Pradesh,Varanasi,Potato,Rabi,2017,417.7,7501.9,17.96
+Uttar Pradesh,Varanasi,Potato,Rabi,2018,269.5,4727.0,17.54
+Uttar Pradesh,Varanasi,Potato,Rabi,2019,247.1,983.5,3.98
+Uttar Pradesh,Varanasi,Potato,Rabi,2020,523.2,1998.6,3.82
+Uttar Pradesh,Varanasi,Potato,Rabi,2021,587.5,2308.9,3.93
+Uttar Pradesh,Varanasi,Potato,Rabi,2022,280.8,730.1,2.6
+Uttar Pradesh,Varanasi,Potato,Rabi,2023,585.2,2048.2,3.5
+Uttar Pradesh,Varanasi,Potato,Rabi,2024,528.7,10505.3,19.87
+West Bengal,Burdwan,Ragi,Kharif,2006,252.5,30.3,0.12
+West Bengal,Burdwan,Ragi,Kharif,2016,291.3,37.9,0.13
+Andhra Pradesh,Guntur,Ragi,Kharif,2018,432.4,138.4,0.32
+Andhra Pradesh,Guntur,Ragi,Summer,2007,138.2,33.2,0.24
+Andhra Pradesh,Guntur,Ragi,Summer,2009,329.8,72.6,0.22
+Andhra Pradesh,Guntur,Ragi,Summer,2014,183.5,18.4,0.1
+Andhra Pradesh,Guntur,Ragi,Summer,2019,555.8,161.2,0.29
+Andhra Pradesh,Guntur,Ragi,Summer,2022,118.1,31.9,0.27
+Madhya Pradesh,Indore,Ragi,Kharif,2010,644.7,141.8,0.22
+Madhya Pradesh,Indore,Ragi,Kharif,2011,467.0,84.1,0.18
+Madhya Pradesh,Indore,Ragi,Kharif,2014,462.4,69.4,0.15
+Madhya Pradesh,Indore,Ragi,Kharif,2017,429.4,73.0,0.17
+Madhya Pradesh,Indore,Ragi,Summer,2019,559.4,117.5,0.21
+Haryana,Karnal,Ragi,Kharif,2015,344.8,44.8,0.13
+Haryana,Karnal,Ragi,Kharif,2024,201.4,20.1,0.1
+Haryana,Karnal,Ragi,Summer,2009,217.7,34.8,0.16
+Haryana,Karnal,Ragi,Summer,2014,544.4,98.0,0.18
+Haryana,Karnal,Ragi,Summer,2015,212.6,34.0,0.16
+Haryana,Karnal,Ragi,Summer,2016,206.6,33.1,0.16
+Rajasthan,Kota,Ragi,Kharif,2008,252.0,25.2,0.1
+Rajasthan,Kota,Ragi,Kharif,2018,244.6,24.5,0.1
+Rajasthan,Kota,Ragi,Kharif,2021,928.4,92.8,0.1
+Rajasthan,Kota,Ragi,Summer,2010,301.1,48.2,0.16
+Rajasthan,Kota,Ragi,Summer,2017,316.8,69.7,0.22
+Rajasthan,Kota,Ragi,Summer,2019,458.8,100.9,0.22
+Punjab,Ludhiana,Ragi,Summer,2008,239.2,43.1,0.18
+Punjab,Ludhiana,Ragi,Summer,2020,267.9,48.2,0.18
+Punjab,Ludhiana,Ragi,Summer,2024,199.9,36.0,0.18
+Karnataka,Mandya,Ragi,Kharif,2005,262.8,333.8,1.27
+Karnataka,Mandya,Ragi,Kharif,2006,422.2,447.5,1.06
+Karnataka,Mandya,Ragi,Kharif,2007,749.4,1056.7,1.41
+Karnataka,Mandya,Ragi,Kharif,2008,448.2,587.1,1.31
+Karnataka,Mandya,Ragi,Kharif,2009,495.1,257.5,0.52
+Karnataka,Mandya,Ragi,Kharif,2010,448.3,183.8,0.41
+Karnataka,Mandya,Ragi,Kharif,2011,162.1,61.6,0.38
+Karnataka,Mandya,Ragi,Kharif,2012,228.7,240.1,1.05
+Karnataka,Mandya,Ragi,Kharif,2013,202.7,322.3,1.59
+Karnataka,Mandya,Ragi,Kharif,2014,195.6,367.7,1.88
+Karnataka,Mandya,Ragi,Kharif,2015,237.2,275.2,1.16
+Karnataka,Mandya,Ragi,Kharif,2016,472.5,326.0,0.69
+Karnataka,Mandya,Ragi,Kharif,2017,182.6,392.6,2.15
+Karnataka,Mandya,Ragi,Kharif,2018,152.8,91.7,0.6
+Karnataka,Mandya,Ragi,Kharif,2019,198.6,75.5,0.38
+Karnataka,Mandya,Ragi,Kharif,2020,366.1,153.8,0.42
+Karnataka,Mandya,Ragi,Kharif,2021,432.0,695.5,1.61
+Karnataka,Mandya,Ragi,Kharif,2022,455.3,541.8,1.19
+Karnataka,Mandya,Ragi,Kharif,2023,38.5,39.7,1.03
+Karnataka,Mandya,Ragi,Kharif,2024,377.4,305.7,0.81
+Karnataka,Mandya,Ragi,Summer,2005,163.5,22.9,0.14
+Karnataka,Mandya,Ragi,Summer,2006,425.5,42.6,0.1
+Karnataka,Mandya,Ragi,Summer,2007,1885.7,301.7,0.16
+Karnataka,Mandya,Ragi,Summer,2008,234.4,53.9,0.23
+Karnataka,Mandya,Ragi,Summer,2009,275.4,90.9,0.33
+Karnataka,Mandya,Ragi,Summer,2010,492.4,521.9,1.06
+Karnataka,Mandya,Ragi,Summer,2011,378.7,45.4,0.12
+Karnataka,Mandya,Ragi,Summer,2012,213.1,32.0,0.15
+Karnataka,Mandya,Ragi,Summer,2013,653.6,882.4,1.35
+Karnataka,Mandya,Ragi,Summer,2014,124.0,107.9,0.87
+Karnataka,Mandya,Ragi,Summer,2015,155.5,68.4,0.44
+Karnataka,Mandya,Ragi,Summer,2016,235.4,63.6,0.27
+Karnataka,Mandya,Ragi,Summer,2017,218.7,310.6,1.42
+Karnataka,Mandya,Ragi,Summer,2018,465.5,363.1,0.78
+Karnataka,Mandya,Ragi,Summer,2019,142.7,152.7,1.07
+Karnataka,Mandya,Ragi,Summer,2020,188.7,239.6,1.27
+Karnataka,Mandya,Ragi,Summer,2021,334.0,277.2,0.83
+Karnataka,Mandya,Ragi,Summer,2022,124.4,14.9,0.12
+Karnataka,Mandya,Ragi,Summer,2023,172.3,37.9,0.22
+Karnataka,Mandya,Ragi,Summer,2024,572.7,137.4,0.24
+Maharashtra,Nashik,Ragi,Kharif,2005,400.2,88.0,0.22
+Maharashtra,Nashik,Ragi,Kharif,2018,544.3,125.2,0.23
+Maharashtra,Nashik,Ragi,Kharif,2024,63.3,16.5,0.26
+Maharashtra,Nashik,Ragi,Summer,2018,56.7,15.9,0.28
+Maharashtra,Nashik,Ragi,Summer,2022,555.0,55.5,0.1
+Bihar,Patna,Ragi,Kharif,2021,377.8,75.6,0.2
+Bihar,Patna,Ragi,Kharif,2023,783.8,125.4,0.16
+Bihar,Patna,Ragi,Summer,2005,472.2,47.2,0.1
+Bihar,Patna,Ragi,Summer,2023,234.1,23.4,0.1
+Bihar,Patna,Ragi,Summer,2024,338.9,74.6,0.22
+Gujarat,Rajkot,Ragi,Kharif,2009,350.7,42.1,0.12
+Gujarat,Rajkot,Ragi,Kharif,2017,312.5,100.0,0.32
+Gujarat,Rajkot,Ragi,Summer,2014,52.9,5.3,0.1
+Gujarat,Rajkot,Ragi,Summer,2023,736.4,206.2,0.28
+Tamil Nadu,Thanjavur,Ragi,Kharif,2005,140.9,47.9,0.34
+Tamil Nadu,Thanjavur,Ragi,Kharif,2006,452.1,158.2,0.35
+Tamil Nadu,Thanjavur,Ragi,Kharif,2007,817.0,212.4,0.26
+Tamil Nadu,Thanjavur,Ragi,Kharif,2008,359.5,93.5,0.26
+Tamil Nadu,Thanjavur,Ragi,Kharif,2009,182.4,71.1,0.39
+Tamil Nadu,Thanjavur,Ragi,Kharif,2010,654.4,137.4,0.21
+Tamil Nadu,Thanjavur,Ragi,Kharif,2011,184.8,38.8,0.21
+Tamil Nadu,Thanjavur,Ragi,Kharif,2012,313.0,103.3,0.33
+Tamil Nadu,Thanjavur,Ragi,Kharif,2013,274.0,84.9,0.31
+Tamil Nadu,Thanjavur,Ragi,Kharif,2014,249.9,102.5,0.41
+Tamil Nadu,Thanjavur,Ragi,Kharif,2015,246.7,91.3,0.37
+Tamil Nadu,Thanjavur,Ragi,Kharif,2016,403.5,92.8,0.23
+Tamil Nadu,Thanjavur,Ragi,Kharif,2017,206.2,51.5,0.25
+Tamil Nadu,Thanjavur,Ragi,Kharif,2018,172.6,43.1,0.25
+Tamil Nadu,Thanjavur,Ragi,Kharif,2019,220.6,33.1,0.15
+Tamil Nadu,Thanjavur,Ragi,Kharif,2020,418.7,167.5,0.4
+Tamil Nadu,Thanjavur,Ragi,Kharif,2021,185.1,64.8,0.35
+Tamil Nadu,Thanjavur,Ragi,Kharif,2022,191.5,26.8,0.14
+Tamil Nadu,Thanjavur,Ragi,Kharif,2023,203.1,36.6,0.18
+Tamil Nadu,Thanjavur,Ragi,Kharif,2024,131.2,47.2,0.36
+Tamil Nadu,Thanjavur,Ragi,Summer,2005,511.3,51.1,0.1
+Tamil Nadu,Thanjavur,Ragi,Summer,2006,176.4,42.3,0.24
+Tamil Nadu,Thanjavur,Ragi,Summer,2007,328.9,32.9,0.1
+Tamil Nadu,Thanjavur,Ragi,Summer,2008,660.7,178.4,0.27
+Tamil Nadu,Thanjavur,Ragi,Summer,2009,323.8,32.4,0.1
+Tamil Nadu,Thanjavur,Ragi,Summer,2010,737.3,73.7,0.1
+Tamil Nadu,Thanjavur,Ragi,Summer,2011,205.9,49.4,0.24
+Tamil Nadu,Thanjavur,Ragi,Summer,2012,112.7,30.4,0.27
+Tamil Nadu,Thanjavur,Ragi,Summer,2013,850.9,246.8,0.29
+Tamil Nadu,Thanjavur,Ragi,Summer,2014,612.8,134.8,0.22
+Tamil Nadu,Thanjavur,Ragi,Summer,2015,319.6,32.0,0.1
+Tamil Nadu,Thanjavur,Ragi,Summer,2016,119.1,34.5,0.29
+Tamil Nadu,Thanjavur,Ragi,Summer,2017,530.9,169.9,0.32
+Tamil Nadu,Thanjavur,Ragi,Summer,2018,475.5,142.7,0.3
+Tamil Nadu,Thanjavur,Ragi,Summer,2019,405.6,101.4,0.25
+Tamil Nadu,Thanjavur,Ragi,Summer,2020,304.0,30.4,0.1
+Tamil Nadu,Thanjavur,Ragi,Summer,2021,156.1,15.6,0.1
+Tamil Nadu,Thanjavur,Ragi,Summer,2022,595.1,190.4,0.32
+Tamil Nadu,Thanjavur,Ragi,Summer,2023,688.1,68.8,0.1
+Tamil Nadu,Thanjavur,Ragi,Summer,2024,417.4,41.7,0.1
+Uttar Pradesh,Varanasi,Ragi,Kharif,2007,217.9,21.8,0.1
+Uttar Pradesh,Varanasi,Ragi,Kharif,2010,102.6,10.3,0.1
+Uttar Pradesh,Varanasi,Ragi,Kharif,2017,338.8,33.9,0.1
+Uttar Pradesh,Varanasi,Ragi,Summer,2017,60.8,6.1,0.1
+West Bengal,Burdwan,Rice,Kharif,2005,146.4,103.9,0.71
+West Bengal,Burdwan,Rice,Kharif,2006,518.9,399.6,0.77
+West Bengal,Burdwan,Rice,Kharif,2007,585.6,1663.1,2.84
+West Bengal,Burdwan,Rice,Kharif,2008,115.3,213.3,1.85
+West Bengal,Burdwan,Rice,Kharif,2009,248.7,300.9,1.21
+West Bengal,Burdwan,Rice,Kharif,2010,482.4,1495.4,3.1
+West Bengal,Burdwan,Rice,Kharif,2011,710.5,2316.2,3.26
+West Bengal,Burdwan,Rice,Kharif,2012,366.7,1422.8,3.88
+West Bengal,Burdwan,Rice,Kharif,2013,548.6,466.3,0.85
+West Bengal,Burdwan,Rice,Kharif,2014,208.6,239.9,1.15
+West Bengal,Burdwan,Rice,Kharif,2015,495.0,1732.5,3.5
+West Bengal,Burdwan,Rice,Kharif,2016,150.8,230.7,1.53
+West Bengal,Burdwan,Rice,Kharif,2017,768.3,1175.5,1.53
+West Bengal,Burdwan,Rice,Kharif,2018,887.1,1330.7,1.5
+West Bengal,Burdwan,Rice,Kharif,2019,569.0,495.0,0.87
+West Bengal,Burdwan,Rice,Kharif,2020,868.7,2866.7,3.3
+West Bengal,Burdwan,Rice,Kharif,2021,282.9,874.2,3.09
+West Bengal,Burdwan,Rice,Kharif,2022,121.4,314.4,2.59
+West Bengal,Burdwan,Rice,Kharif,2023,166.8,677.2,4.06
+West Bengal,Burdwan,Rice,Kharif,2024,508.9,391.9,0.77
+West Bengal,Burdwan,Rice,Summer,2005,173.7,112.9,0.65
+West Bengal,Burdwan,Rice,Summer,2006,417.8,409.4,0.98
+West Bengal,Burdwan,Rice,Summer,2007,36.5,59.1,1.62
+West Bengal,Burdwan,Rice,Summer,2008,178.2,254.8,1.43
+West Bengal,Burdwan,Rice,Summer,2009,451.6,90.3,0.2
+West Bengal,Burdwan,Rice,Summer,2010,283.1,331.2,1.17
+West Bengal,Burdwan,Rice,Summer,2011,787.2,1243.8,1.58
+West Bengal,Burdwan,Rice,Summer,2012,511.1,756.4,1.48
+West Bengal,Burdwan,Rice,Summer,2013,387.8,376.2,0.97
+West Bengal,Burdwan,Rice,Summer,2014,302.0,283.9,0.94
+West Bengal,Burdwan,Rice,Summer,2015,335.1,217.8,0.65
+West Bengal,Burdwan,Rice,Summer,2016,348.0,212.3,0.61
+West Bengal,Burdwan,Rice,Summer,2017,319.7,166.2,0.52
+West Bengal,Burdwan,Rice,Summer,2018,38.2,51.2,1.34
+West Bengal,Burdwan,Rice,Summer,2019,430.7,211.0,0.49
+West Bengal,Burdwan,Rice,Summer,2020,355.5,721.7,2.03
+West Bengal,Burdwan,Rice,Summer,2021,180.4,350.0,1.94
+West Bengal,Burdwan,Rice,Summer,2022,1079.8,226.8,0.21
+West Bengal,Burdwan,Rice,Summer,2023,270.5,105.5,0.39
+West Bengal,Burdwan,Rice,Summer,2024,342.0,342.0,1.0
+Andhra Pradesh,Guntur,Rice,Kharif,2005,287.6,609.7,2.12
+Andhra Pradesh,Guntur,Rice,Kharif,2006,220.9,110.5,0.5
+Andhra Pradesh,Guntur,Rice,Kharif,2007,254.7,618.9,2.43
+Andhra Pradesh,Guntur,Rice,Kharif,2008,535.4,262.3,0.49
+Andhra Pradesh,Guntur,Rice,Kharif,2009,705.8,317.6,0.45
+Andhra Pradesh,Guntur,Rice,Kharif,2010,562.1,1506.4,2.68
+Andhra Pradesh,Guntur,Rice,Kharif,2011,169.2,379.0,2.24
+Andhra Pradesh,Guntur,Rice,Kharif,2012,134.4,311.8,2.32
+Andhra Pradesh,Guntur,Rice,Kharif,2013,578.1,936.5,1.62
+Andhra Pradesh,Guntur,Rice,Kharif,2014,198.8,137.2,0.69
+Andhra Pradesh,Guntur,Rice,Kharif,2015,105.1,51.5,0.49
+Andhra Pradesh,Guntur,Rice,Kharif,2016,137.6,300.0,2.18
+Andhra Pradesh,Guntur,Rice,Kharif,2017,308.1,166.4,0.54
+Andhra Pradesh,Guntur,Rice,Kharif,2018,637.6,1689.6,2.65
+Andhra Pradesh,Guntur,Rice,Kharif,2019,409.4,867.9,2.12
+Andhra Pradesh,Guntur,Rice,Kharif,2020,151.3,234.5,1.55
+Andhra Pradesh,Guntur,Rice,Kharif,2021,226.1,583.3,2.58
+Andhra Pradesh,Guntur,Rice,Kharif,2022,873.7,1109.6,1.27
+Andhra Pradesh,Guntur,Rice,Kharif,2023,752.3,820.0,1.09
+Andhra Pradesh,Guntur,Rice,Kharif,2024,719.6,2108.4,2.93
+Andhra Pradesh,Guntur,Rice,Summer,2005,120.1,43.2,0.36
+Andhra Pradesh,Guntur,Rice,Summer,2006,636.5,184.6,0.29
+Andhra Pradesh,Guntur,Rice,Summer,2007,940.4,300.9,0.32
+Andhra Pradesh,Guntur,Rice,Summer,2008,954.8,305.5,0.32
+Andhra Pradesh,Guntur,Rice,Summer,2009,836.0,334.4,0.4
+Andhra Pradesh,Guntur,Rice,Summer,2010,751.1,420.6,0.56
+Andhra Pradesh,Guntur,Rice,Summer,2011,230.8,32.3,0.14
+Andhra Pradesh,Guntur,Rice,Summer,2012,235.5,33.0,0.14
+Andhra Pradesh,Guntur,Rice,Summer,2013,480.9,182.7,0.38
+Andhra Pradesh,Guntur,Rice,Summer,2014,198.4,113.1,0.57
+Andhra Pradesh,Guntur,Rice,Summer,2015,271.3,40.7,0.15
+Andhra Pradesh,Guntur,Rice,Summer,2016,441.3,176.5,0.4
+Andhra Pradesh,Guntur,Rice,Summer,2017,371.1,137.3,0.37
+Andhra Pradesh,Guntur,Rice,Summer,2018,387.7,248.1,0.64
+Andhra Pradesh,Guntur,Rice,Summer,2019,301.6,48.3,0.16
+Andhra Pradesh,Guntur,Rice,Summer,2020,435.4,65.3,0.15
+Andhra Pradesh,Guntur,Rice,Summer,2021,506.6,212.8,0.42
+Andhra Pradesh,Guntur,Rice,Summer,2022,335.2,53.6,0.16
+Andhra Pradesh,Guntur,Rice,Summer,2023,336.2,211.8,0.63
+Andhra Pradesh,Guntur,Rice,Summer,2024,437.8,280.2,0.64
+Madhya Pradesh,Indore,Rice,Kharif,2010,648.5,1504.5,2.32
+Madhya Pradesh,Indore,Rice,Kharif,2018,250.5,453.4,1.81
+Madhya Pradesh,Indore,Rice,Kharif,2022,481.7,592.5,1.23
+Madhya Pradesh,Indore,Rice,Summer,2008,128.0,69.1,0.54
+Madhya Pradesh,Indore,Rice,Summer,2010,452.4,162.9,0.36
+Madhya Pradesh,Indore,Rice,Summer,2019,597.5,161.3,0.27
+Haryana,Karnal,Rice,Kharif,2005,177.2,412.9,2.33
+Haryana,Karnal,Rice,Kharif,2006,603.8,1249.9,2.07
+Haryana,Karnal,Rice,Kharif,2007,71.3,172.5,2.42
+Haryana,Karnal,Rice,Kharif,2008,336.9,940.0,2.79
+Haryana,Karnal,Rice,Kharif,2009,332.7,688.7,2.07
+Haryana,Karnal,Rice,Kharif,2010,267.8,591.8,2.21
+Haryana,Karnal,Rice,Kharif,2011,341.0,784.3,2.3
+Haryana,Karnal,Rice,Kharif,2012,223.2,522.3,2.34
+Haryana,Karnal,Rice,Kharif,2013,420.1,1041.8,2.48
+Haryana,Karnal,Rice,Kharif,2014,383.0,789.0,2.06
+Haryana,Karnal,Rice,Kharif,2015,269.4,633.1,2.35
+Haryana,Karnal,Rice,Kharif,2016,388.3,1009.6,2.6
+Haryana,Karnal,Rice,Kharif,2017,497.9,1244.8,2.5
+Haryana,Karnal,Rice,Kharif,2018,327.6,727.3,2.22
+Haryana,Karnal,Rice,Kharif,2019,254.6,455.7,1.79
+Haryana,Karnal,Rice,Kharif,2020,243.1,498.4,2.05
+Haryana,Karnal,Rice,Kharif,2021,528.3,1098.9,2.08
+Haryana,Karnal,Rice,Kharif,2022,497.1,497.1,1.0
+Haryana,Karnal,Rice,Kharif,2023,326.9,699.6,2.14
+Haryana,Karnal,Rice,Kharif,2024,250.6,568.9,2.27
+Haryana,Karnal,Rice,Summer,2005,439.2,180.1,0.41
+Haryana,Karnal,Rice,Summer,2006,402.3,177.0,0.44
+Haryana,Karnal,Rice,Summer,2007,676.1,304.2,0.45
+Haryana,Karnal,Rice,Summer,2008,46.9,21.1,0.45
+Haryana,Karnal,Rice,Summer,2009,473.4,165.7,0.35
+Haryana,Karnal,Rice,Summer,2010,334.1,203.8,0.61
+Haryana,Karnal,Rice,Summer,2011,257.8,123.7,0.48
+Haryana,Karnal,Rice,Summer,2012,210.8,88.5,0.42
+Haryana,Karnal,Rice,Summer,2013,391.7,148.8,0.38
+Haryana,Karnal,Rice,Summer,2014,292.3,96.5,0.33
+Haryana,Karnal,Rice,Summer,2015,398.7,143.5,0.36
+Haryana,Karnal,Rice,Summer,2016,369.7,129.4,0.35
+Haryana,Karnal,Rice,Summer,2017,1056.8,623.5,0.59
+Haryana,Karnal,Rice,Summer,2018,335.0,150.8,0.45
+Haryana,Karnal,Rice,Summer,2019,668.8,227.4,0.34
+Haryana,Karnal,Rice,Summer,2020,389.5,210.3,0.54
+Haryana,Karnal,Rice,Summer,2021,261.9,128.3,0.49
+Haryana,Karnal,Rice,Summer,2022,208.0,85.3,0.41
+Haryana,Karnal,Rice,Summer,2023,560.9,336.5,0.6
+Haryana,Karnal,Rice,Summer,2024,839.1,276.9,0.33
+Rajasthan,Kota,Rice,Kharif,2008,440.3,946.6,2.15
+Rajasthan,Kota,Rice,Kharif,2012,652.5,1657.4,2.54
+Punjab,Ludhiana,Rice,Kharif,2005,754.9,1449.4,1.92
+Punjab,Ludhiana,Rice,Kharif,2006,409.9,778.8,1.9
+Punjab,Ludhiana,Rice,Kharif,2007,428.4,792.5,1.85
+Punjab,Ludhiana,Rice,Kharif,2008,562.4,1327.3,2.36
+Punjab,Ludhiana,Rice,Kharif,2009,280.7,412.6,1.47
+Punjab,Ludhiana,Rice,Kharif,2010,204.8,446.5,2.18
+Punjab,Ludhiana,Rice,Kharif,2011,73.2,131.8,1.8
+Punjab,Ludhiana,Rice,Kharif,2012,253.2,483.6,1.91
+Punjab,Ludhiana,Rice,Kharif,2013,382.1,871.2,2.28
+Punjab,Ludhiana,Rice,Kharif,2014,697.0,801.5,1.15
+Punjab,Ludhiana,Rice,Kharif,2015,975.9,1063.7,1.09
+Punjab,Ludhiana,Rice,Kharif,2016,432.7,1051.5,2.43
+Punjab,Ludhiana,Rice,Kharif,2017,427.1,1076.3,2.52
+Punjab,Ludhiana,Rice,Kharif,2018,467.9,996.6,2.13
+Punjab,Ludhiana,Rice,Kharif,2019,146.3,237.0,1.62
+Punjab,Ludhiana,Rice,Kharif,2020,302.5,544.5,1.8
+Punjab,Ludhiana,Rice,Kharif,2021,224.9,476.8,2.12
+Punjab,Ludhiana,Rice,Kharif,2022,267.0,373.8,1.4
+Punjab,Ludhiana,Rice,Kharif,2023,97.0,163.9,1.69
+Punjab,Ludhiana,Rice,Kharif,2024,521.2,1376.0,2.64
+Punjab,Ludhiana,Rice,Summer,2005,407.6,159.0,0.39
+Punjab,Ludhiana,Rice,Summer,2006,476.0,157.1,0.33
+Punjab,Ludhiana,Rice,Summer,2007,120.2,62.5,0.52
+Punjab,Ludhiana,Rice,Summer,2008,363.4,189.0,0.52
+Punjab,Ludhiana,Rice,Summer,2009,622.0,279.9,0.45
+Punjab,Ludhiana,Rice,Summer,2010,271.9,81.6,0.3
+Punjab,Ludhiana,Rice,Summer,2011,278.4,108.6,0.39
+Punjab,Ludhiana,Rice,Summer,2012,195.2,136.6,0.7
+Punjab,Ludhiana,Rice,Summer,2013,321.3,112.5,0.35
+Punjab,Ludhiana,Rice,Summer,2014,320.0,108.8,0.34
+Punjab,Ludhiana,Rice,Summer,2015,177.2,53.2,0.3
+Punjab,Ludhiana,Rice,Summer,2016,258.8,142.3,0.55
+Punjab,Ludhiana,Rice,Summer,2017,350.8,129.8,0.37
+Punjab,Ludhiana,Rice,Summer,2018,539.2,339.7,0.63
+Punjab,Ludhiana,Rice,Summer,2019,163.1,66.9,0.41
+Punjab,Ludhiana,Rice,Summer,2020,562.4,314.9,0.56
+Punjab,Ludhiana,Rice,Summer,2021,506.0,177.1,0.35
+Punjab,Ludhiana,Rice,Summer,2022,514.6,267.6,0.52
+Punjab,Ludhiana,Rice,Summer,2023,555.3,183.2,0.33
+Punjab,Ludhiana,Rice,Summer,2024,334.5,130.5,0.39
+Karnataka,Mandya,Rice,Kharif,2005,357.8,1026.9,2.87
+Karnataka,Mandya,Rice,Kharif,2006,637.7,1855.7,2.91
+Karnataka,Mandya,Rice,Kharif,2007,316.7,183.7,0.58
+Karnataka,Mandya,Rice,Kharif,2008,853.7,2305.0,2.7
+Karnataka,Mandya,Rice,Kharif,2009,148.7,95.2,0.64
+Karnataka,Mandya,Rice,Kharif,2010,128.5,289.1,2.25
+Karnataka,Mandya,Rice,Kharif,2011,535.8,1285.9,2.4
+Karnataka,Mandya,Rice,Kharif,2012,360.3,237.8,0.66
+Karnataka,Mandya,Rice,Kharif,2013,377.4,962.4,2.55
+Karnataka,Mandya,Rice,Kharif,2014,657.5,1841.0,2.8
+Karnataka,Mandya,Rice,Kharif,2015,117.1,87.8,0.75
+Karnataka,Mandya,Rice,Kharif,2016,311.1,973.7,3.13
+Karnataka,Mandya,Rice,Kharif,2017,204.8,567.3,2.77
+Karnataka,Mandya,Rice,Kharif,2018,266.3,135.8,0.51
+Karnataka,Mandya,Rice,Kharif,2019,396.2,760.7,1.92
+Karnataka,Mandya,Rice,Kharif,2020,381.4,1064.1,2.79
+Karnataka,Mandya,Rice,Kharif,2021,265.0,893.1,3.37
+Karnataka,Mandya,Rice,Kharif,2022,524.4,1641.4,3.13
+Karnataka,Mandya,Rice,Kharif,2023,568.7,1438.8,2.53
+Karnataka,Mandya,Rice,Kharif,2024,579.8,382.7,0.66
+Karnataka,Mandya,Rice,Summer,2005,786.1,424.5,0.54
+Karnataka,Mandya,Rice,Summer,2006,541.9,758.7,1.4
+Karnataka,Mandya,Rice,Summer,2007,433.3,684.6,1.58
+Karnataka,Mandya,Rice,Summer,2008,465.7,833.6,1.79
+Karnataka,Mandya,Rice,Summer,2009,1047.1,544.5,0.52
+Karnataka,Mandya,Rice,Summer,2010,300.4,186.2,0.62
+Karnataka,Mandya,Rice,Summer,2011,634.0,1014.4,1.6
+Karnataka,Mandya,Rice,Summer,2012,136.9,383.3,2.8
+Karnataka,Mandya,Rice,Summer,2013,462.9,1310.0,2.83
+Karnataka,Mandya,Rice,Summer,2014,505.3,1328.9,2.63
+Karnataka,Mandya,Rice,Summer,2015,231.8,621.2,2.68
+Karnataka,Mandya,Rice,Summer,2016,287.8,590.0,2.05
+Karnataka,Mandya,Rice,Summer,2017,166.5,311.4,1.87
+Karnataka,Mandya,Rice,Summer,2018,431.7,1290.8,2.99
+Karnataka,Mandya,Rice,Summer,2019,304.4,940.6,3.09
+Karnataka,Mandya,Rice,Summer,2020,186.5,141.7,0.76
+Karnataka,Mandya,Rice,Summer,2021,740.3,525.6,0.71
+Karnataka,Mandya,Rice,Summer,2022,405.8,1152.5,2.84
+Karnataka,Mandya,Rice,Summer,2023,389.5,1223.0,3.14
+Karnataka,Mandya,Rice,Summer,2024,749.9,547.4,0.73
+Maharashtra,Nashik,Rice,Kharif,2007,515.9,696.5,1.35
+Maharashtra,Nashik,Rice,Summer,2013,269.6,269.6,1.0
+Bihar,Patna,Rice,Kharif,2005,326.1,759.8,2.33
+Bihar,Patna,Rice,Kharif,2006,228.6,178.3,0.78
+Bihar,Patna,Rice,Kharif,2007,157.9,150.0,0.95
+Bihar,Patna,Rice,Kharif,2008,343.8,735.7,2.14
+Bihar,Patna,Rice,Kharif,2009,263.5,795.8,3.02
+Bihar,Patna,Rice,Kharif,2010,298.6,671.9,2.25
+Bihar,Patna,Rice,Kharif,2011,474.0,1317.7,2.78
+Bihar,Patna,Rice,Kharif,2012,687.6,1182.7,1.72
+Bihar,Patna,Rice,Kharif,2013,755.2,672.1,0.89
+Bihar,Patna,Rice,Kharif,2014,412.0,638.6,1.55
+Bihar,Patna,Rice,Kharif,2015,672.1,1471.9,2.19
+Bihar,Patna,Rice,Kharif,2016,218.2,759.3,3.48
+Bihar,Patna,Rice,Kharif,2017,672.4,1022.0,1.52
+Bihar,Patna,Rice,Kharif,2018,96.5,148.6,1.54
+Bihar,Patna,Rice,Kharif,2019,177.0,555.8,3.14
+Bihar,Patna,Rice,Kharif,2020,678.2,488.3,0.72
+Bihar,Patna,Rice,Kharif,2021,479.6,1160.6,2.42
+Bihar,Patna,Rice,Kharif,2022,524.5,456.3,0.87
+Bihar,Patna,Rice,Kharif,2023,105.3,141.1,1.34
+Bihar,Patna,Rice,Kharif,2024,260.6,375.3,1.44
+Bihar,Patna,Rice,Summer,2005,375.3,127.6,0.34
+Bihar,Patna,Rice,Summer,2006,217.2,97.7,0.45
+Bihar,Patna,Rice,Summer,2007,590.5,224.4,0.38
+Bihar,Patna,Rice,Summer,2008,609.1,91.4,0.15
+Bihar,Patna,Rice,Summer,2009,259.5,38.9,0.15
+Bihar,Patna,Rice,Summer,2010,114.5,50.4,0.44
+Bihar,Patna,Rice,Summer,2011,477.9,248.5,0.52
+Bihar,Patna,Rice,Summer,2012,331.3,202.1,0.61
+Bihar,Patna,Rice,Summer,2013,385.2,104.0,0.27
+Bihar,Patna,Rice,Summer,2014,140.4,25.3,0.18
+Bihar,Patna,Rice,Summer,2015,206.2,35.1,0.17
+Bihar,Patna,Rice,Summer,2016,575.2,316.4,0.55
+Bihar,Patna,Rice,Summer,2017,365.2,168.0,0.46
+Bihar,Patna,Rice,Summer,2018,156.5,82.9,0.53
+Bihar,Patna,Rice,Summer,2019,210.9,111.8,0.53
+Bihar,Patna,Rice,Summer,2020,176.3,102.3,0.58
+Bihar,Patna,Rice,Summer,2021,752.6,316.1,0.42
+Bihar,Patna,Rice,Summer,2022,292.3,46.8,0.16
+Bihar,Patna,Rice,Summer,2023,227.2,97.7,0.43
+Bihar,Patna,Rice,Summer,2024,230.3,62.2,0.27
+Gujarat,Rajkot,Rice,Kharif,2006,280.5,614.3,2.19
+Gujarat,Rajkot,Rice,Kharif,2010,404.4,845.2,2.09
+Gujarat,Rajkot,Rice,Kharif,2011,309.4,148.5,0.48
+Gujarat,Rajkot,Rice,Summer,2005,517.7,238.1,0.46
+Gujarat,Rajkot,Rice,Summer,2021,491.3,117.9,0.24
+Tamil Nadu,Thanjavur,Rice,Kharif,2005,179.8,510.6,2.84
+Tamil Nadu,Thanjavur,Rice,Kharif,2006,621.0,347.8,0.56
+Tamil Nadu,Thanjavur,Rice,Kharif,2007,676.4,1677.5,2.48
+Tamil Nadu,Thanjavur,Rice,Kharif,2008,215.1,484.0,2.25
+Tamil Nadu,Thanjavur,Rice,Kharif,2009,138.2,222.5,1.61
+Tamil Nadu,Thanjavur,Rice,Kharif,2010,445.7,1056.3,2.37
+Tamil Nadu,Thanjavur,Rice,Kharif,2011,458.7,678.9,1.48
+Tamil Nadu,Thanjavur,Rice,Kharif,2012,180.8,117.5,0.65
+Tamil Nadu,Thanjavur,Rice,Kharif,2013,285.3,139.8,0.49
+Tamil Nadu,Thanjavur,Rice,Kharif,2014,546.7,273.4,0.5
+Tamil Nadu,Thanjavur,Rice,Kharif,2015,505.5,626.8,1.24
+Tamil Nadu,Thanjavur,Rice,Kharif,2016,410.5,1108.4,2.7
+Tamil Nadu,Thanjavur,Rice,Kharif,2017,302.1,187.3,0.62
+Tamil Nadu,Thanjavur,Rice,Kharif,2018,143.3,70.2,0.49
+Tamil Nadu,Thanjavur,Rice,Kharif,2019,311.3,1008.6,3.24
+Tamil Nadu,Thanjavur,Rice,Kharif,2020,482.2,1456.2,3.02
+Tamil Nadu,Thanjavur,Rice,Kharif,2021,278.6,816.3,2.93
+Tamil Nadu,Thanjavur,Rice,Kharif,2022,358.7,330.0,0.92
+Tamil Nadu,Thanjavur,Rice,Kharif,2023,262.8,827.8,3.15
+Tamil Nadu,Thanjavur,Rice,Kharif,2024,413.0,1408.3,3.41
+Tamil Nadu,Thanjavur,Rice,Summer,2005,278.6,245.2,0.88
+Tamil Nadu,Thanjavur,Rice,Summer,2006,406.0,69.0,0.17
+Tamil Nadu,Thanjavur,Rice,Summer,2007,152.4,41.1,0.27
+Tamil Nadu,Thanjavur,Rice,Summer,2008,294.0,176.4,0.6
+Tamil Nadu,Thanjavur,Rice,Summer,2009,761.5,487.4,0.64
+Tamil Nadu,Thanjavur,Rice,Summer,2010,801.1,320.4,0.4
+Tamil Nadu,Thanjavur,Rice,Summer,2011,102.6,86.2,0.84
+Tamil Nadu,Thanjavur,Rice,Summer,2012,162.5,138.1,0.85
+Tamil Nadu,Thanjavur,Rice,Summer,2013,257.5,177.7,0.69
+Tamil Nadu,Thanjavur,Rice,Summer,2014,394.9,79.0,0.2
+Tamil Nadu,Thanjavur,Rice,Summer,2015,336.4,67.3,0.2
+Tamil Nadu,Thanjavur,Rice,Summer,2016,101.2,89.1,0.88
+Tamil Nadu,Thanjavur,Rice,Summer,2017,503.0,342.0,0.68
+Tamil Nadu,Thanjavur,Rice,Summer,2018,20.5,16.8,0.82
+Tamil Nadu,Thanjavur,Rice,Summer,2019,297.3,145.7,0.49
+Tamil Nadu,Thanjavur,Rice,Summer,2020,1406.2,689.0,0.49
+Tamil Nadu,Thanjavur,Rice,Summer,2021,470.3,131.7,0.28
+Tamil Nadu,Thanjavur,Rice,Summer,2022,381.7,202.3,0.53
+Tamil Nadu,Thanjavur,Rice,Summer,2023,677.8,711.7,1.05
+Tamil Nadu,Thanjavur,Rice,Summer,2024,371.1,107.6,0.29
+Uttar Pradesh,Varanasi,Rice,Kharif,2005,147.7,465.3,3.15
+Uttar Pradesh,Varanasi,Rice,Kharif,2006,523.5,989.4,1.89
+Uttar Pradesh,Varanasi,Rice,Kharif,2007,139.1,144.7,1.04
+Uttar Pradesh,Varanasi,Rice,Kharif,2008,110.8,404.4,3.65
+Uttar Pradesh,Varanasi,Rice,Kharif,2009,186.0,329.2,1.77
+Uttar Pradesh,Varanasi,Rice,Kharif,2010,311.2,541.5,1.74
+Uttar Pradesh,Varanasi,Rice,Kharif,2011,172.2,323.7,1.88
+Uttar Pradesh,Varanasi,Rice,Kharif,2012,346.9,433.6,1.25
+Uttar Pradesh,Varanasi,Rice,Kharif,2013,264.3,671.3,2.54
+Uttar Pradesh,Varanasi,Rice,Kharif,2014,444.6,893.6,2.01
+Uttar Pradesh,Varanasi,Rice,Kharif,2015,386.2,502.1,1.3
+Uttar Pradesh,Varanasi,Rice,Kharif,2016,647.9,1198.6,1.85
+Uttar Pradesh,Varanasi,Rice,Kharif,2017,417.2,763.5,1.83
+Uttar Pradesh,Varanasi,Rice,Kharif,2018,96.6,209.6,2.17
+Uttar Pradesh,Varanasi,Rice,Kharif,2019,347.6,219.0,0.63
+Uttar Pradesh,Varanasi,Rice,Kharif,2020,204.4,707.2,3.46
+Uttar Pradesh,Varanasi,Rice,Kharif,2021,193.1,393.9,2.04
+Uttar Pradesh,Varanasi,Rice,Kharif,2022,211.6,188.3,0.89
+Uttar Pradesh,Varanasi,Rice,Kharif,2023,379.3,625.8,1.65
+Uttar Pradesh,Varanasi,Rice,Kharif,2024,182.8,246.8,1.35
+Uttar Pradesh,Varanasi,Rice,Summer,2005,952.7,333.4,0.35
+Uttar Pradesh,Varanasi,Rice,Summer,2006,129.4,41.4,0.32
+Uttar Pradesh,Varanasi,Rice,Summer,2007,352.1,98.6,0.28
+Uttar Pradesh,Varanasi,Rice,Summer,2008,509.3,193.5,0.38
+Uttar Pradesh,Varanasi,Rice,Summer,2009,221.5,79.7,0.36
+Uttar Pradesh,Varanasi,Rice,Summer,2010,220.1,140.9,0.64
+Uttar Pradesh,Varanasi,Rice,Summer,2011,927.8,129.9,0.14
+Uttar Pradesh,Varanasi,Rice,Summer,2012,201.3,68.4,0.34
+Uttar Pradesh,Varanasi,Rice,Summer,2013,546.0,245.7,0.45
+Uttar Pradesh,Varanasi,Rice,Summer,2014,346.1,131.5,0.38
+Uttar Pradesh,Varanasi,Rice,Summer,2015,200.6,86.3,0.43
+Uttar Pradesh,Varanasi,Rice,Summer,2016,404.7,165.9,0.41
+Uttar Pradesh,Varanasi,Rice,Summer,2017,211.9,67.8,0.32
+Uttar Pradesh,Varanasi,Rice,Summer,2018,460.5,82.9,0.18
+Uttar Pradesh,Varanasi,Rice,Summer,2019,710.1,383.5,0.54
+Uttar Pradesh,Varanasi,Rice,Summer,2020,344.2,137.7,0.4
+Uttar Pradesh,Varanasi,Rice,Summer,2021,918.1,146.9,0.16
+Uttar Pradesh,Varanasi,Rice,Summer,2022,165.8,64.7,0.39
+Uttar Pradesh,Varanasi,Rice,Summer,2023,529.5,185.3,0.35
+Uttar Pradesh,Varanasi,Rice,Summer,2024,234.9,131.5,0.56
+West Bengal,Burdwan,Soybean,Kharif,2011,383.4,65.2,0.17
+West Bengal,Burdwan,Soybean,Kharif,2022,577.1,63.5,0.11
+Andhra Pradesh,Guntur,Soybean,Kharif,2005,383.2,176.3,0.46
+Andhra Pradesh,Guntur,Soybean,Kharif,2006,544.4,375.6,0.69
+Andhra Pradesh,Guntur,Soybean,Kharif,2007,292.1,146.1,0.5
+Andhra Pradesh,Guntur,Soybean,Kharif,2008,380.2,117.9,0.31
+Andhra Pradesh,Guntur,Soybean,Kharif,2009,1315.1,460.3,0.35
+Andhra Pradesh,Guntur,Soybean,Kharif,2010,631.2,460.8,0.73
+Andhra Pradesh,Guntur,Soybean,Kharif,2011,116.6,30.3,0.26
+Andhra Pradesh,Guntur,Soybean,Kharif,2012,656.8,308.7,0.47
+Andhra Pradesh,Guntur,Soybean,Kharif,2013,308.8,98.8,0.32
+Andhra Pradesh,Guntur,Soybean,Kharif,2014,754.6,249.0,0.33
+Andhra Pradesh,Guntur,Soybean,Kharif,2015,235.5,113.0,0.48
+Andhra Pradesh,Guntur,Soybean,Kharif,2016,252.3,50.5,0.2
+Andhra Pradesh,Guntur,Soybean,Kharif,2017,870.7,417.9,0.48
+Andhra Pradesh,Guntur,Soybean,Kharif,2018,298.1,59.6,0.2
+Andhra Pradesh,Guntur,Soybean,Kharif,2019,294.0,82.3,0.28
+Andhra Pradesh,Guntur,Soybean,Kharif,2020,576.2,69.1,0.12
+Andhra Pradesh,Guntur,Soybean,Kharif,2021,304.2,158.2,0.52
+Andhra Pradesh,Guntur,Soybean,Kharif,2022,406.7,52.9,0.13
+Andhra Pradesh,Guntur,Soybean,Kharif,2023,612.4,122.5,0.2
+Andhra Pradesh,Guntur,Soybean,Kharif,2024,523.9,356.3,0.68
+Madhya Pradesh,Indore,Soybean,Kharif,2005,297.0,95.0,0.32
+Madhya Pradesh,Indore,Soybean,Kharif,2006,249.2,72.3,0.29
+Madhya Pradesh,Indore,Soybean,Kharif,2007,236.6,73.3,0.31
+Madhya Pradesh,Indore,Soybean,Kharif,2008,411.8,144.1,0.35
+Madhya Pradesh,Indore,Soybean,Kharif,2009,315.6,85.2,0.27
+Madhya Pradesh,Indore,Soybean,Kharif,2010,305.1,451.5,1.48
+Madhya Pradesh,Indore,Soybean,Kharif,2011,317.1,371.0,1.17
+Madhya Pradesh,Indore,Soybean,Kharif,2012,211.6,224.3,1.06
+Madhya Pradesh,Indore,Soybean,Kharif,2013,726.0,225.1,0.31
+Madhya Pradesh,Indore,Soybean,Kharif,2014,516.5,263.4,0.51
+Madhya Pradesh,Indore,Soybean,Kharif,2015,148.9,40.2,0.27
+Madhya Pradesh,Indore,Soybean,Kharif,2016,767.2,329.9,0.43
+Madhya Pradesh,Indore,Soybean,Kharif,2017,225.3,315.4,1.4
+Madhya Pradesh,Indore,Soybean,Kharif,2018,175.0,63.0,0.36
+Madhya Pradesh,Indore,Soybean,Kharif,2019,249.8,94.9,0.38
+Madhya Pradesh,Indore,Soybean,Kharif,2020,486.9,185.0,0.38
+Madhya Pradesh,Indore,Soybean,Kharif,2021,470.4,766.8,1.63
+Madhya Pradesh,Indore,Soybean,Kharif,2022,260.1,57.2,0.22
+Madhya Pradesh,Indore,Soybean,Kharif,2023,235.8,80.2,0.34
+Madhya Pradesh,Indore,Soybean,Kharif,2024,343.8,113.5,0.33
+Haryana,Karnal,Soybean,Kharif,2019,213.6,21.4,0.1
+Haryana,Karnal,Soybean,Kharif,2021,365.7,76.8,0.21
+Rajasthan,Kota,Soybean,Kharif,2005,480.6,158.6,0.33
+Rajasthan,Kota,Soybean,Kharif,2006,276.3,52.5,0.19
+Rajasthan,Kota,Soybean,Kharif,2007,222.8,53.5,0.24
+Rajasthan,Kota,Soybean,Kharif,2008,382.2,126.1,0.33
+Rajasthan,Kota,Soybean,Kharif,2009,962.4,442.7,0.46
+Rajasthan,Kota,Soybean,Kharif,2010,384.6,38.5,0.1
+Rajasthan,Kota,Soybean,Kharif,2011,543.4,206.5,0.38
+Rajasthan,Kota,Soybean,Kharif,2012,343.8,137.5,0.4
+Rajasthan,Kota,Soybean,Kharif,2013,187.0,29.9,0.16
+Rajasthan,Kota,Soybean,Kharif,2014,411.4,53.5,0.13
+Rajasthan,Kota,Soybean,Kharif,2015,521.7,140.9,0.27
+Rajasthan,Kota,Soybean,Kharif,2016,403.8,222.1,0.55
+Rajasthan,Kota,Soybean,Kharif,2017,110.0,34.1,0.31
+Rajasthan,Kota,Soybean,Kharif,2018,190.3,41.9,0.22
+Rajasthan,Kota,Soybean,Kharif,2019,80.6,16.9,0.21
+Rajasthan,Kota,Soybean,Kharif,2020,90.9,24.5,0.27
+Rajasthan,Kota,Soybean,Kharif,2021,466.5,167.9,0.36
+Rajasthan,Kota,Soybean,Kharif,2022,389.1,136.2,0.35
+Rajasthan,Kota,Soybean,Kharif,2023,393.4,78.7,0.2
+Rajasthan,Kota,Soybean,Kharif,2024,619.3,235.3,0.38
+Punjab,Ludhiana,Soybean,Kharif,2020,269.4,45.8,0.17
+Karnataka,Mandya,Soybean,Kharif,2019,335.6,258.4,0.77
+Maharashtra,Nashik,Soybean,Kharif,2005,720.3,1310.9,1.82
+Maharashtra,Nashik,Soybean,Kharif,2006,864.6,579.3,0.67
+Maharashtra,Nashik,Soybean,Kharif,2007,218.3,63.3,0.29
+Maharashtra,Nashik,Soybean,Kharif,2008,487.5,180.4,0.37
+Maharashtra,Nashik,Soybean,Kharif,2009,147.8,171.4,1.16
+Maharashtra,Nashik,Soybean,Kharif,2010,594.2,172.3,0.29
+Maharashtra,Nashik,Soybean,Kharif,2011,346.4,464.2,1.34
+Maharashtra,Nashik,Soybean,Kharif,2012,220.3,81.5,0.37
+Maharashtra,Nashik,Soybean,Kharif,2013,184.6,330.4,1.79
+Maharashtra,Nashik,Soybean,Kharif,2014,209.9,400.9,1.91
+Maharashtra,Nashik,Soybean,Kharif,2015,114.7,43.6,0.38
+Maharashtra,Nashik,Soybean,Kharif,2016,388.7,342.1,0.88
+Maharashtra,Nashik,Soybean,Kharif,2017,689.5,289.6,0.42
+Maharashtra,Nashik,Soybean,Kharif,2018,301.0,117.4,0.39
+Maharashtra,Nashik,Soybean,Kharif,2019,257.3,84.9,0.33
+Maharashtra,Nashik,Soybean,Kharif,2020,235.1,84.6,0.36
+Maharashtra,Nashik,Soybean,Kharif,2021,101.5,178.6,1.76
+Maharashtra,Nashik,Soybean,Kharif,2022,546.9,749.3,1.37
+Maharashtra,Nashik,Soybean,Kharif,2023,281.5,608.0,2.16
+Maharashtra,Nashik,Soybean,Kharif,2024,770.5,1433.1,1.86
+Bihar,Patna,Soybean,Kharif,2006,403.4,72.6,0.18
+Bihar,Patna,Soybean,Kharif,2010,367.1,161.5,0.44
+Bihar,Patna,Soybean,Kharif,2018,263.9,131.9,0.5
+Gujarat,Rajkot,Soybean,Kharif,2019,127.1,25.4,0.2
+Tamil Nadu,Thanjavur,Soybean,Kharif,2008,333.6,36.7,0.11
+Uttar Pradesh,Varanasi,Soybean,Kharif,2013,556.5,144.7,0.26
+West Bengal,Burdwan,Sugarcane,Kharif,2005,465.3,16597.3,35.67
+West Bengal,Burdwan,Sugarcane,Kharif,2006,330.3,7956.9,24.09
+West Bengal,Burdwan,Sugarcane,Kharif,2007,599.0,11087.5,18.51
+West Bengal,Burdwan,Sugarcane,Kharif,2008,731.5,20277.2,27.72
+West Bengal,Burdwan,Sugarcane,Kharif,2009,240.5,9211.1,38.3
+West Bengal,Burdwan,Sugarcane,Kharif,2010,150.2,7703.8,51.29
+West Bengal,Burdwan,Sugarcane,Kharif,2011,401.3,10791.0,26.89
+West Bengal,Burdwan,Sugarcane,Kharif,2012,759.3,23621.8,31.11
+West Bengal,Burdwan,Sugarcane,Kharif,2013,174.0,5033.8,28.93
+West Bengal,Burdwan,Sugarcane,Kharif,2014,208.8,8959.6,42.91
+West Bengal,Burdwan,Sugarcane,Kharif,2015,264.7,12366.8,46.72
+West Bengal,Burdwan,Sugarcane,Kharif,2016,1174.4,53540.9,45.59
+West Bengal,Burdwan,Sugarcane,Kharif,2017,95.2,5190.3,54.52
+West Bengal,Burdwan,Sugarcane,Kharif,2018,108.8,3253.1,29.9
+West Bengal,Burdwan,Sugarcane,Kharif,2019,438.0,27002.7,61.65
+West Bengal,Burdwan,Sugarcane,Kharif,2020,370.5,8614.1,23.25
+West Bengal,Burdwan,Sugarcane,Kharif,2021,521.6,15580.2,29.87
+West Bengal,Burdwan,Sugarcane,Kharif,2022,687.9,17651.5,25.66
+West Bengal,Burdwan,Sugarcane,Kharif,2023,307.4,15062.6,49.0
+West Bengal,Burdwan,Sugarcane,Kharif,2024,225.0,3188.2,14.17
+West Bengal,Burdwan,Sugarcane,Rabi,2005,136.6,948.0,6.94
+West Bengal,Burdwan,Sugarcane,Rabi,2006,833.4,4850.4,5.82
+West Bengal,Burdwan,Sugarcane,Rabi,2007,87.7,658.6,7.51
+West Bengal,Burdwan,Sugarcane,Rabi,2008,395.5,1206.3,3.05
+West Bengal,Burdwan,Sugarcane,Rabi,2009,233.3,629.9,2.7
+West Bengal,Burdwan,Sugarcane,Rabi,2010,741.7,5051.0,6.81
+West Bengal,Burdwan,Sugarcane,Rabi,2011,190.6,1460.0,7.66
+West Bengal,Burdwan,Sugarcane,Rabi,2012,74.7,485.6,6.5
+West Bengal,Burdwan,Sugarcane,Rabi,2013,164.1,1242.2,7.57
+West Bengal,Burdwan,Sugarcane,Rabi,2014,257.1,1907.7,7.42
+West Bengal,Burdwan,Sugarcane,Rabi,2015,412.5,2569.9,6.23
+West Bengal,Burdwan,Sugarcane,Rabi,2016,170.2,1239.1,7.28
+West Bengal,Burdwan,Sugarcane,Rabi,2017,565.4,1520.9,2.69
+West Bengal,Burdwan,Sugarcane,Rabi,2018,315.2,2647.7,8.4
+West Bengal,Burdwan,Sugarcane,Rabi,2019,68.3,453.5,6.64
+West Bengal,Burdwan,Sugarcane,Rabi,2020,449.3,3032.8,6.75
+West Bengal,Burdwan,Sugarcane,Rabi,2021,668.7,4132.6,6.18
+West Bengal,Burdwan,Sugarcane,Rabi,2022,184.6,1724.2,9.34
+West Bengal,Burdwan,Sugarcane,Rabi,2023,387.9,2579.5,6.65
+West Bengal,Burdwan,Sugarcane,Rabi,2024,280.5,2532.9,9.03
+Andhra Pradesh,Guntur,Sugarcane,Kharif,2007,378.9,25818.2,68.14
+Andhra Pradesh,Guntur,Sugarcane,Kharif,2014,188.6,12960.6,68.72
+Andhra Pradesh,Guntur,Sugarcane,Kharif,2023,522.9,31734.8,60.69
+Andhra Pradesh,Guntur,Sugarcane,Rabi,2011,194.3,1045.3,5.38
+Andhra Pradesh,Guntur,Sugarcane,Rabi,2013,368.1,2201.2,5.98
+Andhra Pradesh,Guntur,Sugarcane,Rabi,2018,270.9,7978.0,29.45
+Andhra Pradesh,Guntur,Sugarcane,Rabi,2024,207.7,6440.8,31.01
+Madhya Pradesh,Indore,Sugarcane,Kharif,2022,625.3,19571.9,31.3
+Madhya Pradesh,Indore,Sugarcane,Rabi,2007,716.2,5944.5,8.3
+Haryana,Karnal,Sugarcane,Kharif,2005,511.7,28358.4,55.42
+Haryana,Karnal,Sugarcane,Kharif,2006,493.1,30236.9,61.32
+Haryana,Karnal,Sugarcane,Kharif,2007,521.4,30616.6,58.72
+Haryana,Karnal,Sugarcane,Kharif,2008,260.9,19040.5,72.98
+Haryana,Karnal,Sugarcane,Kharif,2009,454.3,24604.9,54.16
+Haryana,Karnal,Sugarcane,Kharif,2010,307.4,17829.2,58.0
+Haryana,Karnal,Sugarcane,Kharif,2011,883.0,52547.3,59.51
+Haryana,Karnal,Sugarcane,Kharif,2012,226.7,13139.5,57.96
+Haryana,Karnal,Sugarcane,Kharif,2013,930.0,71210.1,76.57
+Haryana,Karnal,Sugarcane,Kharif,2014,863.1,52994.3,61.4
+Haryana,Karnal,Sugarcane,Kharif,2015,402.5,26496.6,65.83
+Haryana,Karnal,Sugarcane,Kharif,2016,706.0,49970.7,70.78
+Haryana,Karnal,Sugarcane,Kharif,2017,277.8,17154.2,61.75
+Haryana,Karnal,Sugarcane,Kharif,2018,482.6,31740.6,65.77
+Haryana,Karnal,Sugarcane,Kharif,2019,184.9,9962.4,53.88
+Haryana,Karnal,Sugarcane,Kharif,2020,341.2,19857.8,58.2
+Haryana,Karnal,Sugarcane,Kharif,2021,211.7,14666.6,69.28
+Haryana,Karnal,Sugarcane,Kharif,2022,202.6,7798.1,38.49
+Haryana,Karnal,Sugarcane,Kharif,2023,276.8,19639.0,70.95
+Haryana,Karnal,Sugarcane,Kharif,2024,166.6,13576.2,81.49
+Haryana,Karnal,Sugarcane,Rabi,2005,471.9,4350.9,9.22
+Haryana,Karnal,Sugarcane,Rabi,2006,363.6,2788.8,7.67
+Haryana,Karnal,Sugarcane,Rabi,2007,388.8,3732.5,9.6
+Haryana,Karnal,Sugarcane,Rabi,2008,247.3,2495.3,10.09
+Haryana,Karnal,Sugarcane,Rabi,2009,651.3,6180.8,9.49
+Haryana,Karnal,Sugarcane,Rabi,2010,264.4,2313.5,8.75
+Haryana,Karnal,Sugarcane,Rabi,2011,382.4,3686.3,9.64
+Haryana,Karnal,Sugarcane,Rabi,2012,548.0,5436.2,9.92
+Haryana,Karnal,Sugarcane,Rabi,2013,424.7,3571.7,8.41
+Haryana,Karnal,Sugarcane,Rabi,2014,352.3,2857.2,8.11
+Haryana,Karnal,Sugarcane,Rabi,2015,144.2,859.4,5.96
+Haryana,Karnal,Sugarcane,Rabi,2016,182.2,1382.9,7.59
+Haryana,Karnal,Sugarcane,Rabi,2017,523.8,5018.0,9.58
+Haryana,Karnal,Sugarcane,Rabi,2018,581.5,5704.5,9.81
+Haryana,Karnal,Sugarcane,Rabi,2019,279.2,2459.8,8.81
+Haryana,Karnal,Sugarcane,Rabi,2020,338.5,2904.3,8.58
+Haryana,Karnal,Sugarcane,Rabi,2021,122.3,1105.6,9.04
+Haryana,Karnal,Sugarcane,Rabi,2022,559.2,6184.8,11.06
+Haryana,Karnal,Sugarcane,Rabi,2023,426.3,5026.1,11.79
+Haryana,Karnal,Sugarcane,Rabi,2024,654.1,6593.3,10.08
+Rajasthan,Kota,Sugarcane,Kharif,2005,587.2,32049.4,54.58
+Rajasthan,Kota,Sugarcane,Kharif,2006,174.5,8899.5,51.0
+Rajasthan,Kota,Sugarcane,Kharif,2007,621.9,30261.7,48.66
+Rajasthan,Kota,Sugarcane,Kharif,2008,512.6,25809.4,50.35
+Rajasthan,Kota,Sugarcane,Kharif,2009,329.4,19918.8,60.47
+Rajasthan,Kota,Sugarcane,Kharif,2010,43.6,1888.8,43.32
+Rajasthan,Kota,Sugarcane,Kharif,2011,469.4,27286.2,58.13
+Rajasthan,Kota,Sugarcane,Kharif,2012,94.8,5483.2,57.84
+Rajasthan,Kota,Sugarcane,Kharif,2013,306.8,15404.4,50.21
+Rajasthan,Kota,Sugarcane,Kharif,2014,545.6,29811.6,54.64
+Rajasthan,Kota,Sugarcane,Kharif,2015,185.5,9096.9,49.04
+Rajasthan,Kota,Sugarcane,Kharif,2016,179.1,10907.2,60.9
+Rajasthan,Kota,Sugarcane,Kharif,2017,350.5,25891.4,73.87
+Rajasthan,Kota,Sugarcane,Kharif,2018,99.7,5491.5,55.08
+Rajasthan,Kota,Sugarcane,Kharif,2019,737.8,37509.8,50.84
+Rajasthan,Kota,Sugarcane,Kharif,2020,549.1,24731.5,45.04
+Rajasthan,Kota,Sugarcane,Kharif,2021,382.3,22666.6,59.29
+Rajasthan,Kota,Sugarcane,Kharif,2022,389.9,18446.2,47.31
+Rajasthan,Kota,Sugarcane,Kharif,2023,584.4,29921.3,51.2
+Rajasthan,Kota,Sugarcane,Kharif,2024,640.4,42823.5,66.87
+Rajasthan,Kota,Sugarcane,Rabi,2005,415.3,3667.1,8.83
+Rajasthan,Kota,Sugarcane,Rabi,2006,251.4,2413.4,9.6
+Rajasthan,Kota,Sugarcane,Rabi,2007,352.0,2319.7,6.59
+Rajasthan,Kota,Sugarcane,Rabi,2008,448.2,2976.0,6.64
+Rajasthan,Kota,Sugarcane,Rabi,2009,224.6,1105.0,4.92
+Rajasthan,Kota,Sugarcane,Rabi,2010,83.9,699.7,8.34
+Rajasthan,Kota,Sugarcane,Rabi,2011,563.6,2874.4,5.1
+Rajasthan,Kota,Sugarcane,Rabi,2012,419.5,2512.8,5.99
+Rajasthan,Kota,Sugarcane,Rabi,2013,98.2,1194.1,12.16
+Rajasthan,Kota,Sugarcane,Rabi,2014,269.2,1574.8,5.85
+Rajasthan,Kota,Sugarcane,Rabi,2015,444.8,2593.2,5.83
+Rajasthan,Kota,Sugarcane,Rabi,2016,194.5,1342.1,6.9
+Rajasthan,Kota,Sugarcane,Rabi,2017,111.2,983.0,8.84
+Rajasthan,Kota,Sugarcane,Rabi,2018,517.1,3335.3,6.45
+Rajasthan,Kota,Sugarcane,Rabi,2019,129.1,1106.4,8.57
+Rajasthan,Kota,Sugarcane,Rabi,2020,630.7,5897.0,9.35
+Rajasthan,Kota,Sugarcane,Rabi,2021,430.7,2433.5,5.65
+Rajasthan,Kota,Sugarcane,Rabi,2022,295.6,1788.4,6.05
+Rajasthan,Kota,Sugarcane,Rabi,2023,549.5,3742.1,6.81
+Rajasthan,Kota,Sugarcane,Rabi,2024,220.2,1748.4,7.94
+Punjab,Ludhiana,Sugarcane,Kharif,2005,418.6,23395.6,55.89
+Punjab,Ludhiana,Sugarcane,Kharif,2006,776.7,41965.1,54.03
+Punjab,Ludhiana,Sugarcane,Kharif,2007,173.5,9214.6,53.11
+Punjab,Ludhiana,Sugarcane,Kharif,2008,974.4,73995.9,75.94
+Punjab,Ludhiana,Sugarcane,Kharif,2009,442.5,20155.9,45.55
+Punjab,Ludhiana,Sugarcane,Kharif,2010,280.5,18866.4,67.26
+Punjab,Ludhiana,Sugarcane,Kharif,2011,138.1,7428.4,53.79
+Punjab,Ludhiana,Sugarcane,Kharif,2012,135.4,6271.7,46.32
+Punjab,Ludhiana,Sugarcane,Kharif,2013,736.4,44758.4,60.78
+Punjab,Ludhiana,Sugarcane,Kharif,2014,482.1,23352.9,48.44
+Punjab,Ludhiana,Sugarcane,Kharif,2015,662.5,31475.4,47.51
+Punjab,Ludhiana,Sugarcane,Kharif,2016,729.9,59501.4,81.52
+Punjab,Ludhiana,Sugarcane,Kharif,2017,702.9,47733.9,67.91
+Punjab,Ludhiana,Sugarcane,Kharif,2018,272.6,17397.3,63.82
+Punjab,Ludhiana,Sugarcane,Kharif,2019,413.1,22906.4,55.45
+Punjab,Ludhiana,Sugarcane,Kharif,2020,205.0,13698.1,66.82
+Punjab,Ludhiana,Sugarcane,Kharif,2021,395.8,26241.5,66.3
+Punjab,Ludhiana,Sugarcane,Kharif,2022,311.1,20342.8,65.39
+Punjab,Ludhiana,Sugarcane,Kharif,2023,611.9,34266.4,56.0
+Punjab,Ludhiana,Sugarcane,Kharif,2024,373.3,28075.9,75.21
+Punjab,Ludhiana,Sugarcane,Rabi,2005,411.2,4317.6,10.5
+Punjab,Ludhiana,Sugarcane,Rabi,2006,304.8,2843.8,9.33
+Punjab,Ludhiana,Sugarcane,Rabi,2007,469.2,3866.2,8.24
+Punjab,Ludhiana,Sugarcane,Rabi,2008,529.6,5179.5,9.78
+Punjab,Ludhiana,Sugarcane,Rabi,2009,538.3,4575.5,8.5
+Punjab,Ludhiana,Sugarcane,Rabi,2010,208.3,2178.8,10.46
+Punjab,Ludhiana,Sugarcane,Rabi,2011,83.8,976.3,11.65
+Punjab,Ludhiana,Sugarcane,Rabi,2012,284.1,3042.7,10.71
+Punjab,Ludhiana,Sugarcane,Rabi,2013,392.2,3608.2,9.2
+Punjab,Ludhiana,Sugarcane,Rabi,2014,341.7,4360.1,12.76
+Punjab,Ludhiana,Sugarcane,Rabi,2015,299.2,2707.8,9.05
+Punjab,Ludhiana,Sugarcane,Rabi,2016,290.3,3187.5,10.98
+Punjab,Ludhiana,Sugarcane,Rabi,2017,950.5,9276.9,9.76
+Punjab,Ludhiana,Sugarcane,Rabi,2018,392.5,5620.6,14.32
+Punjab,Ludhiana,Sugarcane,Rabi,2019,230.3,3613.4,15.69
+Punjab,Ludhiana,Sugarcane,Rabi,2020,140.6,2263.7,16.1
+Punjab,Ludhiana,Sugarcane,Rabi,2021,493.3,5386.8,10.92
+Punjab,Ludhiana,Sugarcane,Rabi,2022,220.9,2655.2,12.02
+Punjab,Ludhiana,Sugarcane,Rabi,2023,275.4,3475.5,12.62
+Punjab,Ludhiana,Sugarcane,Rabi,2024,978.0,8058.7,8.24
+Karnataka,Mandya,Sugarcane,Kharif,2005,175.3,8854.4,50.51
+Karnataka,Mandya,Sugarcane,Kharif,2006,245.2,10094.9,41.17
+Karnataka,Mandya,Sugarcane,Kharif,2007,639.7,29931.6,46.79
+Karnataka,Mandya,Sugarcane,Kharif,2008,91.4,746.7,8.17
+Karnataka,Mandya,Sugarcane,Kharif,2009,196.7,1723.1,8.76
+Karnataka,Mandya,Sugarcane,Kharif,2010,972.2,34921.4,35.92
+Karnataka,Mandya,Sugarcane,Kharif,2011,442.2,21880.1,49.48
+Karnataka,Mandya,Sugarcane,Kharif,2012,369.2,17322.9,46.92
+Karnataka,Mandya,Sugarcane,Kharif,2013,103.1,4989.0,48.39
+Karnataka,Mandya,Sugarcane,Kharif,2014,119.2,1281.4,10.75
+Karnataka,Mandya,Sugarcane,Kharif,2015,786.8,33800.9,42.96
+Karnataka,Mandya,Sugarcane,Kharif,2016,418.1,23054.0,55.14
+Karnataka,Mandya,Sugarcane,Kharif,2017,114.6,1108.2,9.67
+Karnataka,Mandya,Sugarcane,Kharif,2018,517.3,3243.5,6.27
+Karnataka,Mandya,Sugarcane,Kharif,2019,260.1,9428.6,36.25
+Karnataka,Mandya,Sugarcane,Kharif,2020,434.9,3822.8,8.79
+Karnataka,Mandya,Sugarcane,Kharif,2021,458.0,4218.2,9.21
+Karnataka,Mandya,Sugarcane,Kharif,2022,556.3,8617.1,15.49
+Karnataka,Mandya,Sugarcane,Kharif,2023,168.1,6365.9,37.87
+Karnataka,Mandya,Sugarcane,Kharif,2024,164.9,2372.9,14.39
+Karnataka,Mandya,Sugarcane,Rabi,2005,190.3,574.7,3.02
+Karnataka,Mandya,Sugarcane,Rabi,2006,588.0,10978.0,18.67
+Karnataka,Mandya,Sugarcane,Rabi,2007,374.6,4128.1,11.02
+Karnataka,Mandya,Sugarcane,Rabi,2008,288.6,5365.1,18.59
+Karnataka,Mandya,Sugarcane,Rabi,2009,211.4,3695.3,17.48
+Karnataka,Mandya,Sugarcane,Rabi,2010,575.6,7333.1,12.74
+Karnataka,Mandya,Sugarcane,Rabi,2011,187.8,5096.9,27.14
+Karnataka,Mandya,Sugarcane,Rabi,2012,390.8,2383.9,6.1
+Karnataka,Mandya,Sugarcane,Rabi,2013,692.2,15387.6,22.23
+Karnataka,Mandya,Sugarcane,Rabi,2014,218.0,2600.7,11.93
+Karnataka,Mandya,Sugarcane,Rabi,2015,701.3,12455.1,17.76
+Karnataka,Mandya,Sugarcane,Rabi,2016,622.1,2295.5,3.69
+Karnataka,Mandya,Sugarcane,Rabi,2017,259.4,4801.5,18.51
+Karnataka,Mandya,Sugarcane,Rabi,2018,395.8,1884.0,4.76
+Karnataka,Mandya,Sugarcane,Rabi,2019,519.9,1809.3,3.48
+Karnataka,Mandya,Sugarcane,Rabi,2020,263.7,6692.7,25.38
+Karnataka,Mandya,Sugarcane,Rabi,2021,56.2,227.6,4.05
+Karnataka,Mandya,Sugarcane,Rabi,2022,621.4,25427.7,40.92
+Karnataka,Mandya,Sugarcane,Rabi,2023,680.0,8534.0,12.55
+Karnataka,Mandya,Sugarcane,Rabi,2024,622.4,13375.4,21.49
+Maharashtra,Nashik,Sugarcane,Kharif,2005,514.5,25298.0,49.17
+Maharashtra,Nashik,Sugarcane,Kharif,2006,319.1,12821.4,40.18
+Maharashtra,Nashik,Sugarcane,Kharif,2007,708.8,21625.5,30.51
+Maharashtra,Nashik,Sugarcane,Kharif,2008,282.3,10510.0,37.23
+Maharashtra,Nashik,Sugarcane,Kharif,2009,250.5,16224.9,64.77
+Maharashtra,Nashik,Sugarcane,Kharif,2010,438.3,18014.1,41.1
+Maharashtra,Nashik,Sugarcane,Kharif,2011,491.7,29030.0,59.04
+Maharashtra,Nashik,Sugarcane,Kharif,2012,204.2,10975.8,53.75
+Maharashtra,Nashik,Sugarcane,Kharif,2013,381.2,4105.5,10.77
+Maharashtra,Nashik,Sugarcane,Kharif,2014,152.0,9255.3,60.89
+Maharashtra,Nashik,Sugarcane,Kharif,2015,281.9,14393.8,51.06
+Maharashtra,Nashik,Sugarcane,Kharif,2016,239.1,2725.7,11.4
+Maharashtra,Nashik,Sugarcane,Kharif,2017,185.5,11120.7,59.95
+Maharashtra,Nashik,Sugarcane,Kharif,2018,164.9,9931.9,60.23
+Maharashtra,Nashik,Sugarcane,Kharif,2019,240.4,8692.9,36.16
+Maharashtra,Nashik,Sugarcane,Kharif,2020,297.9,6255.9,21.0
+Maharashtra,Nashik,Sugarcane,Kharif,2021,356.1,23962.0,67.29
+Maharashtra,Nashik,Sugarcane,Kharif,2022,297.2,23538.2,79.2
+Maharashtra,Nashik,Sugarcane,Kharif,2023,425.3,5975.5,14.05
+Maharashtra,Nashik,Sugarcane,Kharif,2024,316.0,3577.1,11.32
+Maharashtra,Nashik,Sugarcane,Rabi,2005,539.7,1840.4,3.41
+Maharashtra,Nashik,Sugarcane,Rabi,2006,293.6,2307.7,7.86
+Maharashtra,Nashik,Sugarcane,Rabi,2007,354.0,4856.9,13.72
+Maharashtra,Nashik,Sugarcane,Rabi,2008,306.4,1081.6,3.53
+Maharashtra,Nashik,Sugarcane,Rabi,2009,478.6,3527.3,7.37
+Maharashtra,Nashik,Sugarcane,Rabi,2010,367.3,1645.5,4.48
+Maharashtra,Nashik,Sugarcane,Rabi,2011,391.4,5381.8,13.75
+Maharashtra,Nashik,Sugarcane,Rabi,2012,217.3,880.1,4.05
+Maharashtra,Nashik,Sugarcane,Rabi,2013,621.3,9151.7,14.73
+Maharashtra,Nashik,Sugarcane,Rabi,2014,123.1,982.3,7.98
+Maharashtra,Nashik,Sugarcane,Rabi,2015,350.9,2600.2,7.41
+Maharashtra,Nashik,Sugarcane,Rabi,2016,166.0,2471.7,14.89
+Maharashtra,Nashik,Sugarcane,Rabi,2017,361.5,1362.9,3.77
+Maharashtra,Nashik,Sugarcane,Rabi,2018,255.5,1428.2,5.59
+Maharashtra,Nashik,Sugarcane,Rabi,2019,462.5,1863.9,4.03
+Maharashtra,Nashik,Sugarcane,Rabi,2020,846.1,3976.7,4.7
+Maharashtra,Nashik,Sugarcane,Rabi,2021,147.4,1196.9,8.12
+Maharashtra,Nashik,Sugarcane,Rabi,2022,169.6,2160.7,12.74
+Maharashtra,Nashik,Sugarcane,Rabi,2023,580.2,2454.2,4.23
+Maharashtra,Nashik,Sugarcane,Rabi,2024,230.1,3775.9,16.41
+Bihar,Patna,Sugarcane,Kharif,2009,324.0,5381.6,16.61
+Bihar,Patna,Sugarcane,Rabi,2022,527.1,1576.0,2.99
+Gujarat,Rajkot,Sugarcane,Kharif,2020,388.2,4087.7,10.53
+Gujarat,Rajkot,Sugarcane,Rabi,2009,388.2,3971.3,10.23
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2005,166.4,9553.0,57.41
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2006,320.0,15068.8,47.09
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2007,560.3,32811.2,58.56
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2008,698.5,8787.1,12.58
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2009,590.5,24594.3,41.65
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2010,145.6,8498.7,58.37
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2011,161.8,7577.1,46.83
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2012,247.8,14005.7,56.52
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2013,336.9,4315.7,12.81
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2014,165.1,5570.5,33.74
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2015,248.2,11052.3,44.53
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2016,136.6,7928.3,58.04
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2017,180.0,11687.4,64.93
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2018,171.2,11696.4,68.32
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2019,234.3,18214.5,77.74
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2020,223.1,9849.9,44.15
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2021,291.5,21130.8,72.49
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2022,184.7,1316.9,7.13
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2023,235.6,14736.8,62.55
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,2024,255.3,4097.6,16.05
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2005,318.6,11746.8,36.87
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2006,508.5,26477.6,52.07
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2007,312.0,14011.9,44.91
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2008,106.6,1165.1,10.93
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2009,273.7,11766.4,42.99
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2010,620.3,22870.5,36.87
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2011,420.2,3542.3,8.43
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2012,293.6,13816.8,47.06
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2013,391.2,3876.8,9.91
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2014,248.7,12357.9,49.69
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2015,185.6,2011.9,10.84
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2016,399.0,15481.2,38.8
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2017,284.3,2499.0,8.79
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2018,102.2,839.1,8.21
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2019,430.9,15930.4,36.97
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2020,401.5,4071.2,10.14
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2021,617.6,34950.0,56.59
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2022,544.3,7190.2,13.21
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2023,548.1,22713.3,41.44
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,2024,412.9,4521.3,10.95
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2005,230.6,13533.9,58.69
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2006,738.5,50720.2,68.68
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2007,308.2,16424.0,53.29
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2008,92.9,4210.2,45.32
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2009,718.5,48606.5,67.65
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2010,147.3,3658.9,24.84
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2011,258.1,18289.0,70.86
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2012,331.5,20277.9,61.17
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2013,283.1,12074.2,42.65
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2014,884.2,62645.6,70.85
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2015,133.8,2912.8,21.77
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2016,163.9,11812.3,72.07
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2017,827.0,60751.4,73.46
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2018,122.8,3195.3,26.02
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2019,115.1,5450.0,47.35
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2020,301.6,16183.9,53.66
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2021,524.7,39027.2,74.38
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2022,170.1,2354.2,13.84
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2023,235.6,5805.2,24.64
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,2024,564.3,44901.4,79.57
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2005,203.5,1680.9,8.26
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2006,327.2,2493.3,7.62
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2007,230.4,1976.8,8.58
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2008,573.5,4989.4,8.7
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2009,340.2,1231.5,3.62
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2010,185.6,1453.2,7.83
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2011,532.9,5355.6,10.05
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2012,410.6,1728.6,4.21
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2013,500.6,2177.6,4.35
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2014,789.9,7962.2,10.08
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2015,876.9,3709.3,4.23
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2016,356.9,3836.7,10.75
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2017,155.4,1507.4,9.7
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2018,303.4,2463.6,8.12
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2019,116.9,489.8,4.19
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2020,574.1,2428.4,4.23
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2021,486.7,5455.9,11.21
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2022,90.1,823.5,9.14
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2023,467.1,4951.3,10.6
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,2024,682.4,7540.5,11.05
+West Bengal,Burdwan,Tomato,Rabi,2006,222.6,741.3,3.33
+West Bengal,Burdwan,Tomato,Rabi,2008,731.2,5155.0,7.05
+West Bengal,Burdwan,Tomato,Rabi,2015,1128.4,3836.6,3.4
+West Bengal,Burdwan,Tomato,Rabi,2017,153.1,886.4,5.79
+West Bengal,Burdwan,Tomato,Summer,2013,284.9,407.4,1.43
+West Bengal,Burdwan,Tomato,Summer,2015,258.6,1088.7,4.21
+West Bengal,Burdwan,Tomato,Summer,2018,306.2,1546.3,5.05
+West Bengal,Burdwan,Tomato,Summer,2024,548.9,2854.3,5.2
+Andhra Pradesh,Guntur,Tomato,Kharif,2005,795.8,740.1,0.93
+Andhra Pradesh,Guntur,Tomato,Kharif,2006,377.2,2033.1,5.39
+Andhra Pradesh,Guntur,Tomato,Kharif,2007,476.4,466.9,0.98
+Andhra Pradesh,Guntur,Tomato,Kharif,2008,357.7,1348.5,3.77
+Andhra Pradesh,Guntur,Tomato,Kharif,2009,746.3,753.8,1.01
+Andhra Pradesh,Guntur,Tomato,Kharif,2010,312.9,278.5,0.89
+Andhra Pradesh,Guntur,Tomato,Kharif,2011,292.1,300.9,1.03
+Andhra Pradesh,Guntur,Tomato,Kharif,2012,277.7,455.4,1.64
+Andhra Pradesh,Guntur,Tomato,Kharif,2013,265.7,257.7,0.97
+Andhra Pradesh,Guntur,Tomato,Kharif,2014,417.3,1034.9,2.48
+Andhra Pradesh,Guntur,Tomato,Kharif,2015,238.3,245.4,1.03
+Andhra Pradesh,Guntur,Tomato,Kharif,2016,366.0,395.3,1.08
+Andhra Pradesh,Guntur,Tomato,Kharif,2017,299.6,1231.4,4.11
+Andhra Pradesh,Guntur,Tomato,Kharif,2018,158.1,159.7,1.01
+Andhra Pradesh,Guntur,Tomato,Kharif,2019,404.1,501.1,1.24
+Andhra Pradesh,Guntur,Tomato,Kharif,2020,551.4,584.5,1.06
+Andhra Pradesh,Guntur,Tomato,Kharif,2021,475.9,471.1,0.99
+Andhra Pradesh,Guntur,Tomato,Kharif,2022,59.9,63.5,1.06
+Andhra Pradesh,Guntur,Tomato,Kharif,2023,141.0,153.7,1.09
+Andhra Pradesh,Guntur,Tomato,Kharif,2024,227.7,1395.8,6.13
+Andhra Pradesh,Guntur,Tomato,Rabi,2005,202.7,3375.0,16.65
+Andhra Pradesh,Guntur,Tomato,Rabi,2006,513.4,1873.9,3.65
+Andhra Pradesh,Guntur,Tomato,Rabi,2007,534.7,10555.0,19.74
+Andhra Pradesh,Guntur,Tomato,Rabi,2008,247.8,4140.7,16.71
+Andhra Pradesh,Guntur,Tomato,Rabi,2009,827.6,3120.1,3.77
+Andhra Pradesh,Guntur,Tomato,Rabi,2010,405.7,7408.1,18.26
+Andhra Pradesh,Guntur,Tomato,Rabi,2011,237.5,862.1,3.63
+Andhra Pradesh,Guntur,Tomato,Rabi,2012,92.7,1753.0,18.91
+Andhra Pradesh,Guntur,Tomato,Rabi,2013,677.6,2669.7,3.94
+Andhra Pradesh,Guntur,Tomato,Rabi,2014,237.2,4755.9,20.05
+Andhra Pradesh,Guntur,Tomato,Rabi,2015,257.0,4975.5,19.36
+Andhra Pradesh,Guntur,Tomato,Rabi,2016,591.7,2390.5,4.04
+Andhra Pradesh,Guntur,Tomato,Rabi,2017,484.9,10037.4,20.7
+Andhra Pradesh,Guntur,Tomato,Rabi,2018,619.6,11307.7,18.25
+Andhra Pradesh,Guntur,Tomato,Rabi,2019,277.6,1152.0,4.15
+Andhra Pradesh,Guntur,Tomato,Rabi,2020,500.1,9947.0,19.89
+Andhra Pradesh,Guntur,Tomato,Rabi,2021,429.6,9146.2,21.29
+Andhra Pradesh,Guntur,Tomato,Rabi,2022,407.7,7436.4,18.24
+Andhra Pradesh,Guntur,Tomato,Rabi,2023,189.0,839.2,4.44
+Andhra Pradesh,Guntur,Tomato,Rabi,2024,365.9,8360.8,22.85
+Andhra Pradesh,Guntur,Tomato,Summer,2005,565.9,1669.4,2.95
+Andhra Pradesh,Guntur,Tomato,Summer,2006,332.2,860.4,2.59
+Andhra Pradesh,Guntur,Tomato,Summer,2007,70.7,222.7,3.15
+Andhra Pradesh,Guntur,Tomato,Summer,2008,832.7,2556.4,3.07
+Andhra Pradesh,Guntur,Tomato,Summer,2009,425.5,1144.6,2.69
+Andhra Pradesh,Guntur,Tomato,Summer,2010,444.3,1946.0,4.38
+Andhra Pradesh,Guntur,Tomato,Summer,2011,192.9,192.9,1.0
+Andhra Pradesh,Guntur,Tomato,Summer,2012,815.8,2414.8,2.96
+Andhra Pradesh,Guntur,Tomato,Summer,2013,147.8,645.9,4.37
+Andhra Pradesh,Guntur,Tomato,Summer,2014,241.4,1035.6,4.29
+Andhra Pradesh,Guntur,Tomato,Summer,2015,326.9,967.6,2.96
+Andhra Pradesh,Guntur,Tomato,Summer,2016,479.5,1486.5,3.1
+Andhra Pradesh,Guntur,Tomato,Summer,2017,641.2,1942.8,3.03
+Andhra Pradesh,Guntur,Tomato,Summer,2018,850.8,901.8,1.06
+Andhra Pradesh,Guntur,Tomato,Summer,2019,478.7,1723.3,3.6
+Andhra Pradesh,Guntur,Tomato,Summer,2020,525.5,2811.4,5.35
+Andhra Pradesh,Guntur,Tomato,Summer,2021,406.3,1210.8,2.98
+Andhra Pradesh,Guntur,Tomato,Summer,2022,310.5,1521.5,4.9
+Andhra Pradesh,Guntur,Tomato,Summer,2023,621.0,2881.4,4.64
+Andhra Pradesh,Guntur,Tomato,Summer,2024,248.5,772.8,3.11
+Madhya Pradesh,Indore,Tomato,Kharif,2016,479.4,1562.8,3.26
+Madhya Pradesh,Indore,Tomato,Rabi,2021,309.2,324.7,1.05
+Madhya Pradesh,Indore,Tomato,Summer,2007,655.5,1586.3,2.42
+Madhya Pradesh,Indore,Tomato,Summer,2009,450.7,1469.3,3.26
+Madhya Pradesh,Indore,Tomato,Summer,2010,369.8,913.4,2.47
+Madhya Pradesh,Indore,Tomato,Summer,2018,396.1,1164.5,2.94
+Madhya Pradesh,Indore,Tomato,Summer,2023,114.3,329.2,2.88
+Haryana,Karnal,Tomato,Summer,2015,266.2,838.5,3.15
+Rajasthan,Kota,Tomato,Kharif,2005,401.7,273.2,0.68
+Rajasthan,Kota,Tomato,Kharif,2006,373.6,295.1,0.79
+Rajasthan,Kota,Tomato,Kharif,2007,615.0,479.7,0.78
+Rajasthan,Kota,Tomato,Kharif,2008,626.1,475.8,0.76
+Rajasthan,Kota,Tomato,Kharif,2009,341.2,290.0,0.85
+Rajasthan,Kota,Tomato,Kharif,2010,97.8,78.2,0.8
+Rajasthan,Kota,Tomato,Kharif,2011,327.9,265.6,0.81
+Rajasthan,Kota,Tomato,Kharif,2012,486.6,413.6,0.85
+Rajasthan,Kota,Tomato,Kharif,2013,525.0,456.8,0.87
+Rajasthan,Kota,Tomato,Kharif,2014,280.3,215.8,0.77
+Rajasthan,Kota,Tomato,Kharif,2015,264.9,233.1,0.88
+Rajasthan,Kota,Tomato,Kharif,2016,145.4,132.3,0.91
+Rajasthan,Kota,Tomato,Kharif,2017,295.1,244.9,0.83
+Rajasthan,Kota,Tomato,Kharif,2018,308.8,262.5,0.85
+Rajasthan,Kota,Tomato,Kharif,2019,282.7,254.4,0.9
+Rajasthan,Kota,Tomato,Kharif,2020,474.7,432.0,0.91
+Rajasthan,Kota,Tomato,Kharif,2021,351.4,312.7,0.89
+Rajasthan,Kota,Tomato,Kharif,2022,84.8,138.2,1.63
+Rajasthan,Kota,Tomato,Kharif,2023,458.9,454.3,0.99
+Rajasthan,Kota,Tomato,Kharif,2024,168.2,158.1,0.94
+Rajasthan,Kota,Tomato,Rabi,2005,303.9,893.5,2.94
+Rajasthan,Kota,Tomato,Rabi,2006,261.7,526.0,2.01
+Rajasthan,Kota,Tomato,Rabi,2007,576.6,1216.6,2.11
+Rajasthan,Kota,Tomato,Rabi,2008,267.3,633.5,2.37
+Rajasthan,Kota,Tomato,Rabi,2009,584.7,1309.7,2.24
+Rajasthan,Kota,Tomato,Rabi,2010,172.9,325.1,1.88
+Rajasthan,Kota,Tomato,Rabi,2011,190.2,384.2,2.02
+Rajasthan,Kota,Tomato,Rabi,2012,700.1,2289.3,3.27
+Rajasthan,Kota,Tomato,Rabi,2013,410.6,796.6,1.94
+Rajasthan,Kota,Tomato,Rabi,2014,684.1,1977.0,2.89
+Rajasthan,Kota,Tomato,Rabi,2015,237.9,485.3,2.04
+Rajasthan,Kota,Tomato,Rabi,2016,708.3,2167.4,3.06
+Rajasthan,Kota,Tomato,Rabi,2017,91.1,303.4,3.33
+Rajasthan,Kota,Tomato,Rabi,2018,471.5,1442.8,3.06
+Rajasthan,Kota,Tomato,Rabi,2019,562.2,1911.5,3.4
+Rajasthan,Kota,Tomato,Rabi,2020,670.3,1856.7,2.77
+Rajasthan,Kota,Tomato,Rabi,2021,400.3,968.7,2.42
+Rajasthan,Kota,Tomato,Rabi,2022,418.6,1712.1,4.09
+Rajasthan,Kota,Tomato,Rabi,2023,240.5,740.7,3.08
+Rajasthan,Kota,Tomato,Rabi,2024,245.1,622.6,2.54
+Rajasthan,Kota,Tomato,Summer,2005,159.2,428.2,2.69
+Rajasthan,Kota,Tomato,Summer,2006,269.4,433.7,1.61
+Rajasthan,Kota,Tomato,Summer,2007,303.6,534.3,1.76
+Rajasthan,Kota,Tomato,Summer,2008,153.4,299.1,1.95
+Rajasthan,Kota,Tomato,Summer,2009,470.6,978.8,2.08
+Rajasthan,Kota,Tomato,Summer,2010,594.0,1603.8,2.7
+Rajasthan,Kota,Tomato,Summer,2011,200.9,345.5,1.72
+Rajasthan,Kota,Tomato,Summer,2012,279.8,587.6,2.1
+Rajasthan,Kota,Tomato,Summer,2013,233.2,592.3,2.54
+Rajasthan,Kota,Tomato,Summer,2014,285.0,615.6,2.16
+Rajasthan,Kota,Tomato,Summer,2015,279.5,584.2,2.09
+Rajasthan,Kota,Tomato,Summer,2016,214.7,457.3,2.13
+Rajasthan,Kota,Tomato,Summer,2017,381.2,720.5,1.89
+Rajasthan,Kota,Tomato,Summer,2018,221.6,542.9,2.45
+Rajasthan,Kota,Tomato,Summer,2019,399.7,971.3,2.43
+Rajasthan,Kota,Tomato,Summer,2020,205.0,469.4,2.29
+Rajasthan,Kota,Tomato,Summer,2021,215.0,410.6,1.91
+Rajasthan,Kota,Tomato,Summer,2022,524.3,1095.8,2.09
+Rajasthan,Kota,Tomato,Summer,2023,170.5,361.5,2.12
+Rajasthan,Kota,Tomato,Summer,2024,935.3,2123.1,2.27
+Punjab,Ludhiana,Tomato,Kharif,2019,288.1,319.8,1.11
+Punjab,Ludhiana,Tomato,Rabi,2011,591.0,2210.3,3.74
+Punjab,Ludhiana,Tomato,Summer,2015,160.6,544.4,3.39
+Karnataka,Mandya,Tomato,Kharif,2005,165.2,3130.5,18.95
+Karnataka,Mandya,Tomato,Kharif,2006,312.0,6957.6,22.3
+Karnataka,Mandya,Tomato,Kharif,2007,304.8,2103.1,6.9
+Karnataka,Mandya,Tomato,Kharif,2008,464.8,6679.2,14.37
+Karnataka,Mandya,Tomato,Kharif,2009,137.6,1184.7,8.61
+Karnataka,Mandya,Tomato,Kharif,2010,268.9,2011.4,7.48
+Karnataka,Mandya,Tomato,Kharif,2011,312.5,1550.0,4.96
+Karnataka,Mandya,Tomato,Kharif,2012,257.3,1579.8,6.14
+Karnataka,Mandya,Tomato,Kharif,2013,236.0,1354.6,5.74
+Karnataka,Mandya,Tomato,Kharif,2014,308.1,1737.7,5.64
+Karnataka,Mandya,Tomato,Kharif,2015,214.4,1700.2,7.93
+Karnataka,Mandya,Tomato,Kharif,2016,118.5,1041.6,8.79
+Karnataka,Mandya,Tomato,Kharif,2017,484.8,12507.8,25.8
+Karnataka,Mandya,Tomato,Kharif,2018,90.1,508.2,5.64
+Karnataka,Mandya,Tomato,Kharif,2019,99.2,2397.7,24.17
+Karnataka,Mandya,Tomato,Kharif,2020,348.7,1893.4,5.43
+Karnataka,Mandya,Tomato,Kharif,2021,325.0,8047.0,24.76
+Karnataka,Mandya,Tomato,Kharif,2022,442.5,1110.7,2.51
+Karnataka,Mandya,Tomato,Kharif,2023,620.4,8933.8,14.4
+Karnataka,Mandya,Tomato,Kharif,2024,270.8,4297.6,15.87
+Karnataka,Mandya,Tomato,Rabi,2005,177.6,4012.0,22.59
+Karnataka,Mandya,Tomato,Rabi,2006,251.9,5871.8,23.31
+Karnataka,Mandya,Tomato,Rabi,2007,225.7,4644.9,20.58
+Karnataka,Mandya,Tomato,Rabi,2008,882.7,3804.4,4.31
+Karnataka,Mandya,Tomato,Rabi,2009,315.3,8831.6,28.01
+Karnataka,Mandya,Tomato,Rabi,2010,700.5,13281.5,18.96
+Karnataka,Mandya,Tomato,Rabi,2011,282.0,6948.5,24.64
+Karnataka,Mandya,Tomato,Rabi,2012,570.5,14131.3,24.77
+Karnataka,Mandya,Tomato,Rabi,2013,248.4,4861.2,19.57
+Karnataka,Mandya,Tomato,Rabi,2014,259.3,5621.6,21.68
+Karnataka,Mandya,Tomato,Rabi,2015,343.9,10241.3,29.78
+Karnataka,Mandya,Tomato,Rabi,2016,306.8,6553.2,21.36
+Karnataka,Mandya,Tomato,Rabi,2017,250.8,5495.0,21.91
+Karnataka,Mandya,Tomato,Rabi,2018,458.4,12156.8,26.52
+Karnataka,Mandya,Tomato,Rabi,2019,570.4,6274.4,11.0
+Karnataka,Mandya,Tomato,Rabi,2020,77.0,1893.4,24.59
+Karnataka,Mandya,Tomato,Rabi,2021,577.0,12018.9,20.83
+Karnataka,Mandya,Tomato,Rabi,2022,746.2,22303.9,29.89
+Karnataka,Mandya,Tomato,Rabi,2023,381.0,8622.0,22.63
+Karnataka,Mandya,Tomato,Rabi,2024,94.2,2523.6,26.79
+Karnataka,Mandya,Tomato,Summer,2005,204.8,280.6,1.37
+Karnataka,Mandya,Tomato,Summer,2006,374.7,438.4,1.17
+Karnataka,Mandya,Tomato,Summer,2007,116.9,578.7,4.95
+Karnataka,Mandya,Tomato,Summer,2008,791.6,8905.5,11.25
+Karnataka,Mandya,Tomato,Summer,2009,332.2,1611.2,4.85
+Karnataka,Mandya,Tomato,Summer,2010,431.9,665.1,1.54
+Karnataka,Mandya,Tomato,Summer,2011,272.0,2143.4,7.88
+Karnataka,Mandya,Tomato,Summer,2012,488.8,3260.3,6.67
+Karnataka,Mandya,Tomato,Summer,2013,901.2,8750.7,9.71
+Karnataka,Mandya,Tomato,Summer,2014,310.4,1977.2,6.37
+Karnataka,Mandya,Tomato,Summer,2015,1153.7,5272.4,4.57
+Karnataka,Mandya,Tomato,Summer,2016,216.5,1907.4,8.81
+Karnataka,Mandya,Tomato,Summer,2017,236.3,567.1,2.4
+Karnataka,Mandya,Tomato,Summer,2018,35.6,56.2,1.58
+Karnataka,Mandya,Tomato,Summer,2019,370.7,548.6,1.48
+Karnataka,Mandya,Tomato,Summer,2020,464.4,905.6,1.95
+Karnataka,Mandya,Tomato,Summer,2021,281.2,1990.9,7.08
+Karnataka,Mandya,Tomato,Summer,2022,347.8,1763.3,5.07
+Karnataka,Mandya,Tomato,Summer,2023,211.9,343.3,1.62
+Karnataka,Mandya,Tomato,Summer,2024,282.0,3293.8,11.68
+Maharashtra,Nashik,Tomato,Kharif,2005,279.1,1080.1,3.87
+Maharashtra,Nashik,Tomato,Kharif,2006,304.5,1004.8,3.3
+Maharashtra,Nashik,Tomato,Kharif,2007,531.6,1589.5,2.99
+Maharashtra,Nashik,Tomato,Kharif,2008,402.4,1126.7,2.8
+Maharashtra,Nashik,Tomato,Kharif,2009,259.1,720.3,2.78
+Maharashtra,Nashik,Tomato,Kharif,2010,356.9,1391.9,3.9
+Maharashtra,Nashik,Tomato,Kharif,2011,684.4,3175.6,4.64
+Maharashtra,Nashik,Tomato,Kharif,2012,1569.6,7361.4,4.69
+Maharashtra,Nashik,Tomato,Kharif,2013,302.9,4149.7,13.7
+Maharashtra,Nashik,Tomato,Kharif,2014,289.8,999.8,3.45
+Maharashtra,Nashik,Tomato,Kharif,2015,746.9,2569.3,3.44
+Maharashtra,Nashik,Tomato,Kharif,2016,372.3,5480.3,14.72
+Maharashtra,Nashik,Tomato,Kharif,2017,200.7,788.8,3.93
+Maharashtra,Nashik,Tomato,Kharif,2018,206.8,618.3,2.99
+Maharashtra,Nashik,Tomato,Kharif,2019,330.3,1208.9,3.66
+Maharashtra,Nashik,Tomato,Kharif,2020,193.7,867.8,4.48
+Maharashtra,Nashik,Tomato,Kharif,2021,400.4,1645.6,4.11
+Maharashtra,Nashik,Tomato,Kharif,2022,383.8,759.9,1.98
+Maharashtra,Nashik,Tomato,Kharif,2023,334.6,983.7,2.94
+Maharashtra,Nashik,Tomato,Kharif,2024,222.3,838.1,3.77
+Maharashtra,Nashik,Tomato,Rabi,2005,276.4,1528.5,5.53
+Maharashtra,Nashik,Tomato,Rabi,2006,254.7,1006.1,3.95
+Maharashtra,Nashik,Tomato,Rabi,2007,386.4,1584.2,4.1
+Maharashtra,Nashik,Tomato,Rabi,2008,153.2,1006.5,6.57
+Maharashtra,Nashik,Tomato,Rabi,2009,254.9,405.3,1.59
+Maharashtra,Nashik,Tomato,Rabi,2010,307.9,3042.1,9.88
+Maharashtra,Nashik,Tomato,Rabi,2011,282.7,1922.4,6.8
+Maharashtra,Nashik,Tomato,Rabi,2012,268.9,2385.1,8.87
+Maharashtra,Nashik,Tomato,Rabi,2013,473.4,3735.1,7.89
+Maharashtra,Nashik,Tomato,Rabi,2014,89.0,553.6,6.22
+Maharashtra,Nashik,Tomato,Rabi,2015,392.8,848.4,2.16
+Maharashtra,Nashik,Tomato,Rabi,2016,601.2,739.5,1.23
+Maharashtra,Nashik,Tomato,Rabi,2017,120.0,1231.2,10.26
+Maharashtra,Nashik,Tomato,Rabi,2018,377.4,3343.8,8.86
+Maharashtra,Nashik,Tomato,Rabi,2019,350.6,539.9,1.54
+Maharashtra,Nashik,Tomato,Rabi,2020,564.5,846.8,1.5
+Maharashtra,Nashik,Tomato,Rabi,2021,329.6,1450.2,4.4
+Maharashtra,Nashik,Tomato,Rabi,2022,94.3,458.3,4.86
+Maharashtra,Nashik,Tomato,Rabi,2023,245.3,686.8,2.8
+Maharashtra,Nashik,Tomato,Rabi,2024,373.1,1332.0,3.57
+Maharashtra,Nashik,Tomato,Summer,2005,284.1,1073.9,3.78
+Maharashtra,Nashik,Tomato,Summer,2006,339.1,349.3,1.03
+Maharashtra,Nashik,Tomato,Summer,2007,761.2,2382.6,3.13
+Maharashtra,Nashik,Tomato,Summer,2008,163.3,166.6,1.02
+Maharashtra,Nashik,Tomato,Summer,2009,232.1,234.4,1.01
+Maharashtra,Nashik,Tomato,Summer,2010,349.3,1739.5,4.98
+Maharashtra,Nashik,Tomato,Summer,2011,211.7,846.8,4.0
+Maharashtra,Nashik,Tomato,Summer,2012,527.2,2272.2,4.31
+Maharashtra,Nashik,Tomato,Summer,2013,537.2,2578.6,4.8
+Maharashtra,Nashik,Tomato,Summer,2014,849.2,3311.9,3.9
+Maharashtra,Nashik,Tomato,Summer,2015,220.0,281.6,1.28
+Maharashtra,Nashik,Tomato,Summer,2016,548.5,669.2,1.22
+Maharashtra,Nashik,Tomato,Summer,2017,213.2,577.8,2.71
+Maharashtra,Nashik,Tomato,Summer,2018,282.8,356.3,1.26
+Maharashtra,Nashik,Tomato,Summer,2019,445.7,517.0,1.16
+Maharashtra,Nashik,Tomato,Summer,2020,481.0,558.0,1.16
+Maharashtra,Nashik,Tomato,Summer,2021,228.3,269.4,1.18
+Maharashtra,Nashik,Tomato,Summer,2022,344.4,867.9,2.52
+Maharashtra,Nashik,Tomato,Summer,2023,243.6,747.9,3.07
+Maharashtra,Nashik,Tomato,Summer,2024,97.0,319.1,3.29
+Bihar,Patna,Tomato,Kharif,2007,380.9,491.4,1.29
+Bihar,Patna,Tomato,Kharif,2009,566.9,2375.3,4.19
+Bihar,Patna,Tomato,Kharif,2019,159.4,239.1,1.5
+Bihar,Patna,Tomato,Rabi,2010,429.2,1532.2,3.57
+Bihar,Patna,Tomato,Rabi,2016,305.4,965.1,3.16
+Bihar,Patna,Tomato,Rabi,2020,110.7,111.8,1.01
+Bihar,Patna,Tomato,Rabi,2021,447.0,491.7,1.1
+Bihar,Patna,Tomato,Summer,2022,341.0,886.6,2.6
+Gujarat,Rajkot,Tomato,Kharif,2017,525.3,472.8,0.9
+Gujarat,Rajkot,Tomato,Rabi,2008,155.8,445.6,2.86
+Gujarat,Rajkot,Tomato,Rabi,2017,631.2,6015.3,9.53
+Tamil Nadu,Thanjavur,Tomato,Kharif,2011,217.2,1090.3,5.02
+Tamil Nadu,Thanjavur,Tomato,Kharif,2018,526.1,1941.3,3.69
+Tamil Nadu,Thanjavur,Tomato,Rabi,2011,416.9,9980.6,23.94
+Tamil Nadu,Thanjavur,Tomato,Rabi,2016,114.3,2604.9,22.79
+Tamil Nadu,Thanjavur,Tomato,Rabi,2018,238.0,2568.0,10.79
+Tamil Nadu,Thanjavur,Tomato,Rabi,2024,384.8,2266.5,5.89
+Tamil Nadu,Thanjavur,Tomato,Summer,2010,609.4,688.6,1.13
+Uttar Pradesh,Varanasi,Tomato,Kharif,2005,249.0,348.6,1.4
+Uttar Pradesh,Varanasi,Tomato,Kharif,2006,295.8,319.5,1.08
+Uttar Pradesh,Varanasi,Tomato,Kharif,2007,443.2,483.1,1.09
+Uttar Pradesh,Varanasi,Tomato,Kharif,2008,525.9,825.7,1.57
+Uttar Pradesh,Varanasi,Tomato,Kharif,2009,177.2,179.0,1.01
+Uttar Pradesh,Varanasi,Tomato,Kharif,2010,271.0,281.8,1.04
+Uttar Pradesh,Varanasi,Tomato,Kharif,2011,354.4,365.0,1.03
+Uttar Pradesh,Varanasi,Tomato,Kharif,2012,250.4,530.8,2.12
+Uttar Pradesh,Varanasi,Tomato,Kharif,2013,750.9,803.5,1.07
+Uttar Pradesh,Varanasi,Tomato,Kharif,2014,625.9,1339.4,2.14
+Uttar Pradesh,Varanasi,Tomato,Kharif,2015,105.8,96.3,0.91
+Uttar Pradesh,Varanasi,Tomato,Kharif,2016,917.6,880.9,0.96
+Uttar Pradesh,Varanasi,Tomato,Kharif,2017,547.8,679.3,1.24
+Uttar Pradesh,Varanasi,Tomato,Kharif,2018,465.1,920.9,1.98
+Uttar Pradesh,Varanasi,Tomato,Kharif,2019,470.4,531.6,1.13
+Uttar Pradesh,Varanasi,Tomato,Kharif,2020,318.3,452.0,1.42
+Uttar Pradesh,Varanasi,Tomato,Kharif,2021,433.6,550.7,1.27
+Uttar Pradesh,Varanasi,Tomato,Kharif,2022,482.8,632.5,1.31
+Uttar Pradesh,Varanasi,Tomato,Kharif,2023,326.6,378.9,1.16
+Uttar Pradesh,Varanasi,Tomato,Kharif,2024,425.8,528.0,1.24
+Uttar Pradesh,Varanasi,Tomato,Rabi,2005,773.3,2374.0,3.07
+Uttar Pradesh,Varanasi,Tomato,Rabi,2006,353.0,1320.2,3.74
+Uttar Pradesh,Varanasi,Tomato,Rabi,2007,1330.6,1330.6,1.0
+Uttar Pradesh,Varanasi,Tomato,Rabi,2008,423.9,1708.3,4.03
+Uttar Pradesh,Varanasi,Tomato,Rabi,2009,193.2,575.7,2.98
+Uttar Pradesh,Varanasi,Tomato,Rabi,2010,266.0,667.7,2.51
+Uttar Pradesh,Varanasi,Tomato,Rabi,2011,395.6,478.7,1.21
+Uttar Pradesh,Varanasi,Tomato,Rabi,2012,157.6,535.8,3.4
+Uttar Pradesh,Varanasi,Tomato,Rabi,2013,1022.8,1186.4,1.16
+Uttar Pradesh,Varanasi,Tomato,Rabi,2014,300.0,354.0,1.18
+Uttar Pradesh,Varanasi,Tomato,Rabi,2015,338.0,1095.1,3.24
+Uttar Pradesh,Varanasi,Tomato,Rabi,2016,213.9,222.5,1.04
+Uttar Pradesh,Varanasi,Tomato,Rabi,2017,579.8,1930.7,3.33
+Uttar Pradesh,Varanasi,Tomato,Rabi,2018,542.7,1639.0,3.02
+Uttar Pradesh,Varanasi,Tomato,Rabi,2019,417.8,576.6,1.38
+Uttar Pradesh,Varanasi,Tomato,Rabi,2020,288.0,288.0,1.0
+Uttar Pradesh,Varanasi,Tomato,Rabi,2021,212.0,250.2,1.18
+Uttar Pradesh,Varanasi,Tomato,Rabi,2022,640.5,1197.7,1.87
+Uttar Pradesh,Varanasi,Tomato,Rabi,2023,164.3,708.1,4.31
+Uttar Pradesh,Varanasi,Tomato,Rabi,2024,242.6,366.3,1.51
+Uttar Pradesh,Varanasi,Tomato,Summer,2005,295.9,825.6,2.79
+Uttar Pradesh,Varanasi,Tomato,Summer,2006,342.6,325.5,0.95
+Uttar Pradesh,Varanasi,Tomato,Summer,2007,337.8,901.9,2.67
+Uttar Pradesh,Varanasi,Tomato,Summer,2008,424.9,560.9,1.32
+Uttar Pradesh,Varanasi,Tomato,Summer,2009,172.7,544.0,3.15
+Uttar Pradesh,Varanasi,Tomato,Summer,2010,650.1,1917.8,2.95
+Uttar Pradesh,Varanasi,Tomato,Summer,2011,763.9,2406.3,3.15
+Uttar Pradesh,Varanasi,Tomato,Summer,2012,274.0,345.2,1.26
+Uttar Pradesh,Varanasi,Tomato,Summer,2013,279.8,307.8,1.1
+Uttar Pradesh,Varanasi,Tomato,Summer,2014,352.4,881.0,2.5
+Uttar Pradesh,Varanasi,Tomato,Summer,2015,295.2,1233.9,4.18
+Uttar Pradesh,Varanasi,Tomato,Summer,2016,126.6,157.0,1.24
+Uttar Pradesh,Varanasi,Tomato,Summer,2017,327.8,1167.0,3.56
+Uttar Pradesh,Varanasi,Tomato,Summer,2018,325.1,321.8,0.99
+Uttar Pradesh,Varanasi,Tomato,Summer,2019,437.3,1613.6,3.69
+Uttar Pradesh,Varanasi,Tomato,Summer,2020,517.6,631.5,1.22
+Uttar Pradesh,Varanasi,Tomato,Summer,2021,140.0,134.4,0.96
+Uttar Pradesh,Varanasi,Tomato,Summer,2022,140.7,439.0,3.12
+Uttar Pradesh,Varanasi,Tomato,Summer,2023,443.1,1285.0,2.9
+Uttar Pradesh,Varanasi,Tomato,Summer,2024,410.2,484.0,1.18
+West Bengal,Burdwan,Wheat,Rabi,2005,292.8,152.3,0.52
+West Bengal,Burdwan,Wheat,Rabi,2006,392.5,718.3,1.83
+West Bengal,Burdwan,Wheat,Rabi,2007,229.4,440.4,1.92
+West Bengal,Burdwan,Wheat,Rabi,2008,188.8,409.7,2.17
+West Bengal,Burdwan,Wheat,Rabi,2009,502.9,744.3,1.48
+West Bengal,Burdwan,Wheat,Rabi,2010,202.1,291.0,1.44
+West Bengal,Burdwan,Wheat,Rabi,2011,479.3,992.2,2.07
+West Bengal,Burdwan,Wheat,Rabi,2012,599.4,713.3,1.19
+West Bengal,Burdwan,Wheat,Rabi,2013,351.2,712.9,2.03
+West Bengal,Burdwan,Wheat,Rabi,2014,430.9,486.9,1.13
+West Bengal,Burdwan,Wheat,Rabi,2015,412.9,334.4,0.81
+West Bengal,Burdwan,Wheat,Rabi,2016,610.3,1092.4,1.79
+West Bengal,Burdwan,Wheat,Rabi,2017,236.7,421.3,1.78
+West Bengal,Burdwan,Wheat,Rabi,2018,374.0,777.9,2.08
+West Bengal,Burdwan,Wheat,Rabi,2019,174.6,373.6,2.14
+West Bengal,Burdwan,Wheat,Rabi,2020,341.4,679.4,1.99
+West Bengal,Burdwan,Wheat,Rabi,2021,888.1,532.9,0.6
+West Bengal,Burdwan,Wheat,Rabi,2022,840.9,655.9,0.78
+West Bengal,Burdwan,Wheat,Rabi,2023,91.7,188.0,2.05
+West Bengal,Burdwan,Wheat,Rabi,2024,558.5,603.2,1.08
+Andhra Pradesh,Guntur,Wheat,Rabi,2019,615.2,116.9,0.19
+Madhya Pradesh,Indore,Wheat,Rabi,2005,822.4,1398.1,1.7
+Madhya Pradesh,Indore,Wheat,Rabi,2006,399.4,1198.2,3.0
+Madhya Pradesh,Indore,Wheat,Rabi,2007,370.9,845.7,2.28
+Madhya Pradesh,Indore,Wheat,Rabi,2008,835.6,351.0,0.42
+Madhya Pradesh,Indore,Wheat,Rabi,2009,704.1,302.8,0.43
+Madhya Pradesh,Indore,Wheat,Rabi,2010,179.4,435.9,2.43
+Madhya Pradesh,Indore,Wheat,Rabi,2011,407.0,858.8,2.11
+Madhya Pradesh,Indore,Wheat,Rabi,2012,258.8,872.2,3.37
+Madhya Pradesh,Indore,Wheat,Rabi,2013,137.7,411.7,2.99
+Madhya Pradesh,Indore,Wheat,Rabi,2014,359.3,147.3,0.41
+Madhya Pradesh,Indore,Wheat,Rabi,2015,372.9,682.4,1.83
+Madhya Pradesh,Indore,Wheat,Rabi,2016,54.5,123.7,2.27
+Madhya Pradesh,Indore,Wheat,Rabi,2017,451.3,279.8,0.62
+Madhya Pradesh,Indore,Wheat,Rabi,2018,333.8,938.0,2.81
+Madhya Pradesh,Indore,Wheat,Rabi,2019,363.2,1111.4,3.06
+Madhya Pradesh,Indore,Wheat,Rabi,2020,322.1,170.7,0.53
+Madhya Pradesh,Indore,Wheat,Rabi,2021,588.9,376.9,0.64
+Madhya Pradesh,Indore,Wheat,Rabi,2022,898.5,1114.1,1.24
+Madhya Pradesh,Indore,Wheat,Rabi,2023,573.9,361.6,0.63
+Madhya Pradesh,Indore,Wheat,Rabi,2024,309.9,886.3,2.86
+Haryana,Karnal,Wheat,Rabi,2005,1135.0,3575.2,3.15
+Haryana,Karnal,Wheat,Rabi,2006,600.0,1716.0,2.86
+Haryana,Karnal,Wheat,Rabi,2007,367.4,1138.9,3.1
+Haryana,Karnal,Wheat,Rabi,2008,185.9,656.2,3.53
+Haryana,Karnal,Wheat,Rabi,2009,331.8,1191.2,3.59
+Haryana,Karnal,Wheat,Rabi,2010,299.9,1121.6,3.74
+Haryana,Karnal,Wheat,Rabi,2011,743.4,2029.5,2.73
+Haryana,Karnal,Wheat,Rabi,2012,361.7,1414.2,3.91
+Haryana,Karnal,Wheat,Rabi,2013,501.2,1573.8,3.14
+Haryana,Karnal,Wheat,Rabi,2014,668.4,1851.5,2.77
+Haryana,Karnal,Wheat,Rabi,2015,345.6,1147.4,3.32
+Haryana,Karnal,Wheat,Rabi,2016,310.0,1041.6,3.36
+Haryana,Karnal,Wheat,Rabi,2017,450.6,1167.1,2.59
+Haryana,Karnal,Wheat,Rabi,2018,457.0,1531.0,3.35
+Haryana,Karnal,Wheat,Rabi,2019,133.6,363.4,2.72
+Haryana,Karnal,Wheat,Rabi,2020,540.7,2000.6,3.7
+Haryana,Karnal,Wheat,Rabi,2021,460.5,1266.4,2.75
+Haryana,Karnal,Wheat,Rabi,2022,357.9,1581.9,4.42
+Haryana,Karnal,Wheat,Rabi,2023,621.9,2916.7,4.69
+Haryana,Karnal,Wheat,Rabi,2024,550.6,2246.4,4.08
+Rajasthan,Kota,Wheat,Rabi,2005,642.7,1690.3,2.63
+Rajasthan,Kota,Wheat,Rabi,2006,497.8,1319.2,2.65
+Rajasthan,Kota,Wheat,Rabi,2007,597.7,1147.6,1.92
+Rajasthan,Kota,Wheat,Rabi,2008,227.4,616.3,2.71
+Rajasthan,Kota,Wheat,Rabi,2009,178.8,364.8,2.04
+Rajasthan,Kota,Wheat,Rabi,2010,67.3,163.5,2.43
+Rajasthan,Kota,Wheat,Rabi,2011,197.6,496.0,2.51
+Rajasthan,Kota,Wheat,Rabi,2012,253.7,804.2,3.17
+Rajasthan,Kota,Wheat,Rabi,2013,472.2,1747.1,3.7
+Rajasthan,Kota,Wheat,Rabi,2014,145.0,448.0,3.09
+Rajasthan,Kota,Wheat,Rabi,2015,559.5,1208.5,2.16
+Rajasthan,Kota,Wheat,Rabi,2016,1453.7,4550.1,3.13
+Rajasthan,Kota,Wheat,Rabi,2017,624.2,1591.7,2.55
+Rajasthan,Kota,Wheat,Rabi,2018,159.7,467.9,2.93
+Rajasthan,Kota,Wheat,Rabi,2019,191.3,604.5,3.16
+Rajasthan,Kota,Wheat,Rabi,2020,558.4,1641.7,2.94
+Rajasthan,Kota,Wheat,Rabi,2021,511.7,1269.0,2.48
+Rajasthan,Kota,Wheat,Rabi,2022,1178.1,2426.9,2.06
+Rajasthan,Kota,Wheat,Rabi,2023,582.5,1683.4,2.89
+Rajasthan,Kota,Wheat,Rabi,2024,301.3,1132.9,3.76
+Punjab,Ludhiana,Wheat,Rabi,2005,197.1,768.7,3.9
+Punjab,Ludhiana,Wheat,Rabi,2006,182.6,626.3,3.43
+Punjab,Ludhiana,Wheat,Rabi,2007,198.3,668.3,3.37
+Punjab,Ludhiana,Wheat,Rabi,2008,488.1,1830.4,3.75
+Punjab,Ludhiana,Wheat,Rabi,2009,135.0,513.0,3.8
+Punjab,Ludhiana,Wheat,Rabi,2010,359.7,1320.1,3.67
+Punjab,Ludhiana,Wheat,Rabi,2011,193.8,771.3,3.98
+Punjab,Ludhiana,Wheat,Rabi,2012,606.3,2370.6,3.91
+Punjab,Ludhiana,Wheat,Rabi,2013,414.1,1590.1,3.84
+Punjab,Ludhiana,Wheat,Rabi,2014,578.8,2297.8,3.97
+Punjab,Ludhiana,Wheat,Rabi,2015,368.2,1715.8,4.66
+Punjab,Ludhiana,Wheat,Rabi,2016,658.3,2290.9,3.48
+Punjab,Ludhiana,Wheat,Rabi,2017,175.6,709.4,4.04
+Punjab,Ludhiana,Wheat,Rabi,2018,209.8,877.0,4.18
+Punjab,Ludhiana,Wheat,Rabi,2019,131.0,458.5,3.5
+Punjab,Ludhiana,Wheat,Rabi,2020,103.0,415.1,4.03
+Punjab,Ludhiana,Wheat,Rabi,2021,309.0,1174.2,3.8
+Punjab,Ludhiana,Wheat,Rabi,2022,222.6,959.4,4.31
+Punjab,Ludhiana,Wheat,Rabi,2023,200.0,850.0,4.25
+Punjab,Ludhiana,Wheat,Rabi,2024,696.6,3232.2,4.64
+Karnataka,Mandya,Wheat,Rabi,2006,482.4,77.2,0.16
+Karnataka,Mandya,Wheat,Rabi,2021,618.8,185.6,0.3
+Maharashtra,Nashik,Wheat,Rabi,2008,242.7,133.5,0.55
+Maharashtra,Nashik,Wheat,Rabi,2024,489.7,1371.2,2.8
+Bihar,Patna,Wheat,Rabi,2005,529.6,1583.5,2.99
+Bihar,Patna,Wheat,Rabi,2006,130.3,478.2,3.67
+Bihar,Patna,Wheat,Rabi,2007,453.6,385.6,0.85
+Bihar,Patna,Wheat,Rabi,2008,1021.2,4125.6,4.04
+Bihar,Patna,Wheat,Rabi,2009,233.2,734.6,3.15
+Bihar,Patna,Wheat,Rabi,2010,264.9,1049.0,3.96
+Bihar,Patna,Wheat,Rabi,2011,454.4,404.4,0.89
+Bihar,Patna,Wheat,Rabi,2012,157.4,606.0,3.85
+Bihar,Patna,Wheat,Rabi,2013,236.2,207.9,0.88
+Bihar,Patna,Wheat,Rabi,2014,273.1,942.2,3.45
+Bihar,Patna,Wheat,Rabi,2015,194.3,614.0,3.16
+Bihar,Patna,Wheat,Rabi,2016,495.9,406.6,0.82
+Bihar,Patna,Wheat,Rabi,2017,152.2,488.6,3.21
+Bihar,Patna,Wheat,Rabi,2018,382.3,1177.5,3.08
+Bihar,Patna,Wheat,Rabi,2019,743.2,3136.3,4.22
+Bihar,Patna,Wheat,Rabi,2020,293.5,1147.6,3.91
+Bihar,Patna,Wheat,Rabi,2021,504.7,2129.8,4.22
+Bihar,Patna,Wheat,Rabi,2022,426.6,243.2,0.57
+Bihar,Patna,Wheat,Rabi,2023,355.4,330.5,0.93
+Bihar,Patna,Wheat,Rabi,2024,323.2,223.0,0.69
+Gujarat,Rajkot,Wheat,Rabi,2005,53.3,7.5,0.14
+Gujarat,Rajkot,Wheat,Rabi,2006,417.8,413.6,0.99
+Gujarat,Rajkot,Wheat,Rabi,2007,401.3,477.5,1.19
+Gujarat,Rajkot,Wheat,Rabi,2008,568.7,716.6,1.26
+Gujarat,Rajkot,Wheat,Rabi,2009,350.8,249.1,0.71
+Gujarat,Rajkot,Wheat,Rabi,2010,216.7,264.4,1.22
+Gujarat,Rajkot,Wheat,Rabi,2011,630.4,88.3,0.14
+Gujarat,Rajkot,Wheat,Rabi,2012,318.9,462.4,1.45
+Gujarat,Rajkot,Wheat,Rabi,2013,105.8,67.7,0.64
+Gujarat,Rajkot,Wheat,Rabi,2014,192.7,113.7,0.59
+Gujarat,Rajkot,Wheat,Rabi,2015,365.2,182.6,0.5
+Gujarat,Rajkot,Wheat,Rabi,2016,229.6,158.4,0.69
+Gujarat,Rajkot,Wheat,Rabi,2017,39.6,5.9,0.15
+Gujarat,Rajkot,Wheat,Rabi,2018,218.5,137.7,0.63
+Gujarat,Rajkot,Wheat,Rabi,2019,166.0,29.9,0.18
+Gujarat,Rajkot,Wheat,Rabi,2020,662.3,397.4,0.6
+Gujarat,Rajkot,Wheat,Rabi,2021,264.0,192.7,0.73
+Gujarat,Rajkot,Wheat,Rabi,2022,459.8,73.6,0.16
+Gujarat,Rajkot,Wheat,Rabi,2023,210.3,355.4,1.69
+Gujarat,Rajkot,Wheat,Rabi,2024,240.6,77.0,0.32
+Tamil Nadu,Thanjavur,Wheat,Rabi,2015,167.8,36.9,0.22
+Tamil Nadu,Thanjavur,Wheat,Rabi,2018,512.1,97.3,0.19
+Tamil Nadu,Thanjavur,Wheat,Rabi,2019,604.2,151.1,0.25
+Tamil Nadu,Thanjavur,Wheat,Rabi,2020,171.1,35.9,0.21
+Uttar Pradesh,Varanasi,Wheat,Rabi,2005,214.3,190.7,0.89
+Uttar Pradesh,Varanasi,Wheat,Rabi,2006,302.0,1066.1,3.53
+Uttar Pradesh,Varanasi,Wheat,Rabi,2007,488.5,400.6,0.82
+Uttar Pradesh,Varanasi,Wheat,Rabi,2008,375.8,1311.5,3.49
+Uttar Pradesh,Varanasi,Wheat,Rabi,2009,230.0,703.8,3.06
+Uttar Pradesh,Varanasi,Wheat,Rabi,2010,54.4,203.5,3.74
+Uttar Pradesh,Varanasi,Wheat,Rabi,2011,329.1,1250.6,3.8
+Uttar Pradesh,Varanasi,Wheat,Rabi,2012,621.7,2573.8,4.14
+Uttar Pradesh,Varanasi,Wheat,Rabi,2013,592.4,1960.8,3.31
+Uttar Pradesh,Varanasi,Wheat,Rabi,2014,470.7,1369.7,2.91
+Uttar Pradesh,Varanasi,Wheat,Rabi,2015,133.1,468.5,3.52
+Uttar Pradesh,Varanasi,Wheat,Rabi,2016,218.8,759.2,3.47
+Uttar Pradesh,Varanasi,Wheat,Rabi,2017,496.8,481.9,0.97
+Uttar Pradesh,Varanasi,Wheat,Rabi,2018,485.3,1897.5,3.91
+Uttar Pradesh,Varanasi,Wheat,Rabi,2019,104.9,108.0,1.03
+Uttar Pradesh,Varanasi,Wheat,Rabi,2020,222.8,283.0,1.27
+Uttar Pradesh,Varanasi,Wheat,Rabi,2021,445.7,1800.6,4.04
+Uttar Pradesh,Varanasi,Wheat,Rabi,2022,658.1,368.5,0.56
+Uttar Pradesh,Varanasi,Wheat,Rabi,2023,161.7,583.7,3.61
+Uttar Pradesh,Varanasi,Wheat,Rabi,2024,91.9,428.3,4.66
