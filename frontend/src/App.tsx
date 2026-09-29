@@ -9,6 +9,8 @@ import { fetchMetadata } from './services/api';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 import { DemoModal } from './components/DemoModal';
+import { StartupVideo } from './components/StartupVideo';
+import { TransitionLoader } from './components/TransitionLoader';
 
 import { HomePage } from './pages/HomePage';
 import { PredictPage } from './pages/PredictPage';
@@ -25,6 +27,8 @@ export function App() {
   const [darkMode, setDarkMode] = useState<boolean>(false);
   const [isDemoOpen, setIsDemoOpen] = useState<boolean>(false);
   const [metadata, setMetadata] = useState<MetadataResponse | null>(null);
+  const [showStartupVideo, setShowStartupVideo] = useState<boolean>(true);
+  const [isTransitioning, setIsTransitioning] = useState<boolean>(false);
 
   // Shared Farm Input State (defaulted to Ludhiana Rice)
   const [currentInputs, setCurrentInputs] = useState<PredictionRequest>({
@@ -93,18 +97,31 @@ export function App() {
     window.open(`https://api.whatsapp.com/send?text=${message}`, '_blank');
   };
 
+  const handleTabChange = (tab: string) => {
+    if (tab === activeTab) return;
+    setIsTransitioning(true);
+    setTimeout(() => {
+      setActiveTab(tab);
+      setTimeout(() => {
+        setIsTransitioning(false);
+      }, 300); // Wait for page to render before hiding loader
+    }, 800); // 800ms loading animation duration
+  };
+
   const handleNavigateToWhatIf = (inputs: PredictionRequest) => {
     setCurrentInputs(inputs);
-    setActiveTab('whatif');
+    handleTabChange('whatif');
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-farm-pattern text-slate-800 dark:text-emerald-50 transition-colors">
+    <div className="min-h-screen flex flex-col bg-farm-pattern text-slate-800 dark:text-emerald-50 transition-colors relative">
+      {showStartupVideo && <StartupVideo onComplete={() => setShowStartupVideo(false)} />}
+      <TransitionLoader isVisible={isTransitioning} />
       
       {/* Top Navbar */}
       <Navbar
         activeTab={activeTab}
-        setActiveTab={setActiveTab}
+        setActiveTab={handleTabChange}
         lang={lang}
         setLang={setLang}
         darkMode={darkMode}
@@ -117,7 +134,7 @@ export function App() {
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6">
         {activeTab === 'home' && (
           <HomePage
-            onNavigate={(tab) => setActiveTab(tab)}
+            onNavigate={handleTabChange}
             onOpenDemo={() => setIsDemoOpen(true)}
             lang={lang}
           />
@@ -246,7 +263,7 @@ export function App() {
       <DemoModal
         isOpen={isDemoOpen}
         onClose={() => setIsDemoOpen(false)}
-        onApplyScenario={(tab) => setActiveTab(tab)}
+        onApplyScenario={handleTabChange}
         lang={lang}
       />
 
